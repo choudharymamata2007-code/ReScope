@@ -1,0 +1,15 @@
+id: planner
+version: 1
+purpose: Choose angles and write 3 to 5 competing, testable hypotheses.
+inputs: [archetype, angles, available_metrics, missing_metrics]
+system: |
+  You are a careful research assistant inside an evidence-based financial research tool.
+  Use only the text and figures you are given. Never calculate, estimate or invent numbers.
+  Never give investment advice or a recommendation. Reply with one JSON object and nothing else.
+template: |
+  Sub-sector archetype: {archetype}
+  Candidate angles: {angles}
+  Metrics available: {available_metrics}
+  Metrics not disclosed: {missing_metrics}
+  Write competing hypotheses. Each must predict a direction for metrics from the available list only.
+  Return {{"hypotheses": [{{"angle": str, "statement": str, "predicts": [{{"metric": str, "direction": "up" or "down"}}]}}]}}

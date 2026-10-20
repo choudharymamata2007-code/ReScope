@@ -1,0 +1,7317 @@
+{
+ "schema_version": 1,
+ "company": "Crestline Durables Ltd",
+ "slug": "crestline-durables-ltd",
+ "label": "Fictional demo data",
+ "generated_at": "2026-10-18",
+ "profile": {
+  "input_name": "Crestline Durables Ltd",
+  "name": "Crestline Durables Ltd",
+  "nse_symbol": "CRESTDUR",
+  "bse_code": null,
+  "isin": null,
+  "sector": null,
+  "industry": "Consumer Durables",
+  "archetype": "discretionary_durables",
+  "archetype_confidence": 1.0,
+  "archetype_terms": [],
+  "match_score": 100.0,
+  "peers": [
+   {
+    "name": "Alder Appliances Ltd",
+    "symbol": "ALDERAP",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Birch Electricals Ltd",
+    "symbol": "BIRCHEL",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Cobalt Home Tech Ltd",
+    "symbol": "COBALTH",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   }
+  ],
+  "warnings": [],
+  "resolved_at": "2026-10-18T08:00:00Z"
+ },
+ "metrics": {
+  "Crestline Durables Ltd": {
+   "volume_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.05881,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.04822,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.03848,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.03687,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.02442,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.01645,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.00599,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": -0.0048,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": -0.01041,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": -0.02105,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -0.0281,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": -0.03838,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_mix_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.03271,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.03679,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.04179,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.04902,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.06088,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.0637,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.07487,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.08188,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.08466,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.09773,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.09899,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.11294,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 50.34105,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 49.71587,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 50.22624,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 50.23234,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 49.625,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 50.16995,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 49.62377,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 50.41322,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 50.18885,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 50.48,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 49.55353,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 49.8178,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 70.14388,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 70.12985,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 69.61851,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 70.46534,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 70.41583,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 69.7617,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 69.57509,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 70.20119,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 69.88863,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 70.19601,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 69.99192,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 69.87379,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.32809,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.33036,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.33347,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.33637,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.33698,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.34007,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.34107,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.34425,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.34517,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.34565,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.34674,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.34826,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 64.5396,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 65.36248,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 65.37459,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 65.25137,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 64.60933,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 65.16051,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 64.62766,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 65.38907,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 65.15544,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 65.24962,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 65.10906,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 64.91838,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.09152,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.085,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.08026,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.08588,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.08529,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.08015,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.08086,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.07707,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.07425,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.07668,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.07089,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.07455,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_share_of_growth": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.35744,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.43278,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.5206,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.57074,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.71374,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.7948,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.92598,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 1.06229,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 1.14022,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 1.27459,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 1.39632,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 1.51487,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 55.94533,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "fbd0d1c885ee866c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 54.48324,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "ff746ef3ee952cc5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 54.47016,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "5218fdcef8f22be0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 55.44631,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "6ff83ed12241a0e4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 55.43151,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "d83aeabeedcfbc0d",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 54.77115,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "45db8efaa9fcdad6",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 54.5712,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "07bfa84d064642fe",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 55.22535,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b90aa874dd07e24e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 54.92204,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "ad701ee22fb0589e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 55.42639,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b114b5da2be34db5",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 54.43639,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "d998cf6366af29f3",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 54.77321,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "cf91d93627bc00b5",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Alder Appliances Ltd": {
+   "volume_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.06348,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.05734,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.04287,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.03756,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.03324,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.02544,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.01547,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.00859,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.00649,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": -0.0077,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -0.01561,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": -0.01814,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_mix_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.02822,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.039,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.04024,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.05085,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.05231,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.06217,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.06692,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.07258,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.07426,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.07968,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.08443,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.09145,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 50.16655,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 49.70982,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 50.02812,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 50.5034,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 50.23697,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 50.55634,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 50.6011,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 51.19427,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 50.78215,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 51.80661,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 51.55328,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 51.81305,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 70.06307,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 70.14284,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 70.85573,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 70.90883,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 70.96815,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 70.16309,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 70.98014,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 71.54823,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 71.3296,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 71.32468,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 71.63419,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 71.21241,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.33091,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.33259,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.3312,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.3344,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.3362,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.33668,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.33945,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.34187,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.34326,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.34232,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.34315,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.34742,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 65.11197,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 65.25679,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 65.22347,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 64.56126,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 64.79648,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 64.43959,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 64.86113,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 64.68247,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 64.15723,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 64.34559,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 64.36687,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 63.93303,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.0917,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.09634,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.08311,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.08841,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.08555,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.08761,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.08239,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.08117,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.08075,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.07198,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.06882,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.07331,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_share_of_growth": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.3077,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.40479,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.48418,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.5752,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.61144,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.70966,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.81223,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.89417,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.91958,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 1.1069,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 1.22686,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 1.24744,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 55.11765,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 54.59587,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 55.66038,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 56.85096,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 56.40864,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 56.27984,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 56.72012,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 58.06003,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 57.95453,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 58.7857,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 58.8206,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 59.09242,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b27087d31b04911f",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Birch Electricals Ltd": {
+   "volume_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.05682,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.05974,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.05572,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.05995,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.0644,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.06326,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.05554,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.06326,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.06216,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.06208,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.05527,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.0626,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_mix_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.02756,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.03242,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.02858,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.02893,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.02738,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.03294,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.02777,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.03298,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.03011,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.02719,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.03124,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.03025,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 49.52704,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 50.32359,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 49.77092,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 49.52387,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 50.26636,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 50.22705,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 49.88578,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 49.68621,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 50.02694,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 50.08643,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 50.18949,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 49.98957,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 70.08141,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 70.26494,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 69.62761,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 69.6167,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 69.98135,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 70.30496,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 70.36336,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 70.42401,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 69.92673,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 70.25643,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 69.52738,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 69.86643,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.32827,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.33134,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.332,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.33068,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.33101,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.32949,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.33118,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.32834,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.32948,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.3294,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.33146,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.32869,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 64.65914,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 64.58939,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 65.34286,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 64.81541,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 65.40309,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 64.813,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 65.33671,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 64.69494,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 65.40249,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 65.47366,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 65.37838,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 65.19187,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.08439,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.09217,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.0843,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.08888,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.09178,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.0962,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.08332,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.09624,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.09228,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.08927,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.08651,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.09285,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_share_of_growth": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.32663,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.3518,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.33902,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.32551,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.29831,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.34242,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.33336,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.34271,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.32631,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.30456,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.36113,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.32577,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 54.94931,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 55.99914,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 54.05568,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 54.32517,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 54.84462,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 55.71902,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 54.91243,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 55.41528,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 54.55118,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 54.8692,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 54.33849,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 54.66414,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "85917cb79c454ed0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Cobalt Home Tech Ltd": {
+   "volume_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.06396,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.05687,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.05009,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.03594,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.03441,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.02643,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.01482,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.00577,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.00581,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": -0.00573,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -0.01243,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": -0.01613,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_mix_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.02987,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.03384,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.04312,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.04771,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.05145,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.06063,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.06814,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.06869,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.07905,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.08439,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.08836,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.09155,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 50.16493,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 49.92686,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 50.04169,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 50.78979,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 50.35241,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 50.31974,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 51.21821,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 51.51305,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 50.969,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 51.21406,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 51.49907,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 51.85284,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 69.41465,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 70.323,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 69.9713,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 70.95124,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 70.47939,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 71.26037,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 70.81291,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 71.20424,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 70.6091,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 70.95231,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 71.21004,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 71.44318,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.32869,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.33114,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.33126,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.33463,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.33767,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.3387,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.33922,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.34211,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.34255,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.34363,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.34437,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.34433,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 65.3932,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 65.32347,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 65.15938,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 64.97077,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 65.02178,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 65.09494,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 65.0356,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 64.76069,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 63.93445,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 64.79279,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 64.34045,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 64.15213,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.09383,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.09071,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.09322,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.08365,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.08586,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.08706,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.08296,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.07447,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.08486,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.07866,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.07594,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.07541,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "price_share_of_growth": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.31834,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.37304,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.46262,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.5704,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.59925,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.69638,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.82134,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.92248,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.93148,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 1.07285,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 1.16364,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 1.21395,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 54.18638,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 54.92639,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 54.85361,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 56.77025,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 55.81003,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 56.48518,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 56.99553,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 57.9566,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 57.64364,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 57.37359,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 58.36865,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 59.14388,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "8874e89335ea6e17",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "industry": {
+   "food_cpi": [
+    {
+     "period": "Q2 FY24",
+     "value": 100.0,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 101.2,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 102.41,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 103.64,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 104.89,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 106.15,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 107.42,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 108.71,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 110.01,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 111.33,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 112.67,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 114.02,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "e2ae0b8b729187c4",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  }
+ },
+ "benchmark": {
+  "entity": "Crestline Durables Ltd",
+  "peers": [
+   "Alder Appliances Ltd",
+   "Birch Electricals Ltd",
+   "Cobalt Home Tech Ltd"
+  ],
+  "comparisons": [
+   {
+    "metric": "volume_growth_yoy",
+    "company": {
+     "first": 0.05881,
+     "last": -0.03838,
+     "relative_change": -1.601539413098756,
+     "direction": "down",
+     "n": 12
+    },
+    "peer_median_change": -1.2006201731804353,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "sector_wide",
+    "note": "2/3 peers moved the same way"
+   },
+   {
+    "metric": "price_mix_growth_yoy",
+    "company": {
+     "first": 0.03271,
+     "last": 0.11294,
+     "relative_change": 1.7824602390151854,
+     "direction": "up",
+     "n": 12
+    },
+    "peer_median_change": 1.3781872324585895,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "sector_wide",
+    "note": "2/3 peers moved the same way"
+   },
+   {
+    "metric": "receivable_days",
+    "company": {
+     "first": 50.34105,
+     "last": 49.8178,
+     "relative_change": -0.0028734423737165177,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": 0.02952366121134341,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "inventory_days",
+    "company": {
+     "first": 70.14388,
+     "last": 69.87379,
+     "relative_change": 0.0008074619623858629,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": 0.014733326245356563,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "gross_margin",
+    "company": {
+     "first": 0.32809,
+     "last": 0.34826,
+     "relative_change": 0.04912694572142931,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": 0.038393485473007166,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "payable_days",
+    "company": {
+     "first": 64.5396,
+     "last": 64.91838,
+     "relative_change": 1.997166379352401e-06,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": -0.013226119272877007,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "revenue_growth_yoy",
+    "company": {
+     "first": 0.09152,
+     "last": 0.07455,
+     "relative_change": -0.13497935976322156,
+     "direction": "down",
+     "n": 12
+    },
+    "peer_median_change": -0.1719110023041474,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "sector_wide",
+    "note": "2/3 peers moved the same way"
+   },
+   {
+    "metric": "price_share_of_growth",
+    "company": {
+     "first": 0.35744,
+     "last": 1.51487,
+     "relative_change": 2.1932530782258435,
+     "direction": "up",
+     "n": 12
+    },
+    "peer_median_change": 1.9899826689774702,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "sector_wide",
+    "note": "2/3 peers moved the same way"
+   },
+   {
+    "metric": "cash_conversion_cycle",
+    "company": {
+     "first": 55.94533,
+     "last": 54.77321,
+     "relative_change": -0.00159334156181802,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": 0.06659743296156198,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   }
+  ],
+  "overall": "company_specific",
+  "warnings": []
+ },
+ "coverage": {
+  "coverage_score": 0.943,
+  "sufficient": true,
+  "components": {
+   "source_types": 0.714,
+   "quarters": 1.0,
+   "metrics_disclosed": 1.0,
+   "peer_data": 1.0,
+   "outside_evidence": 1.0
+  },
+  "source_types_found": [
+   "gov_macro",
+   "news",
+   "presentation",
+   "results",
+   "transcript"
+  ],
+  "source_types_missing": [
+   "annual_report",
+   "filing"
+  ],
+  "quarters_covered": 12,
+  "metrics_disclosed": [
+   "revenue_growth_yoy",
+   "volume_growth_yoy",
+   "price_mix_growth_yoy",
+   "receivable_days",
+   "inventory_days",
+   "gross_margin"
+  ],
+  "metrics_missing": [],
+  "proxies_used": [],
+  "peers_with_data": 3,
+  "has_outside_company_evidence": true,
+  "official_filings_found": true,
+  "missing_quarters": [],
+  "warnings": []
+ },
+ "say_vs_do": [
+  {
+   "statement": "We are a volume-led growth story",
+   "evidence_id": "d3c2215f2ac905b3",
+   "rule": "volume_led_growth",
+   "angle": "Growth quality",
+   "expected": "up",
+   "metric": "volume_growth_yoy",
+   "verdict": "misaligned",
+   "observed_direction": "down",
+   "relative_change": -1.6015,
+   "detail": "volume growth yoy should be up; observed down (-160.2%)"
+  },
+  {
+   "statement": "Margins remain resilient",
+   "evidence_id": "d3c2215f2ac905b3",
+   "rule": "margin_resilience",
+   "angle": "Margin and cost",
+   "expected": "up_or_flat",
+   "metric": "gross_margin",
+   "verdict": "aligned",
+   "observed_direction": "flat",
+   "relative_change": 0.0491,
+   "detail": "gross margin should be up or flat; observed flat (+4.9%)"
+  }
+ ],
+ "disclosure_changes": [],
+ "triangulation": [
+  {
+   "representative": "We continue to see broad-based growth across our portfolio.",
+   "claim_texts": [
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio."
+   ],
+   "evidence_ids": [
+    "24bd0e5c79d6e211",
+    "5b93e5d43dacc598",
+    "acb10535097c3357",
+    "d3c2215f2ac905b3",
+    "e2ae0b8b729187c4",
+    "e9dcc7f98a855d3b",
+    "edee46b44187553f"
+   ],
+   "independent_evidence_ids": [
+    "24bd0e5c79d6e211",
+    "5b93e5d43dacc598",
+    "acb10535097c3357",
+    "d3c2215f2ac905b3",
+    "e2ae0b8b729187c4",
+    "e9dcc7f98a855d3b",
+    "edee46b44187553f"
+   ],
+   "independent_source_types": [
+    "gov_macro",
+    "presentation"
+   ],
+   "independent_count": 2,
+   "has_outside_company": true,
+   "roles": [
+    "company",
+    "industry"
+   ],
+   "meets_triangulation": true,
+   "flags": []
+  },
+  {
+   "representative": "We are a volume-led growth story.",
+   "claim_texts": [
+    "We are a volume-led growth story.",
+    "We are a volume-led growth story.",
+    "We are a volume-led growth story.",
+    "We are a volume-led growth story."
+   ],
+   "evidence_ids": [
+    "24bd0e5c79d6e211",
+    "428de0f15efd198f",
+    "5b93e5d43dacc598",
+    "81e0b62f9d0fc303",
+    "acb10535097c3357",
+    "d3c2215f2ac905b3",
+    "e9dcc7f98a855d3b",
+    "edee46b44187553f"
+   ],
+   "independent_evidence_ids": [
+    "24bd0e5c79d6e211",
+    "428de0f15efd198f",
+    "5b93e5d43dacc598",
+    "81e0b62f9d0fc303",
+    "acb10535097c3357",
+    "d3c2215f2ac905b3",
+    "e9dcc7f98a855d3b",
+    "edee46b44187553f"
+   ],
+   "independent_source_types": [
+    "news",
+    "presentation",
+    "transcript"
+   ],
+   "independent_count": 3,
+   "has_outside_company": true,
+   "roles": [
+    "company"
+   ],
+   "meets_triangulation": true,
+   "flags": []
+  }
+ ],
+ "evidence": [
+  {
+   "title": "Crestline Durables Ltd quarterly results Q2 FY24",
+   "text": "Crestline Durables Ltd reported results for Q2 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2023-11-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q2 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "fbd0d1c885ee866c",
+   "origin_hash": "c3f64a6dbcd1",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q3 FY24",
+   "text": "Crestline Durables Ltd reported results for Q3 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-02-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "ff746ef3ee952cc5",
+   "origin_hash": "0665c3dc38d7",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q4 FY24",
+   "text": "Crestline Durables Ltd reported results for Q4 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-05-10",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q4 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "5218fdcef8f22be0",
+   "origin_hash": "58772c175dfc",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q1 FY25",
+   "text": "Crestline Durables Ltd reported results for Q1 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-08-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "6ff83ed12241a0e4",
+   "origin_hash": "c9ecbc00f3fc",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q2 FY25",
+   "text": "Crestline Durables Ltd reported results for Q2 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-11-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q2 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "d83aeabeedcfbc0d",
+   "origin_hash": "3ec9ced5ecc8",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q3 FY25",
+   "text": "Crestline Durables Ltd reported results for Q3 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-02-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "45db8efaa9fcdad6",
+   "origin_hash": "f084b61ad9af",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q4 FY25",
+   "text": "Crestline Durables Ltd reported results for Q4 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-05-10",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q4 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "07bfa84d064642fe",
+   "origin_hash": "d3192a6f967d",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q1 FY26",
+   "text": "Crestline Durables Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-08-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "b90aa874dd07e24e",
+   "origin_hash": "6a7d6107e887",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q2 FY26",
+   "text": "Crestline Durables Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-11-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q2 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "ad701ee22fb0589e",
+   "origin_hash": "78ebd087fdd4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q3 FY26",
+   "text": "Crestline Durables Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-02-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "b114b5da2be34db5",
+   "origin_hash": "84125f4a17b7",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q4 FY26",
+   "text": "Crestline Durables Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-05-10",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q4 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "d998cf6366af29f3",
+   "origin_hash": "308a10b1f755",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd quarterly results Q1 FY27",
+   "text": "Crestline Durables Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY27.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "cf91d93627bc00b5",
+   "origin_hash": "41f19f90ec43",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q3 FY24",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2024-02-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY24",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "d3c2215f2ac905b3",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q1 FY25",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2024-08-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY25",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "acb10535097c3357",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q3 FY25",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2025-02-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY25",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "edee46b44187553f",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q1 FY26",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2025-08-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "24bd0e5c79d6e211",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q3 FY26",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-02-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q3 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "5b93e5d43dacc598",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd investor presentation Q1 FY27",
+   "text": "We are a volume-led growth story. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-08-04",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "e9dcc7f98a855d3b",
+   "origin_hash": "68f9add55cb4",
+   "claims": []
+  },
+  {
+   "title": "Crestline Durables Ltd earnings call transcript Q1 FY27",
+   "text": "We are a volume-led growth story. Margins remain resilient.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+   "source_type": "transcript",
+   "source_tier": 3,
+   "date": "2026-08-07",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.7",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "81e0b62f9d0fc303",
+   "origin_hash": "1e1cc477f90e",
+   "claims": []
+  },
+  {
+   "title": "Trade press note 1 on Crestline Durables Ltd",
+   "text": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+   "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-06-10",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": null,
+   "locator": "para 2",
+   "publisher": "news.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "428de0f15efd198f",
+   "origin_hash": "09d38451ca49",
+   "claims": []
+  },
+  {
+   "title": "Trade press note 2 on Crestline Durables Ltd",
+   "text": "Dealers said volumes held up across the category.",
+   "url": "https://news.example.invalid/crestline-durables-ltd/story-2",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-05-21",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "period": null,
+   "locator": "para 2",
+   "publisher": "news.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "177d545c9f435491",
+   "origin_hash": "cc4b7a7c77cc",
+   "claims": []
+  },
+  {
+   "title": "Food price index (official series)",
+   "text": "Durables demand softening at the entry end.",
+   "url": "https://data.example.invalid/crestline-durables-ltd/food-cpi",
+   "source_type": "gov_macro",
+   "source_tier": 2,
+   "date": "2026-07-15",
+   "entity": "industry",
+   "role": "industry",
+   "period": null,
+   "locator": "series:food_cpi",
+   "publisher": "data.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "e2ae0b8b729187c4",
+   "origin_hash": "6fdaa7d9b1a6",
+   "claims": []
+  },
+  {
+   "title": "Alder Appliances Ltd results (peer)",
+   "text": "Alder Appliances Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/alder-appliances-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Alder Appliances Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "b27087d31b04911f",
+   "origin_hash": "9374df88af28",
+   "claims": []
+  },
+  {
+   "title": "Birch Electricals Ltd results (peer)",
+   "text": "Birch Electricals Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/birch-electricals-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Birch Electricals Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "85917cb79c454ed0",
+   "origin_hash": "664010052ec6",
+   "claims": []
+  },
+  {
+   "title": "Cobalt Home Tech Ltd results (peer)",
+   "text": "Cobalt Home Tech Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/cobalt-home-tech-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Cobalt Home Tech Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "8874e89335ea6e17",
+   "origin_hash": "cc401aa00305",
+   "claims": []
+  }
+ ],
+ "plan": {
+  "archetype": "discretionary_durables",
+  "angles_considered": [
+   "Growth quality",
+   "Margin and cost",
+   "Retail productivity",
+   "Working capital"
+  ],
+  "hypotheses": [
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "tests": [
+     {
+      "metric": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "Price-led growth is harder to sustain than volume-led growth and can hide weakening demand."
+    ],
+    "angle": "growth_quality",
+    "angle_label": "Growth quality",
+    "results": [
+     {
+      "metric": "volume_growth_yoy",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.05881,
+      "last": -0.03838,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "price_share_of_growth",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 0.35744,
+      "last": 1.51487,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.03,
+    "metrics": [
+     "volume_growth_yoy",
+     "price_share_of_growth"
+    ],
+    "rank": 1
+   },
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "tests": [
+     {
+      "metric": [
+       "receivable_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "volume_growth_yoy",
+       "revenue_growth_yoy"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Receivable days are in the filings before they reach the news, so lenders and suppliers can see stretch early.",
+     "A volume-led growth story should not need longer payment terms."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 50.34105,
+      "last": 49.8178,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": "volume_growth_yoy",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.05881,
+      "last": -0.03838,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.625,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.641,
+    "metrics": [
+     "receivable_days",
+     "volume_growth_yoy"
+    ],
+    "rank": 2
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "tests": [
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy",
+       "volume_growth_yoy"
+      ],
+      "expect": "down_or_flat"
+     }
+    ],
+    "matters": [
+     "Inventory piling up ahead of weaker sales often precedes discounting and margin pressure."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "inventory_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 70.14388,
+      "last": 69.87379,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down_or_flat",
+      "available": true,
+      "direction": "down",
+      "first": 0.09152,
+      "last": 0.07455,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.625,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.6264,
+    "metrics": [
+     "inventory_days",
+     "revenue_growth_yoy"
+    ],
+    "rank": 3
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "tests": [
+     {
+      "metric": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "receivable_days",
+       "inventory_days"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A longer cash cycle ties up more money for the same sales."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "cash_conversion_cycle",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 55.94533,
+      "last": 54.77321,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 50.34105,
+      "last": 49.8178,
+      "score": 0.25,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.25,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.25,
+    "metrics": [
+     "cash_conversion_cycle",
+     "receivable_days"
+    ],
+    "rank": 4
+   },
+   {
+    "id": "growth_bought",
+    "statement": "Growth is being bought with inventory and margin",
+    "tests": [
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat"
+     },
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "gross_margin"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Rising inventory with falling margin can mean sales are being pushed, not pulled."
+    ],
+    "angle": "retail_productivity",
+    "angle_label": "Retail productivity",
+    "results": [
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "up_or_flat",
+      "available": true,
+      "direction": "down",
+      "first": 0.09152,
+      "last": 0.07455,
+      "score": 0.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "inventory_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 70.14388,
+      "last": 69.87379,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": "gross_margin",
+      "expect": "down",
+      "available": true,
+      "direction": "flat",
+      "first": 0.32809,
+      "last": 0.34826,
+      "score": 0.25,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.167,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.1685,
+    "metrics": [
+     "revenue_growth_yoy",
+     "inventory_days",
+     "gross_margin"
+    ],
+    "rank": 5
+   }
+  ],
+  "untestable": [],
+  "collect_requests": [],
+  "missing_metrics": []
+ },
+ "claims": [
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+   "evidence_id": "d3c2215f2ac905b3",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q3 FY24",
+   "date": "2024-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+   "evidence_id": "d3c2215f2ac905b3",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY24",
+   "date": "2024-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+   "evidence_id": "acb10535097c3357",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q1 FY25",
+   "date": "2024-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+   "evidence_id": "acb10535097c3357",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY25",
+   "date": "2024-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+   "evidence_id": "edee46b44187553f",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q3 FY25",
+   "date": "2025-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+   "evidence_id": "edee46b44187553f",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY25",
+   "date": "2025-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+   "evidence_id": "24bd0e5c79d6e211",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q1 FY26",
+   "date": "2025-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+   "evidence_id": "24bd0e5c79d6e211",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY26",
+   "date": "2025-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+   "evidence_id": "5b93e5d43dacc598",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q3 FY26",
+   "date": "2026-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+   "evidence_id": "5b93e5d43dacc598",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY26",
+   "date": "2026-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "e9dcc7f98a855d3b",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "e9dcc7f98a855d3b",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "We are a volume-led growth story.",
+   "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+   "evidence_id": "81e0b62f9d0fc303",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "transcript",
+   "topic": "volume",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-08-07",
+   "locator": "p.7",
+   "tier": 3,
+   "independent": true,
+   "quote": "We are a volume-led growth story."
+  },
+  {
+   "text": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+   "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+   "evidence_id": "428de0f15efd198f",
+   "entity": "Crestline Durables Ltd",
+   "role": "company",
+   "source_type": "news",
+   "topic": "volume",
+   "direction": "up",
+   "period": null,
+   "date": "2026-06-10",
+   "locator": "para 2",
+   "tier": 4,
+   "independent": true,
+   "quote": "Unit volumes of premium durables fell while realisations rose, trade checks suggest."
+  },
+  {
+   "text": "Durables demand softening at the entry end.",
+   "url": "https://data.example.invalid/crestline-durables-ltd/food-cpi",
+   "evidence_id": "e2ae0b8b729187c4",
+   "entity": "industry",
+   "role": "industry",
+   "source_type": "gov_macro",
+   "topic": "demand",
+   "direction": "down",
+   "period": null,
+   "date": "2026-07-15",
+   "locator": "series:food_cpi",
+   "tier": 2,
+   "independent": true,
+   "quote": "Durables demand softening at the entry end."
+  }
+ ],
+ "timeline": {
+  "change_points": [
+   {
+    "metric": "volume_growth_yoy",
+    "label": "Volume growth (YoY)",
+    "period": "Q4 FY25",
+    "date": "2025-03-31",
+    "index": 6,
+    "gain": 0.774,
+    "before": 0.037208333333333336,
+    "after": -0.016125,
+    "direction": "down",
+    "text": "Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25"
+   },
+   {
+    "metric": "gross_margin",
+    "label": "Gross margin",
+    "period": "Q3 FY25",
+    "date": "2024-12-31",
+    "index": 5,
+    "gain": 0.774,
+    "before": 0.333054,
+    "after": 0.34445857142857145,
+    "direction": "up",
+    "text": "Gross margin shifted up from about 33.3% to about 34.4% from Q3 FY25"
+   },
+   {
+    "metric": "price_share_of_growth",
+    "label": "Price share of growth",
+    "period": "Q4 FY25",
+    "date": "2025-03-31",
+    "index": 6,
+    "gain": 0.773,
+    "before": 0.5650166666666666,
+    "after": 1.219045,
+    "direction": "up",
+    "text": "Price share of growth shifted up from about 57% to about 122% from Q4 FY25"
+   },
+   {
+    "metric": "price_mix_growth_yoy",
+    "label": "Price/mix growth (YoY)",
+    "period": "Q4 FY25",
+    "date": "2025-03-31",
+    "index": 6,
+    "gain": 0.768,
+    "before": 0.04748166666666667,
+    "after": 0.091845,
+    "direction": "up",
+    "text": "Price/mix growth (YoY) shifted up from about 4.7% to about 9.2% from Q4 FY25"
+   },
+   {
+    "metric": "revenue_growth_yoy",
+    "label": "Revenue growth (YoY)",
+    "period": "Q1 FY26",
+    "date": "2025-06-30",
+    "index": 7,
+    "gain": 0.675,
+    "before": 0.08413714285714287,
+    "after": 0.074688,
+    "direction": "down",
+    "text": "Revenue growth (YoY) shifted down from about 8.4% to about 7.5% from Q1 FY26"
+   }
+  ],
+  "primary_change_point": {
+   "metric": "volume_growth_yoy",
+   "label": "Volume growth (YoY)",
+   "period": "Q4 FY25",
+   "date": "2025-03-31",
+   "index": 6,
+   "gain": 0.774,
+   "before": 0.037208333333333336,
+   "after": -0.016125,
+   "direction": "down",
+   "text": "Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25"
+  },
+  "events": [
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "d3c2215f2ac905b3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "d3c2215f2ac905b3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "acb10535097c3357",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "acb10535097c3357",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Gross margin shifted up from about 33.3% to about 34.4% from Q3 FY25",
+    "metric": "gross_margin",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "edee46b44187553f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "edee46b44187553f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25",
+    "metric": "volume_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": true
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Price share of growth shifted up from about 57% to about 122% from Q4 FY25",
+    "metric": "price_share_of_growth",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Price/mix growth (YoY) shifted up from about 4.7% to about 9.2% from Q4 FY25",
+    "metric": "price_mix_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-06-30",
+    "period": "Q1 FY26",
+    "kind": "change_point",
+    "label": "Revenue growth (YoY) shifted down from about 8.4% to about 7.5% from Q1 FY26",
+    "metric": "revenue_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "24bd0e5c79d6e211",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "24bd0e5c79d6e211",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "5b93e5d43dacc598",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "5b93e5d43dacc598",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-10",
+    "period": null,
+    "kind": "claim",
+    "label": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+    "metric": null,
+    "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+    "locator": "para 2",
+    "evidence_id": "428de0f15efd198f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-07-15",
+    "period": null,
+    "kind": "claim",
+    "label": "Durables demand softening at the entry end.",
+    "metric": null,
+    "url": "https://data.example.invalid/crestline-durables-ltd/food-cpi",
+    "locator": "series:food_cpi",
+    "evidence_id": "e2ae0b8b729187c4",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "e9dcc7f98a855d3b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "e9dcc7f98a855d3b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "81e0b62f9d0fc303",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "span": {
+   "first": "Q2 FY24",
+   "last": "Q1 FY27"
+  }
+ },
+ "contradictions": [
+  {
+   "kind": "management_vs_numbers",
+   "topic": "Growth quality",
+   "entity": "Crestline Durables Ltd",
+   "quote_a": "We are a volume-led growth story",
+   "quote_b": "volume growth yoy should be up; observed down (-160.2%)",
+   "url_a": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+   "url_b": null,
+   "locator_a": "p.3",
+   "locator_b": null,
+   "period_a": "Q3 FY24",
+   "period_b": null,
+   "evidence_ids": [
+    "d3c2215f2ac905b3"
+   ],
+   "metric": "volume_growth_yoy",
+   "detail": "volume growth yoy should be up; observed down (-160.2%)",
+   "nli": null,
+   "overlap": null,
+   "judge": "computed"
+  }
+ ],
+ "skeptic_runs": [
+  {
+   "hypothesis_id": "price_led",
+   "verdict": "weakened",
+   "reasons": [
+    "peers show the same pattern, so it looks sector-wide",
+    "one independent source points the other way"
+   ],
+   "sector": {
+    "verdict": "sector_wide",
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "note": "2/3 peers moved the same way"
+   },
+   "rounds": [
+    {
+     "round": 1,
+     "predictions": [
+      "If this is right, Volume growth (YoY) should keep moving down.",
+      "If this is right, Price share of growth should keep moving up.",
+      "If this is company-specific, most peers should NOT show the same pattern."
+     ],
+     "queries": [
+      "Volume growth (YoY) rose improved discretionary durables",
+      "Price share of growth fell improved discretionary durables"
+     ],
+     "counter_found": 8,
+     "independent_counter": 1,
+     "sector": "sector_wide",
+     "verdict": "weakened",
+     "reasons": [
+      "peers show the same pattern, so it looks sector-wide",
+      "one independent source points the other way"
+     ]
+    }
+   ],
+   "counter_evidence": [
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY24",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "d3c2215f2ac905b3",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY25",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "acb10535097c3357",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY25",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "edee46b44187553f",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "24bd0e5c79d6e211",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "5b93e5d43dacc598",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY27",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "e9dcc7f98a855d3b",
+     "topic": "volume"
+    },
+    {
+     "text": "We are a volume-led growth story.",
+     "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+     "locator": "p.7",
+     "period": "Q1 FY27",
+     "role": "company",
+     "source_type": "transcript",
+     "independent": false,
+     "evidence_id": "81e0b62f9d0fc303",
+     "topic": "volume"
+    },
+    {
+     "text": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+     "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+     "locator": "para 2",
+     "period": null,
+     "role": "company",
+     "source_type": "news",
+     "independent": true,
+     "evidence_id": "428de0f15efd198f",
+     "topic": "volume"
+    }
+   ],
+   "warnings": []
+  }
+ ],
+ "skeptic": {
+  "hypothesis_id": "price_led",
+  "verdict": "weakened",
+  "reasons": [
+   "peers show the same pattern, so it looks sector-wide",
+   "one independent source points the other way"
+  ],
+  "sector": {
+   "verdict": "sector_wide",
+   "peers_same_direction": 2,
+   "peers_total": 3,
+   "note": "2/3 peers moved the same way"
+  },
+  "rounds": [
+   {
+    "round": 1,
+    "predictions": [
+     "If this is right, Volume growth (YoY) should keep moving down.",
+     "If this is right, Price share of growth should keep moving up.",
+     "If this is company-specific, most peers should NOT show the same pattern."
+    ],
+    "queries": [
+     "Volume growth (YoY) rose improved discretionary durables",
+     "Price share of growth fell improved discretionary durables"
+    ],
+    "counter_found": 8,
+    "independent_counter": 1,
+    "sector": "sector_wide",
+    "verdict": "weakened",
+    "reasons": [
+     "peers show the same pattern, so it looks sector-wide",
+     "one independent source points the other way"
+    ]
+   }
+  ],
+  "counter_evidence": [
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY24",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "d3c2215f2ac905b3",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY25",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "acb10535097c3357",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY25",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "edee46b44187553f",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "24bd0e5c79d6e211",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "5b93e5d43dacc598",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY27",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "e9dcc7f98a855d3b",
+    "topic": "volume"
+   },
+   {
+    "text": "We are a volume-led growth story.",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "period": "Q1 FY27",
+    "role": "company",
+    "source_type": "transcript",
+    "independent": false,
+    "evidence_id": "81e0b62f9d0fc303",
+    "topic": "volume"
+   },
+   {
+    "text": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+    "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+    "locator": "para 2",
+    "period": null,
+    "role": "company",
+    "source_type": "news",
+    "independent": true,
+    "evidence_id": "428de0f15efd198f",
+    "topic": "volume"
+   }
+  ],
+  "warnings": []
+ },
+ "falsification": {
+  "conditions": [
+   {
+    "metric": "volume_growth_yoy",
+    "operator": ">=",
+    "threshold": 0.0485,
+    "periods": 2
+   },
+   {
+    "metric": "price_share_of_growth",
+    "operator": "<=",
+    "threshold": 0.4369,
+    "periods": 2
+   }
+  ],
+  "statement": "This finding is reversed if Volume growth (YoY) is at or above 4.9% and Price share of growth is at or below 44% for 2 consecutive quarters.",
+  "window": "2 consecutive quarters",
+  "check_against": "Member 1 metric series (recomputed when new results arrive)"
+ },
+ "counterargument": {
+  "title": "Sector conditions",
+  "text": "2 of 3 peers show the same pattern, so the cause may be sector-wide (for example, channel financing or input costs) rather than specific to this company.",
+  "strength": 0.83,
+  "others": [
+   {
+    "title": "Contrary statement",
+    "text": "A presentation says the opposite: \"We are a volume-led growth story.\"",
+    "strength": 0.45
+   }
+  ]
+ },
+ "score": {
+  "components": {
+   "triangulation": 0.667,
+   "source_quality": 0.991,
+   "recency": 1.0,
+   "falsification": 0.5,
+   "coverage": 0.943
+  },
+  "weights": {
+   "triangulation": 0.3,
+   "source_quality": 0.25,
+   "recency": 0.2,
+   "falsification": 0.15,
+   "coverage": 0.1
+  },
+  "penalty": 0.05,
+  "total": 0.767,
+  "rating": "Moderate",
+  "cap_reason": "peers show the same pattern",
+  "independent_types": [
+   "gov_macro",
+   "results"
+  ],
+  "has_outside_evidence": true,
+  "reasoning": [
+   "Score 0.77: triangulation 0.67, source quality 0.99, recency 1.00, falsification 0.50, coverage 0.94, minus 0.05 contradiction penalty.",
+   "2 independent source type(s): gov_macro, results; includes evidence from outside the company.",
+   "Skeptic verdict: weakened (peers show the same pattern, so it looks sector-wide; one independent source points the other way).",
+   "Rating capped at Moderate because peers show the same pattern."
+  ]
+ },
+ "discovery": {
+  "discovery": "Volume growth (YoY) moved from 5.9% (Q2 FY24) to -3.8% (Q1 FY27) while Price share of growth moved from 36% (Q2 FY24) to 151% (Q1 FY27); 2 of 3 peers moved the same way.",
+  "why_it_matters": [
+   "Price-led growth is harder to sustain than volume-led growth and can hide weakening demand.",
+   "The shift is dated: Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25.",
+   "The peer median for Volume growth (YoY) moved -120.1% over the window (relative change), which is the benchmark for the company-vs-sector test.",
+   "2 independent source type(s) support it: gov_macro, results."
+  ],
+  "evidence": [
+   {
+    "id": "fbd0d1c885ee866c",
+    "title": "Crestline Durables Ltd quarterly results Q2 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2023-11-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q2 FY24",
+    "passage": "Crestline Durables Ltd reported results for Q2 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "ff746ef3ee952cc5",
+    "title": "Crestline Durables Ltd quarterly results Q3 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-02-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q3 FY24",
+    "passage": "Crestline Durables Ltd reported results for Q3 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "5218fdcef8f22be0",
+    "title": "Crestline Durables Ltd quarterly results Q4 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-05-10",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q4 FY24",
+    "passage": "Crestline Durables Ltd reported results for Q4 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "6ff83ed12241a0e4",
+    "title": "Crestline Durables Ltd quarterly results Q1 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-08-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q1 FY25",
+    "passage": "Crestline Durables Ltd reported results for Q1 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "d83aeabeedcfbc0d",
+    "title": "Crestline Durables Ltd quarterly results Q2 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-11-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q2 FY25",
+    "passage": "Crestline Durables Ltd reported results for Q2 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "45db8efaa9fcdad6",
+    "title": "Crestline Durables Ltd quarterly results Q3 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-02-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q3 FY25",
+    "passage": "Crestline Durables Ltd reported results for Q3 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "07bfa84d064642fe",
+    "title": "Crestline Durables Ltd quarterly results Q4 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-05-10",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q4 FY25",
+    "passage": "Crestline Durables Ltd reported results for Q4 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "b90aa874dd07e24e",
+    "title": "Crestline Durables Ltd quarterly results Q1 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-08-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q1 FY26",
+    "passage": "Crestline Durables Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "ad701ee22fb0589e",
+    "title": "Crestline Durables Ltd quarterly results Q2 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-11-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q2-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q2 FY26",
+    "passage": "Crestline Durables Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "b114b5da2be34db5",
+    "title": "Crestline Durables Ltd quarterly results Q3 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-02-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q3-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q3 FY26",
+    "passage": "Crestline Durables Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "d998cf6366af29f3",
+    "title": "Crestline Durables Ltd quarterly results Q4 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-05-10",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q4-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q4 FY26",
+    "passage": "Crestline Durables Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "cf91d93627bc00b5",
+    "title": "Crestline Durables Ltd quarterly results Q1 FY27",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/crestline-durables-ltd/results-Q1-FY27.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Crestline Durables Ltd",
+    "period": "Q1 FY27",
+    "passage": "Crestline Durables Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "b27087d31b04911f",
+    "title": "Alder Appliances Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/alder-appliances-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Alder Appliances Ltd",
+    "period": null,
+    "passage": "Alder Appliances Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "85917cb79c454ed0",
+    "title": "Birch Electricals Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/birch-electricals-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Birch Electricals Ltd",
+    "period": null,
+    "passage": "Birch Electricals Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "8874e89335ea6e17",
+    "title": "Cobalt Home Tech Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/cobalt-home-tech-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Cobalt Home Tech Ltd",
+    "period": null,
+    "passage": "Cobalt Home Tech Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: volume_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "e2ae0b8b729187c4",
+    "title": "Food price index (official series)",
+    "source_type": "gov_macro",
+    "tier": 2,
+    "date": "2026-07-15",
+    "url": "https://data.example.invalid/crestline-durables-ltd/food-cpi",
+    "locator": "series:food_cpi",
+    "role": "industry",
+    "entity": "industry",
+    "period": null,
+    "passage": "Durables demand softening at the entry end.",
+    "highlight": "Durables demand softening at the entry end.",
+    "why": "industry series: food_cpi",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "counter-d3c2215f2ac905b3",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY24",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-acb10535097c3357",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY25",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-edee46b44187553f",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY25",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-24bd0e5c79d6e211",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY26",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-5b93e5d43dacc598",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY26",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-e9dcc7f98a855d3b",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY27",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-81e0b62f9d0fc303",
+    "title": "Counter-evidence",
+    "source_type": "transcript",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY27",
+    "passage": "We are a volume-led growth story.",
+    "highlight": "We are a volume-led growth story.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-428de0f15efd198f",
+    "title": "Counter-evidence",
+    "source_type": "news",
+    "tier": 3,
+    "date": "",
+    "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+    "locator": "para 2",
+    "role": "company",
+    "entity": "",
+    "period": null,
+    "passage": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+    "highlight": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+    "why": "points the other way",
+    "independent": true,
+    "flags": [],
+    "stance": "counter"
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "d3c2215f2ac905b3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "d3c2215f2ac905b3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "acb10535097c3357",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "acb10535097c3357",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Gross margin shifted up from about 33.3% to about 34.4% from Q3 FY25",
+    "metric": "gross_margin",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "edee46b44187553f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "edee46b44187553f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25",
+    "metric": "volume_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": true
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Price share of growth shifted up from about 57% to about 122% from Q4 FY25",
+    "metric": "price_share_of_growth",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Price/mix growth (YoY) shifted up from about 4.7% to about 9.2% from Q4 FY25",
+    "metric": "price_mix_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-06-30",
+    "period": "Q1 FY26",
+    "kind": "change_point",
+    "label": "Revenue growth (YoY) shifted down from about 8.4% to about 7.5% from Q1 FY26",
+    "metric": "revenue_growth_yoy",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "24bd0e5c79d6e211",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "24bd0e5c79d6e211",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "5b93e5d43dacc598",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "5b93e5d43dacc598",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-10",
+    "period": null,
+    "kind": "claim",
+    "label": "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+    "metric": null,
+    "url": "https://news.example.invalid/crestline-durables-ltd/story-1",
+    "locator": "para 2",
+    "evidence_id": "428de0f15efd198f",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-07-15",
+    "period": null,
+    "kind": "claim",
+    "label": "Durables demand softening at the entry end.",
+    "metric": null,
+    "url": "https://data.example.invalid/crestline-durables-ltd/food-cpi",
+    "locator": "series:food_cpi",
+    "evidence_id": "e2ae0b8b729187c4",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "e9dcc7f98a855d3b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "e9dcc7f98a855d3b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We are a volume-led growth story.",
+    "metric": null,
+    "url": "https://ir.example.invalid/crestline-durables-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "81e0b62f9d0fc303",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "numbers": [
+   {
+    "metric": "volume_growth_yoy",
+    "label": "Volume growth (YoY)",
+    "first_period": "Q2 FY24",
+    "last_period": "Q1 FY27",
+    "first": 0.05881,
+    "last": -0.03838,
+    "first_display": "5.9%",
+    "last_display": "-3.8%",
+    "direction": "down",
+    "peer_median_change": -1.2006201731804353,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q2 FY24",
+      0.05881
+     ],
+     [
+      "Q3 FY24",
+      0.04822
+     ],
+     [
+      "Q4 FY24",
+      0.03848
+     ],
+     [
+      "Q1 FY25",
+      0.03687
+     ],
+     [
+      "Q2 FY25",
+      0.02442
+     ],
+     [
+      "Q3 FY25",
+      0.01645
+     ],
+     [
+      "Q4 FY25",
+      0.00599
+     ],
+     [
+      "Q1 FY26",
+      -0.0048
+     ],
+     [
+      "Q2 FY26",
+      -0.01041
+     ],
+     [
+      "Q3 FY26",
+      -0.02105
+     ],
+     [
+      "Q4 FY26",
+      -0.0281
+     ],
+     [
+      "Q1 FY27",
+      -0.03838
+     ]
+    ]
+   },
+   {
+    "metric": "price_share_of_growth",
+    "label": "Price share of growth",
+    "first_period": "Q2 FY24",
+    "last_period": "Q1 FY27",
+    "first": 0.35744,
+    "last": 1.51487,
+    "first_display": "36%",
+    "last_display": "151%",
+    "direction": "up",
+    "peer_median_change": 1.9899826689774702,
+    "peers_same_direction": 2,
+    "peers_total": 3,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q2 FY24",
+      0.35744
+     ],
+     [
+      "Q3 FY24",
+      0.43278
+     ],
+     [
+      "Q4 FY24",
+      0.5206
+     ],
+     [
+      "Q1 FY25",
+      0.57074
+     ],
+     [
+      "Q2 FY25",
+      0.71374
+     ],
+     [
+      "Q3 FY25",
+      0.7948
+     ],
+     [
+      "Q4 FY25",
+      0.92598
+     ],
+     [
+      "Q1 FY26",
+      1.06229
+     ],
+     [
+      "Q2 FY26",
+      1.14022
+     ],
+     [
+      "Q3 FY26",
+      1.27459
+     ],
+     [
+      "Q4 FY26",
+      1.39632
+     ],
+     [
+      "Q1 FY27",
+      1.51487
+     ]
+    ]
+   }
+  ],
+  "counterargument": {
+   "title": "Sector conditions",
+   "text": "2 of 3 peers show the same pattern, so the cause may be sector-wide (for example, channel financing or input costs) rather than specific to this company.",
+   "strength": 0.83,
+   "others": [
+    {
+     "title": "Contrary statement",
+     "text": "A presentation says the opposite: \"We are a volume-led growth story.\"",
+     "strength": 0.45
+    }
+   ]
+  },
+  "falsification": {
+   "conditions": [
+    {
+     "metric": "volume_growth_yoy",
+     "operator": ">=",
+     "threshold": 0.0485,
+     "periods": 2
+    },
+    {
+     "metric": "price_share_of_growth",
+     "operator": "<=",
+     "threshold": 0.4369,
+     "periods": 2
+    }
+   ],
+   "statement": "This finding is reversed if Volume growth (YoY) is at or above 4.9% and Price share of growth is at or below 44% for 2 consecutive quarters.",
+   "window": "2 consecutive quarters",
+   "check_against": "Member 1 metric series (recomputed when new results arrive)"
+  },
+  "evidence_strength": {
+   "components": {
+    "triangulation": 0.667,
+    "source_quality": 0.991,
+    "recency": 1.0,
+    "falsification": 0.5,
+    "coverage": 0.943
+   },
+   "weights": {
+    "triangulation": 0.3,
+    "source_quality": 0.25,
+    "recency": 0.2,
+    "falsification": 0.15,
+    "coverage": 0.1
+   },
+   "penalty": 0.05,
+   "total": 0.767,
+   "rating": "Moderate",
+   "cap_reason": "peers show the same pattern",
+   "independent_types": [
+    "gov_macro",
+    "results"
+   ],
+   "has_outside_evidence": true,
+   "reasoning": [
+    "Score 0.77: triangulation 0.67, source quality 0.99, recency 1.00, falsification 0.50, coverage 0.94, minus 0.05 contradiction penalty.",
+    "2 independent source type(s): gov_macro, results; includes evidence from outside the company.",
+    "Skeptic verdict: weakened (peers show the same pattern, so it looks sector-wide; one independent source points the other way).",
+    "Rating capped at Moderate because peers show the same pattern."
+   ]
+  },
+  "hypothesis_id": "price_led",
+  "hypothesis": "Reported growth is increasingly price-led while underlying volume weakens",
+  "disclaimer": "Research findings for a human to verify; not investment advice or a recommendation."
+ },
+ "check_problems": [],
+ "events": [
+  {
+   "stage": 1,
+   "name": "Company intake and peers",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "Crestline Durables Ltd: archetype discretionary_durables, 3 peers"
+  },
+  {
+   "stage": 2,
+   "name": "Angle planning",
+   "status": "done",
+   "seconds": 0.006,
+   "summary": "5 testable hypotheses; top: Reported growth is increasingly price-led while underlying volume weakens"
+  },
+  {
+   "stage": 3,
+   "name": "Evidence collection",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "25 evidence items (gov_macro 1, news 2, presentation 6, results 15, transcript 1)"
+  },
+  {
+   "stage": 4,
+   "name": "Quantitative engine",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "9 company metrics, 3 peers with data"
+  },
+  {
+   "stage": 5,
+   "name": "Timeline builder",
+   "status": "done",
+   "seconds": 0.014,
+   "summary": "Volume growth (YoY) shifted down from about 3.7% to about -1.6% from Q4 FY25"
+  },
+  {
+   "stage": 6,
+   "name": "Triangulation",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "2 claim clusters, 2 meet the 2-independent-type rule"
+  },
+  {
+   "stage": 7,
+   "name": "Say vs do and contradictions",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "1 contradictions flagged"
+  },
+  {
+   "stage": 8,
+   "name": "Peer and sector test",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "overall company_specific; 5 company-specific, 4 sector-wide metrics"
+  },
+  {
+   "stage": 9,
+   "name": "Skeptic loop",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "'price_led' weakened after 1 round(s)"
+  },
+  {
+   "stage": 10,
+   "name": "Falsification condition",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "This finding is reversed if Volume growth (YoY) is at or above 4.9% and Price share of growth is at or below 44% for 2 consecutive quarters."
+  },
+  {
+   "stage": 11,
+   "name": "Scoring and Evidence Strength",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "Moderate (0.77)"
+  },
+  {
+   "stage": 12,
+   "name": "Discovery writer",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "8-element check passed"
+  }
+ ],
+ "extras": {
+  "language_drift": {
+   "periods": [
+    "Q3 FY24",
+    "Q1 FY25",
+    "Q3 FY25",
+    "Q1 FY26",
+    "Q3 FY26",
+    "Q1 FY27"
+   ],
+   "themes": {
+    "volume": [
+     50.0,
+     50.0,
+     50.0,
+     50.0,
+     50.0,
+     66.67
+    ],
+    "pricing": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "quick commerce": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rural": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "channel": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "cost": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "peer_heatmap": {
+   "entities": [
+    "Crestline Durables Ltd",
+    "Alder Appliances Ltd",
+    "Birch Electricals Ltd",
+    "Cobalt Home Tech Ltd"
+   ],
+   "metrics": [
+    "volume_growth_yoy",
+    "price_mix_growth_yoy",
+    "receivable_days",
+    "inventory_days",
+    "gross_margin",
+    "payable_days",
+    "revenue_growth_yoy",
+    "price_share_of_growth",
+    "cash_conversion_cycle"
+   ],
+   "labels": [
+    "Volume growth (YoY)",
+    "Price/mix growth (YoY)",
+    "Receivable days",
+    "Inventory days",
+    "Gross margin",
+    "Payable days",
+    "Revenue growth (YoY)",
+    "Price share of growth",
+    "Cash conversion cycle (days)"
+   ],
+   "z": [
+    [
+     -0.77,
+     -0.48,
+     1.72,
+     -0.48
+    ],
+    [
+     0.96,
+     0.29,
+     -1.68,
+     0.42
+    ],
+    [
+     -1.2,
+     1.15,
+     -0.76,
+     0.81
+    ],
+    [
+     -0.85,
+     0.77,
+     -1.12,
+     1.2
+    ],
+    [
+     0.87,
+     0.34,
+     -1.7,
+     0.49
+    ],
+    [
+     0.56,
+     -1.05,
+     1.35,
+     -0.86
+    ],
+    [
+     -0.07,
+     -0.97,
+     1.64,
+     -0.6
+    ],
+    [
+     0.88,
+     0.45,
+     -1.7,
+     0.37
+    ],
+    [
+     -0.92,
+     1.03,
+     -1.07,
+     0.96
+    ]
+   ],
+   "text": [
+    [
+     "-7.8 pp",
+     "-6.8 pp",
+     "+0.3 pp",
+     "-6.8 pp"
+    ],
+    [
+     "+6.6 pp",
+     "+4.9 pp",
+     "+0.0 pp",
+     "+5.2 pp"
+    ],
+    [
+     "-0.1",
+     "+1.8",
+     "+0.2",
+     "+1.5"
+    ],
+    [
+     "+0.1",
+     "+1.0",
+     "-0.1",
+     "+1.3"
+    ],
+    [
+     "+1.6 pp",
+     "+1.3 pp",
+     "-0.1 pp",
+     "+1.4 pp"
+    ],
+    [
+     "+0.0",
+     "-1.0",
+     "+0.5",
+     "-0.9"
+    ],
+    [
+     "-1.2 pp",
+     "-1.9 pp",
+     "+0.3 pp",
+     "-1.6 pp"
+    ],
+    [
+     "+95.8 pp",
+     "+79.5 pp",
+     "-0.9 pp",
+     "+76.5 pp"
+    ],
+    [
+     "-0.1",
+     "+3.8",
+     "-0.4",
+     "+3.6"
+    ]
+   ]
+  },
+  "why_not": [
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "growth_bought",
+    "statement": "Growth is being bought with inventory and margin",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   }
+  ],
+  "falsification_monitor": {
+   "status": "confirmed",
+   "conditions": [
+    {
+     "metric": "volume_growth_yoy",
+     "met": false,
+     "latest": -0.03838
+    },
+    {
+     "metric": "price_share_of_growth",
+     "met": false,
+     "latest": 1.51487
+    }
+   ]
+  }
+ }
+}

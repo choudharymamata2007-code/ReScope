@@ -1,0 +1,5 @@
+# One company name per line. Include a mix: FMCG names, one retail/consumer-services name, and (if your list has one)
+# a non-NIFTY consumer company. At least one should be a company that does NOT state volume growth.
+Hindustan Unilever
+Nestle India
+Titan Company

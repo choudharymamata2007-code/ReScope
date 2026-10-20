@@ -1,0 +1,10 @@
+.env
+cache/
+data/rescope.db
+data/inbox/
+__pycache__/
+*.pyc
+.pytest_cache/
+eval_runs/
+venv/
+

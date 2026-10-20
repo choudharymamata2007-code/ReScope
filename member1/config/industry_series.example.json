@@ -1,0 +1,28 @@
+[
+  {
+    "kind": "csv",
+    "id": "food_cpi_example",
+    "title": "Consumer food price index (EXAMPLE: replace url with a verified official download)",
+    "url": "https://example.invalid/replace-with-verified-official-csv",
+    "date_col": "Date",
+    "value_col": "Index",
+    "unit": "index"
+  },
+  {
+    "kind": "world_bank",
+    "id": "wb_indicator_example",
+    "title": "World Bank indicator (EXAMPLE: fill the real indicator code in the url)",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/REPLACE_CODE?format=json&per_page=100",
+    "unit": ""
+  },
+  {
+    "kind": "csv",
+    "id": "series_from_manual_download_example",
+    "title": "Official series downloaded by hand (UNEDITED file; url = the public page it came from)",
+    "url": "https://example.invalid/public-page-of-the-series",
+    "path": "data/industry/yourfile.csv",
+    "date_col": "Date",
+    "value_col": "Value",
+    "unit": ""
+  }
+]

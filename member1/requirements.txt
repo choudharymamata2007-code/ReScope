@@ -1,0 +1,17 @@
+pydantic>=2.5
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pdfplumber>=0.11
+feedparser>=6.0
+rapidfuzz>=3.0
+scikit-learn>=1.4
+pytest>=8.0
+reportlab>=4.0   # tests only (builds a tiny PDF fixture)
+yfinance>=0.2          # quarterly statements from an aggregator (unofficial; check its terms)
+# optional (better embeddings / search fallback):
+# sentence-transformers>=3.0
+# ddgs>=9.0
+# pytrends>=4.9

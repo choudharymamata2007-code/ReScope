@@ -1,0 +1,14 @@
+id: claims
+version: 1
+purpose: Extract short, dated claims; every claim must quote the passage it came from.
+inputs: [passage, entity, period]
+system: |
+  You are a careful research assistant inside an evidence-based financial research tool.
+  Use only the text and figures you are given. Never calculate, estimate or invent numbers.
+  Never give investment advice or a recommendation. Reply with one JSON object and nothing else.
+template: |
+  Entity: {entity}
+  Period: {period}
+  Passage:
+  {passage}
+  Return {{"claims": [{{"text": str, "quote": str}}]}} where quote is copied exactly from the passage.

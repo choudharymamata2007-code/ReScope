@@ -1,0 +1,2078 @@
+{
+ "schema_version": 1,
+ "company": "Orchard Beverages Ltd",
+ "slug": "orchard-beverages-ltd",
+ "label": "Fictional demo data",
+ "generated_at": "2026-10-18",
+ "profile": {
+  "input_name": "Orchard Beverages Ltd",
+  "name": "Orchard Beverages Ltd",
+  "nse_symbol": "ORCHBEV",
+  "bse_code": null,
+  "isin": null,
+  "sector": null,
+  "industry": "Fast Moving Consumer Goods",
+  "archetype": "packaged_staples",
+  "archetype_confidence": 1.0,
+  "archetype_terms": [],
+  "match_score": 100.0,
+  "peers": [
+   {
+    "name": "Sunrise Beverages Ltd",
+    "symbol": "SUNBEV",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   }
+  ],
+  "warnings": [],
+  "resolved_at": "2026-10-18T08:00:00Z"
+ },
+ "metrics": {
+  "Orchard Beverages Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q1 FY26",
+     "value": 0.08094,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "056f88a708f14532",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.07312,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "bfa27cfcb25f321c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.05965,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8b2e3ba2eaf4ac6c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.05169,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "6b592efa007b6ff7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.0435,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "979b9a2360982692",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q1 FY26",
+     "value": 40.02467,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "056f88a708f14532",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 42.53061,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "bfa27cfcb25f321c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 44.77364,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "8b2e3ba2eaf4ac6c",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 47.17982,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "6b592efa007b6ff7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 48.44415,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "979b9a2360982692",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Sunrise Beverages Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q1 FY26",
+     "value": 0.07735,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.08398,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.08197,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.07809,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.08194,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q1 FY26",
+     "value": 39.60308,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 39.83228,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 39.9291,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 39.67458,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 39.56584,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "2b4423e37b661840",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "industry": {
+   "food_cpi": [
+    {
+     "period": "Q1 FY26",
+     "value": 100.0,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "bf5117013b34ddec",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 101.2,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "bf5117013b34ddec",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 102.41,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "bf5117013b34ddec",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 103.64,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "bf5117013b34ddec",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 104.89,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "bf5117013b34ddec",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  }
+ },
+ "benchmark": {
+  "entity": "Orchard Beverages Ltd",
+  "peers": [
+   "Sunrise Beverages Ltd"
+  ],
+  "comparisons": [
+   {
+    "metric": "revenue_growth_yoy",
+    "company": {
+     "first": 0.08094,
+     "last": 0.0435,
+     "relative_change": -0.4625648628613788,
+     "direction": "down",
+     "n": 5
+    },
+    "peer_median_change": 0.059340659340659296,
+    "peers_same_direction": 0,
+    "peers_total": 1,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "0/1 peers moved the same way"
+   },
+   {
+    "metric": "receivable_days",
+    "company": {
+     "first": 40.02467,
+     "last": 48.44415,
+     "relative_change": 0.2103572621585637,
+     "direction": "up",
+     "n": 5
+    },
+    "peer_median_change": -0.0009403309035559117,
+    "peers_same_direction": 0,
+    "peers_total": 1,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "0/1 peers moved the same way"
+   }
+  ],
+  "overall": "company_specific",
+  "warnings": []
+ },
+ "coverage": {
+  "coverage_score": 0.601,
+  "sufficient": false,
+  "components": {
+   "source_types": 0.714,
+   "quarters": 0.625,
+   "metrics_disclosed": 0.333,
+   "peer_data": 0.3333333333333333,
+   "outside_evidence": 1.0
+  },
+  "source_types_found": [
+   "gov_macro",
+   "news",
+   "presentation",
+   "results",
+   "transcript"
+  ],
+  "source_types_missing": [
+   "annual_report",
+   "filing"
+  ],
+  "quarters_covered": 5,
+  "metrics_disclosed": [
+   "revenue_growth_yoy",
+   "receivable_days"
+  ],
+  "metrics_missing": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy",
+   "inventory_days",
+   "gross_margin"
+  ],
+  "proxies_used": [],
+  "peers_with_data": 1,
+  "has_outside_company_evidence": true,
+  "official_filings_found": true,
+  "missing_quarters": [],
+  "warnings": [
+   "only 5 quarters of data (target 8)",
+   "metrics not available: volume_growth_yoy, price_mix_growth_yoy, inventory_days, gross_margin",
+   "only 1 peers with data"
+  ]
+ },
+ "say_vs_do": [
+  {
+   "statement": "Our channel is healthy and distributor inventory is under control",
+   "evidence_id": "af0ff4010a484a16",
+   "rule": "channel_health",
+   "angle": "Working capital",
+   "expected": "down_or_flat",
+   "metric": "receivable_days",
+   "verdict": "misaligned",
+   "observed_direction": "up",
+   "relative_change": 0.2104,
+   "detail": "receivable days should be down or flat; observed up (+21.0%)"
+  }
+ ],
+ "disclosure_changes": [],
+ "triangulation": [
+  {
+   "representative": "We continue to see broad-based growth across our portfolio.",
+   "claim_texts": [
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio."
+   ],
+   "evidence_ids": [
+    "465de8828736f4eb",
+    "a0c36476a47581bc",
+    "af0ff4010a484a16"
+   ],
+   "independent_evidence_ids": [
+    "465de8828736f4eb",
+    "a0c36476a47581bc",
+    "af0ff4010a484a16"
+   ],
+   "independent_source_types": [
+    "presentation"
+   ],
+   "independent_count": 1,
+   "has_outside_company": false,
+   "roles": [
+    "company"
+   ],
+   "meets_triangulation": false,
+   "flags": []
+  }
+ ],
+ "evidence": [
+  {
+   "title": "Orchard Beverages Ltd quarterly results Q1 FY26",
+   "text": "Orchard Beverages Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q1-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-08-09",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q1 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "056f88a708f14532",
+   "origin_hash": "f3890bf5d345",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd quarterly results Q2 FY26",
+   "text": "Orchard Beverages Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q2-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-11-09",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q2 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "bfa27cfcb25f321c",
+   "origin_hash": "109912a36613",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd quarterly results Q3 FY26",
+   "text": "Orchard Beverages Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q3-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-02-09",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q3 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "8b2e3ba2eaf4ac6c",
+   "origin_hash": "e29a8cf4ce21",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd quarterly results Q4 FY26",
+   "text": "Orchard Beverages Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q4-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-05-10",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q4 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "6b592efa007b6ff7",
+   "origin_hash": "9d7977e1649d",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd quarterly results Q1 FY27",
+   "text": "Orchard Beverages Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q1-FY27.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "979b9a2360982692",
+   "origin_hash": "aaca00b04596",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd investor presentation Q2 FY26",
+   "text": "Our channel is healthy and distributor inventory is under control. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2025-11-04",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q2 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "af0ff4010a484a16",
+   "origin_hash": "0ef07f91b380",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd investor presentation Q4 FY26",
+   "text": "Our channel is healthy and distributor inventory is under control. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-05-05",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q4 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "a0c36476a47581bc",
+   "origin_hash": "0ef07f91b380",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd investor presentation Q1 FY27",
+   "text": "Our channel is healthy and distributor inventory is under control. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-08-04",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "465de8828736f4eb",
+   "origin_hash": "0ef07f91b380",
+   "claims": []
+  },
+  {
+   "title": "Orchard Beverages Ltd earnings call transcript Q1 FY27",
+   "text": "Our channel is healthy and distributor inventory is under control.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/transcript-Q1-FY27.pdf",
+   "source_type": "transcript",
+   "source_tier": 3,
+   "date": "2026-08-07",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.7",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "af35606399d0dbcf",
+   "origin_hash": "f6b4e9c43f81",
+   "claims": []
+  },
+  {
+   "title": "Trade press note 1 on Orchard Beverages Ltd",
+   "text": "Receivable days at beverage distributors were stable this year.",
+   "url": "https://news.example.invalid/orchard-beverages-ltd/story-1",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-06-10",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "period": null,
+   "locator": "para 2",
+   "publisher": "news.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "cbfc4de50f5287f9",
+   "origin_hash": "1f386a546b7a",
+   "claims": []
+  },
+  {
+   "title": "Food price index (official series)",
+   "text": "Limited public series.",
+   "url": "https://data.example.invalid/orchard-beverages-ltd/food-cpi",
+   "source_type": "gov_macro",
+   "source_tier": 2,
+   "date": "2026-07-15",
+   "entity": "industry",
+   "role": "industry",
+   "period": null,
+   "locator": "series:food_cpi",
+   "publisher": "data.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "bf5117013b34ddec",
+   "origin_hash": "cc092c62f81d",
+   "claims": []
+  },
+  {
+   "title": "Sunrise Beverages Ltd results (peer)",
+   "text": "Sunrise Beverages Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/sunrise-beverages-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Sunrise Beverages Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "2b4423e37b661840",
+   "origin_hash": "f6bd6a97933f",
+   "claims": []
+  }
+ ],
+ "plan": {
+  "archetype": "packaged_staples",
+  "angles_considered": [
+   "Distribution shift",
+   "Growth quality",
+   "Margin and cost",
+   "Open exploration",
+   "Working capital"
+  ],
+  "hypotheses": [
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "tests": [
+     {
+      "metric": [
+       "receivable_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "volume_growth_yoy",
+       "revenue_growth_yoy"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Receivable days are in the filings before they reach the news, so lenders and suppliers can see stretch early.",
+     "A volume-led growth story should not need longer payment terms."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 40.02467,
+      "last": 48.44415,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.08094,
+      "last": 0.0435,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.0067,
+    "metrics": [
+     "receivable_days",
+     "revenue_growth_yoy"
+    ],
+    "rank": 1
+   },
+   {
+    "id": "open_divergence",
+    "angle": "open_exploration",
+    "angle_label": "Open exploration",
+    "statement": "Revenue growth (YoY) has moved down while peers have not followed",
+    "tests": [
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "A company moving against its peers points to something specific to the company."
+    ],
+    "results": [
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.08094,
+      "last": 0.0435,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.0046,
+    "metrics": [
+     "revenue_growth_yoy"
+    ],
+    "rank": 2
+   }
+  ],
+  "untestable": [
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "tests": [
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy",
+       "volume_growth_yoy"
+      ],
+      "expect": "down_or_flat"
+     }
+    ],
+    "matters": [
+     "Inventory piling up ahead of weaker sales often precedes discounting and margin pressure."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "inventory_days"
+      ],
+      "expect": "up",
+      "available": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down_or_flat",
+      "available": true,
+      "direction": "down",
+      "first": 0.08094,
+      "last": 0.0435,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.5,
+    "status": "untestable",
+    "rank_score": 0.0046,
+    "metrics": [
+     "revenue_growth_yoy"
+    ],
+    "rank": 3
+   },
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "tests": [
+     {
+      "metric": [
+       "gross_margin"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat"
+     }
+    ],
+    "matters": [
+     "Growth that costs margin changes how durable the earnings are."
+    ],
+    "angle": "margin_cost",
+    "angle_label": "Margin and cost",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "gross_margin"
+      ],
+      "expect": "down",
+      "available": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "up_or_flat",
+      "available": true,
+      "direction": "down",
+      "first": 0.08094,
+      "last": 0.0435,
+      "score": 0.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.5,
+    "status": "untestable",
+    "rank_score": 0.0046,
+    "metrics": [
+     "revenue_growth_yoy"
+    ],
+    "rank": 4
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "tests": [
+     {
+      "metric": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "receivable_days",
+       "inventory_days"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A longer cash cycle ties up more money for the same sales."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up",
+      "available": false
+     },
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 40.02467,
+      "last": 48.44415,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.5,
+    "status": "untestable",
+    "rank_score": 0.0021,
+    "metrics": [
+     "receivable_days"
+    ],
+    "rank": 5
+   },
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "tests": [
+     {
+      "metric": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "Price-led growth is harder to sustain than volume-led growth and can hide weakening demand."
+    ],
+    "angle": "growth_quality",
+    "angle_label": "Growth quality",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 6
+   },
+   {
+    "id": "mix_shift",
+    "statement": "Sales are shifting between channels or segments",
+    "tests": [
+     {
+      "metric": [
+       "mix_*"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A shift in channel or segment mix changes margins and receivable risk."
+    ],
+    "angle": "distribution_shift",
+    "angle_label": "Distribution shift",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "mix_*"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 7
+   }
+  ],
+  "collect_requests": [
+   {
+    "metric": "volume_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   },
+   {
+    "metric": "price_mix_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   },
+   {
+    "metric": "inventory_days",
+    "reason": "needed by at least one hypothesis"
+   },
+   {
+    "metric": "gross_margin",
+    "reason": "needed by at least one hypothesis"
+   }
+  ],
+  "missing_metrics": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy",
+   "inventory_days",
+   "gross_margin"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Our channel is healthy and distributor inventory is under control.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+   "evidence_id": "af0ff4010a484a16",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "distribution",
+   "direction": null,
+   "period": "Q2 FY26",
+   "date": "2025-11-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Our channel is healthy and distributor inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+   "evidence_id": "af0ff4010a484a16",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q2 FY26",
+   "date": "2025-11-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Our channel is healthy and distributor inventory is under control.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+   "evidence_id": "a0c36476a47581bc",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "distribution",
+   "direction": null,
+   "period": "Q4 FY26",
+   "date": "2026-05-05",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Our channel is healthy and distributor inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+   "evidence_id": "a0c36476a47581bc",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q4 FY26",
+   "date": "2026-05-05",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Our channel is healthy and distributor inventory is under control.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "465de8828736f4eb",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "distribution",
+   "direction": null,
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Our channel is healthy and distributor inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "465de8828736f4eb",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Our channel is healthy and distributor inventory is under control.",
+   "url": "https://ir.example.invalid/orchard-beverages-ltd/transcript-Q1-FY27.pdf",
+   "evidence_id": "af35606399d0dbcf",
+   "entity": "Orchard Beverages Ltd",
+   "role": "company",
+   "source_type": "transcript",
+   "topic": "distribution",
+   "direction": null,
+   "period": "Q1 FY27",
+   "date": "2026-08-07",
+   "locator": "p.7",
+   "tier": 3,
+   "independent": true,
+   "quote": "Our channel is healthy and distributor inventory is under control."
+  }
+ ],
+ "timeline": {
+  "change_points": [],
+  "primary_change_point": null,
+  "events": [
+   {
+    "date": "2025-11-04",
+    "period": "Q2 FY26",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "af0ff4010a484a16",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-11-04",
+    "period": "Q2 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "af0ff4010a484a16",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-05",
+    "period": "Q4 FY26",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "a0c36476a47581bc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-05",
+    "period": "Q4 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "a0c36476a47581bc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "465de8828736f4eb",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "465de8828736f4eb",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "af35606399d0dbcf",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "span": {
+   "first": "Q1 FY26",
+   "last": "Q1 FY27"
+  }
+ },
+ "contradictions": [
+  {
+   "kind": "management_vs_numbers",
+   "topic": "Working capital",
+   "entity": "Orchard Beverages Ltd",
+   "quote_a": "Our channel is healthy and distributor inventory is under control",
+   "quote_b": "receivable days should be down or flat; observed up (+21.0%)",
+   "url_a": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+   "url_b": null,
+   "locator_a": "p.3",
+   "locator_b": null,
+   "period_a": "Q2 FY26",
+   "period_b": null,
+   "evidence_ids": [
+    "af0ff4010a484a16"
+   ],
+   "metric": "receivable_days",
+   "detail": "receivable days should be down or flat; observed up (+21.0%)",
+   "nli": null,
+   "overlap": null,
+   "judge": "computed"
+  }
+ ],
+ "skeptic_runs": [
+  {
+   "hypothesis_id": "channel_stretch",
+   "verdict": "weakened",
+   "reasons": [
+    "the company-vs-sector test could not be run (too few peers or no data)",
+    "data coverage is thin"
+   ],
+   "sector": {
+    "verdict": "insufficient",
+    "peers_same_direction": 0,
+    "peers_total": 1,
+    "note": "only 1 peer(s) with data"
+   },
+   "rounds": [
+    {
+     "round": 1,
+     "predictions": [
+      "If this is right, Receivable days should keep moving up.",
+      "If this is right, Revenue growth (YoY) should keep moving down.",
+      "If this is company-specific, most peers should NOT show the same pattern."
+     ],
+     "queries": [
+      "Receivable days fell improved packaged staples",
+      "Revenue growth (YoY) rose improved packaged staples"
+     ],
+     "counter_found": 3,
+     "independent_counter": 0,
+     "sector": "insufficient",
+     "verdict": "weakened",
+     "reasons": [
+      "the company-vs-sector test could not be run (too few peers or no data)",
+      "data coverage is thin"
+     ]
+    }
+   ],
+   "counter_evidence": [
+    {
+     "text": "We continue to see broad-based growth across our portfolio.",
+     "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q2 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "af0ff4010a484a16",
+     "topic": "demand"
+    },
+    {
+     "text": "We continue to see broad-based growth across our portfolio.",
+     "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q4 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "a0c36476a47581bc",
+     "topic": "demand"
+    },
+    {
+     "text": "We continue to see broad-based growth across our portfolio.",
+     "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY27",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "465de8828736f4eb",
+     "topic": "demand"
+    }
+   ],
+   "warnings": []
+  }
+ ],
+ "skeptic": {
+  "hypothesis_id": "channel_stretch",
+  "verdict": "weakened",
+  "reasons": [
+   "the company-vs-sector test could not be run (too few peers or no data)",
+   "data coverage is thin"
+  ],
+  "sector": {
+   "verdict": "insufficient",
+   "peers_same_direction": 0,
+   "peers_total": 1,
+   "note": "only 1 peer(s) with data"
+  },
+  "rounds": [
+   {
+    "round": 1,
+    "predictions": [
+     "If this is right, Receivable days should keep moving up.",
+     "If this is right, Revenue growth (YoY) should keep moving down.",
+     "If this is company-specific, most peers should NOT show the same pattern."
+    ],
+    "queries": [
+     "Receivable days fell improved packaged staples",
+     "Revenue growth (YoY) rose improved packaged staples"
+    ],
+    "counter_found": 3,
+    "independent_counter": 0,
+    "sector": "insufficient",
+    "verdict": "weakened",
+    "reasons": [
+     "the company-vs-sector test could not be run (too few peers or no data)",
+     "data coverage is thin"
+    ]
+   }
+  ],
+  "counter_evidence": [
+   {
+    "text": "We continue to see broad-based growth across our portfolio.",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q2 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "af0ff4010a484a16",
+    "topic": "demand"
+   },
+   {
+    "text": "We continue to see broad-based growth across our portfolio.",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q4 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "a0c36476a47581bc",
+    "topic": "demand"
+   },
+   {
+    "text": "We continue to see broad-based growth across our portfolio.",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY27",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "465de8828736f4eb",
+    "topic": "demand"
+   }
+  ],
+  "warnings": []
+ },
+ "falsification": {
+  "conditions": [
+   {
+    "metric": "receivable_days",
+    "operator": "<=",
+    "threshold": 40.0247,
+    "periods": 2
+   },
+   {
+    "metric": "revenue_growth_yoy",
+    "operator": ">=",
+    "threshold": 0.0809,
+    "periods": 2
+   }
+  ],
+  "statement": "This finding is reversed if Receivable days is at or below 40 days and Revenue growth (YoY) is at or above 8.1% for 2 consecutive quarters.",
+  "window": "2 consecutive quarters",
+  "check_against": "Member 1 metric series (recomputed when new results arrive)"
+ },
+ "counterargument": {
+  "title": "Contrary statement",
+  "text": "A presentation says the opposite: \"We continue to see broad-based growth across our portfolio.\"",
+  "strength": 0.45,
+  "others": [
+   {
+    "title": "Thin data",
+    "text": "only 5 quarters of data (target 8); metrics not available: volume_growth_yoy, price_mix_growth_yoy, inventory_days, gross_margin",
+    "strength": 0.3
+   }
+  ]
+ },
+ "score": {
+  "components": {
+   "triangulation": 0.667,
+   "source_quality": 0.979,
+   "recency": 1.0,
+   "falsification": 0.5,
+   "coverage": 0.601
+  },
+  "weights": {
+   "triangulation": 0.3,
+   "source_quality": 0.25,
+   "recency": 0.2,
+   "falsification": 0.15,
+   "coverage": 0.1
+  },
+  "penalty": 0.0,
+  "total": 0.78,
+  "rating": "Weak",
+  "cap_reason": "data coverage is thin",
+  "independent_types": [
+   "gov_macro",
+   "results"
+  ],
+  "has_outside_evidence": true,
+  "reasoning": [
+   "Score 0.78: triangulation 0.67, source quality 0.98, recency 1.00, falsification 0.50, coverage 0.60.",
+   "2 independent source type(s): gov_macro, results; includes evidence from outside the company.",
+   "Skeptic verdict: weakened (the company-vs-sector test could not be run (too few peers or no data); data coverage is thin).",
+   "Rating capped at Moderate because data coverage is thin."
+  ]
+ },
+ "discovery": {
+  "discovery": "Receivable days moved from 40 days (Q1 FY26) to 48 days (Q1 FY27) while Revenue growth (YoY) moved from 8.1% (Q1 FY26) to 4.3% (Q1 FY27); the peer comparison could not be completed.",
+  "why_it_matters": [
+   "Receivable days are in the filings before they reach the news, so lenders and suppliers can see stretch early.",
+   "A volume-led growth story should not need longer payment terms.",
+   "The peer median for Receivable days moved -0.1% over the window (relative change), which is the benchmark for the company-vs-sector test.",
+   "2 independent source type(s) support it: gov_macro, results.",
+   "Some inputs are proxies or thinly covered, which lowers confidence; see the coverage meter."
+  ],
+  "evidence": [
+   {
+    "id": "056f88a708f14532",
+    "title": "Orchard Beverages Ltd quarterly results Q1 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-08-09",
+    "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q1-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Orchard Beverages Ltd",
+    "period": "Q1 FY26",
+    "passage": "Orchard Beverages Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "bfa27cfcb25f321c",
+    "title": "Orchard Beverages Ltd quarterly results Q2 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-11-09",
+    "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q2-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Orchard Beverages Ltd",
+    "period": "Q2 FY26",
+    "passage": "Orchard Beverages Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "8b2e3ba2eaf4ac6c",
+    "title": "Orchard Beverages Ltd quarterly results Q3 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-02-09",
+    "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q3-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Orchard Beverages Ltd",
+    "period": "Q3 FY26",
+    "passage": "Orchard Beverages Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "6b592efa007b6ff7",
+    "title": "Orchard Beverages Ltd quarterly results Q4 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-05-10",
+    "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q4-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Orchard Beverages Ltd",
+    "period": "Q4 FY26",
+    "passage": "Orchard Beverages Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "979b9a2360982692",
+    "title": "Orchard Beverages Ltd quarterly results Q1 FY27",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/orchard-beverages-ltd/results-Q1-FY27.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Orchard Beverages Ltd",
+    "period": "Q1 FY27",
+    "passage": "Orchard Beverages Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "2b4423e37b661840",
+    "title": "Sunrise Beverages Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/sunrise-beverages-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Sunrise Beverages Ltd",
+    "period": null,
+    "passage": "Sunrise Beverages Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: receivable_days",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "bf5117013b34ddec",
+    "title": "Food price index (official series)",
+    "source_type": "gov_macro",
+    "tier": 2,
+    "date": "2026-07-15",
+    "url": "https://data.example.invalid/orchard-beverages-ltd/food-cpi",
+    "locator": "series:food_cpi",
+    "role": "industry",
+    "entity": "industry",
+    "period": null,
+    "passage": "Limited public series.",
+    "highlight": "",
+    "why": "industry series: food_cpi",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "counter-af0ff4010a484a16",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q2 FY26",
+    "passage": "We continue to see broad-based growth across our portfolio.",
+    "highlight": "We continue to see broad-based growth across our portfolio.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-a0c36476a47581bc",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q4 FY26",
+    "passage": "We continue to see broad-based growth across our portfolio.",
+    "highlight": "We continue to see broad-based growth across our portfolio.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-465de8828736f4eb",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY27",
+    "passage": "We continue to see broad-based growth across our portfolio.",
+    "highlight": "We continue to see broad-based growth across our portfolio.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-04",
+    "period": "Q2 FY26",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "af0ff4010a484a16",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-11-04",
+    "period": "Q2 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q2-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "af0ff4010a484a16",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-05",
+    "period": "Q4 FY26",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "a0c36476a47581bc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-05",
+    "period": "Q4 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q4-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "a0c36476a47581bc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "465de8828736f4eb",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "465de8828736f4eb",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Our channel is healthy and distributor inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/orchard-beverages-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "af35606399d0dbcf",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "numbers": [
+   {
+    "metric": "receivable_days",
+    "label": "Receivable days",
+    "first_period": "Q1 FY26",
+    "last_period": "Q1 FY27",
+    "first": 40.02467,
+    "last": 48.44415,
+    "first_display": "40 days",
+    "last_display": "48 days",
+    "direction": "up",
+    "peer_median_change": -0.0009403309035559117,
+    "peers_same_direction": 0,
+    "peers_total": 1,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q1 FY26",
+      40.02467
+     ],
+     [
+      "Q2 FY26",
+      42.53061
+     ],
+     [
+      "Q3 FY26",
+      44.77364
+     ],
+     [
+      "Q4 FY26",
+      47.17982
+     ],
+     [
+      "Q1 FY27",
+      48.44415
+     ]
+    ]
+   },
+   {
+    "metric": "revenue_growth_yoy",
+    "label": "Revenue growth (YoY)",
+    "first_period": "Q1 FY26",
+    "last_period": "Q1 FY27",
+    "first": 0.08094,
+    "last": 0.0435,
+    "first_display": "8.1%",
+    "last_display": "4.3%",
+    "direction": "down",
+    "peer_median_change": 0.059340659340659296,
+    "peers_same_direction": 0,
+    "peers_total": 1,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q1 FY26",
+      0.08094
+     ],
+     [
+      "Q2 FY26",
+      0.07312
+     ],
+     [
+      "Q3 FY26",
+      0.05965
+     ],
+     [
+      "Q4 FY26",
+      0.05169
+     ],
+     [
+      "Q1 FY27",
+      0.0435
+     ]
+    ]
+   }
+  ],
+  "counterargument": {
+   "title": "Contrary statement",
+   "text": "A presentation says the opposite: \"We continue to see broad-based growth across our portfolio.\"",
+   "strength": 0.45,
+   "others": [
+    {
+     "title": "Thin data",
+     "text": "only 5 quarters of data (target 8); metrics not available: volume_growth_yoy, price_mix_growth_yoy, inventory_days, gross_margin",
+     "strength": 0.3
+    }
+   ]
+  },
+  "falsification": {
+   "conditions": [
+    {
+     "metric": "receivable_days",
+     "operator": "<=",
+     "threshold": 40.0247,
+     "periods": 2
+    },
+    {
+     "metric": "revenue_growth_yoy",
+     "operator": ">=",
+     "threshold": 0.0809,
+     "periods": 2
+    }
+   ],
+   "statement": "This finding is reversed if Receivable days is at or below 40 days and Revenue growth (YoY) is at or above 8.1% for 2 consecutive quarters.",
+   "window": "2 consecutive quarters",
+   "check_against": "Member 1 metric series (recomputed when new results arrive)"
+  },
+  "evidence_strength": {
+   "components": {
+    "triangulation": 0.667,
+    "source_quality": 0.979,
+    "recency": 1.0,
+    "falsification": 0.5,
+    "coverage": 0.601
+   },
+   "weights": {
+    "triangulation": 0.3,
+    "source_quality": 0.25,
+    "recency": 0.2,
+    "falsification": 0.15,
+    "coverage": 0.1
+   },
+   "penalty": 0.0,
+   "total": 0.78,
+   "rating": "Weak",
+   "cap_reason": "data coverage is thin",
+   "independent_types": [
+    "gov_macro",
+    "results"
+   ],
+   "has_outside_evidence": true,
+   "reasoning": [
+    "Score 0.78: triangulation 0.67, source quality 0.98, recency 1.00, falsification 0.50, coverage 0.60.",
+    "2 independent source type(s): gov_macro, results; includes evidence from outside the company.",
+    "Skeptic verdict: weakened (the company-vs-sector test could not be run (too few peers or no data); data coverage is thin).",
+    "Rating capped at Moderate because data coverage is thin."
+   ]
+  },
+  "hypothesis_id": "channel_stretch",
+  "hypothesis": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+  "disclaimer": "Research findings for a human to verify; not investment advice or a recommendation."
+ },
+ "check_problems": [],
+ "events": [
+  {
+   "stage": 1,
+   "name": "Company intake and peers",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "Orchard Beverages Ltd: archetype packaged_staples, 1 peers"
+  },
+  {
+   "stage": 2,
+   "name": "Angle planning",
+   "status": "done",
+   "seconds": 0.002,
+   "summary": "2 testable hypotheses; top: Growth is being supported by looser distributor credit: receivable days rise while volume growth fades"
+  },
+  {
+   "stage": 3,
+   "name": "Evidence collection",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "12 evidence items (gov_macro 1, news 1, presentation 3, results 6, transcript 1)"
+  },
+  {
+   "stage": 4,
+   "name": "Quantitative engine",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "2 company metrics, 1 peers with data"
+  },
+  {
+   "stage": 5,
+   "name": "Timeline builder",
+   "status": "done",
+   "seconds": 0.004,
+   "summary": "no change point detected"
+  },
+  {
+   "stage": 6,
+   "name": "Triangulation",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "1 claim clusters, 0 meet the 2-independent-type rule"
+  },
+  {
+   "stage": 7,
+   "name": "Say vs do and contradictions",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "1 contradictions flagged"
+  },
+  {
+   "stage": 8,
+   "name": "Peer and sector test",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "overall company_specific; 2 company-specific, 0 sector-wide metrics"
+  },
+  {
+   "stage": 9,
+   "name": "Skeptic loop",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "'channel_stretch' weakened after 1 round(s)"
+  },
+  {
+   "stage": 10,
+   "name": "Falsification condition",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "This finding is reversed if Receivable days is at or below 40 days and Revenue growth (YoY) is at or above 8.1% for 2 consecutive quarters."
+  },
+  {
+   "stage": 11,
+   "name": "Scoring and Evidence Strength",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "Weak (0.78)"
+  },
+  {
+   "stage": 12,
+   "name": "Discovery writer",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "8-element check passed"
+  }
+ ],
+ "extras": {
+  "language_drift": {
+   "periods": [
+    "Q2 FY26",
+    "Q4 FY26",
+    "Q1 FY27"
+   ],
+   "themes": {
+    "volume": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "pricing": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "quick commerce": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rural": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "channel": [
+     100.0,
+     100.0,
+     133.33
+    ],
+    "cost": [
+     0.0,
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "peer_heatmap": {
+   "entities": [
+    "Orchard Beverages Ltd",
+    "Sunrise Beverages Ltd"
+   ],
+   "metrics": [
+    "revenue_growth_yoy",
+    "receivable_days"
+   ],
+   "labels": [
+    "Revenue growth (YoY)",
+    "Receivable days"
+   ],
+   "z": [
+    [
+     -1.0,
+     1.0
+    ],
+    [
+     1.0,
+     -1.0
+    ]
+   ],
+   "text": [
+    [
+     "-3.7 pp",
+     "+0.5 pp"
+    ],
+    [
+     "+8.4",
+     "-0.0"
+    ]
+   ]
+  },
+  "why_not": [
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (inventory_days)"
+   },
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (gross_margin)"
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (cash_conversion_cycle)"
+   },
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (price_mix_growth_yoy, price_share_of_growth, volume_growth_yoy)"
+   },
+   {
+    "id": "mix_shift",
+    "statement": "Sales are shifting between channels or segments",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (mix_*)"
+   },
+   {
+    "id": "open_divergence",
+    "statement": "Revenue growth (YoY) has moved down while peers have not followed",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   }
+  ],
+  "falsification_monitor": {
+   "status": "confirmed",
+   "conditions": [
+    {
+     "metric": "receivable_days",
+     "met": false,
+     "latest": 48.44415
+    },
+    {
+     "metric": "revenue_growth_yoy",
+     "met": false,
+     "latest": 0.0435
+    }
+   ]
+  }
+ }
+}

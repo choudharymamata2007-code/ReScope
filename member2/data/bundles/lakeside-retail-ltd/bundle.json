@@ -1,0 +1,6211 @@
+{
+ "schema_version": 1,
+ "company": "Lakeside Retail Ltd",
+ "slug": "lakeside-retail-ltd",
+ "label": "Fictional demo data",
+ "generated_at": "2026-10-18",
+ "profile": {
+  "input_name": "Lakeside Retail Ltd",
+  "name": "Lakeside Retail Ltd",
+  "nse_symbol": "LAKERET",
+  "bse_code": null,
+  "isin": null,
+  "sector": null,
+  "industry": "Retailing",
+  "archetype": "organised_retail",
+  "archetype_confidence": 1.0,
+  "archetype_terms": [],
+  "match_score": 100.0,
+  "peers": [
+   {
+    "name": "Hillcrest Mart Ltd",
+    "symbol": "HILLMART",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Bayview Stores Ltd",
+    "symbol": "BAYSTORE",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Cedar Lifestyle Ltd",
+    "symbol": "CEDARLS",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   }
+  ],
+  "warnings": [],
+  "resolved_at": "2026-10-18T08:00:00Z"
+ },
+ "metrics": {
+  "Lakeside Retail Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.11218,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.1051,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.11141,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.1141,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.11401,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.11018,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.11157,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.10843,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.11034,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.10529,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.1122,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.11121,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 54.65108,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 56.89663,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 59.55963,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 61.18293,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 64.09902,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 66.20855,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 68.08683,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 68.98201,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 71.04752,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 73.47992,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 75.68686,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 78.32792,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.27131,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.26571,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.26147,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.25666,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.24995,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.24738,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.24158,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.23785,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.23167,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.22971,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.22619,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.21827,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 6.04804,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 5.71409,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 5.91112,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 5.79557,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 6.21635,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 6.13682,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 6.23792,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 5.83078,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 6.13134,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 6.1197,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 6.00641,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 6.24972,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 40.12493,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 39.78281,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 40.21709,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 39.98124,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 39.71303,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 40.1178,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 39.54829,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 39.94907,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 40.05677,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 39.50254,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 40.14857,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 39.5882,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 20.57419,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "5e9de40f40680d27",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 22.82791,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "c3e7c1d5ba74f43e",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 25.25366,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "014a730b3f999c49",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 26.99727,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "f78e38dce13f4cf7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 30.60234,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "21e9656eec832425",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 32.22757,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "a16e5deea1e14825",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 34.77647,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "2f726ab4aa604df4",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 34.86372,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "e4a8a15bc82a590b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 37.12209,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "421ff9ede920fa8b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 40.09708,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "ff8d78c1e9a2006b",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 41.5447,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "512ad94b59a73678",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 44.98944,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "9aea5053ff397c90",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Hillcrest Mart Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.1118,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.10809,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.10435,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.11599,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.10477,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.10588,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.11007,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.10694,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.11037,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.10969,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.11092,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.11052,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 54.67077,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 54.53833,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 55.31127,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 54.88637,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 55.03285,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 55.66546,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 54.21358,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 54.64375,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 55.10144,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 54.28639,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 55.40636,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 54.84214,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.26927,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.26878,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.27187,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.26819,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.27129,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.27082,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.27159,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.2708,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.26939,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.2702,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.27169,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.26816,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 6.20997,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 6.10406,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 5.8181,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 6.28004,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 5.87974,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 5.70274,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 5.86049,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 6.0091,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 5.71668,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 6.05505,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 5.96673,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 5.89965,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 40.25567,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 40.11836,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 40.46535,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 40.36969,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 40.36015,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 40.43306,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 40.34994,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 39.9867,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 39.56843,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 39.94708,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 40.11959,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 40.46942,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 20.62507,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 20.52403,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 20.66403,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 20.79672,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 20.55244,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 20.93514,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 19.72413,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 20.66615,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 21.24969,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 20.39436,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 21.25351,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 20.27236,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "375d7afe4d34aac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Bayview Stores Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.11185,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.11089,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.10504,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.11181,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.10444,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.10572,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.10452,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.11279,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.1153,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.11113,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.10505,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.11287,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 54.47906,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 55.33508,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 55.28224,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 55.71165,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 54.46471,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 54.57315,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 54.71074,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 54.32246,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 55.71264,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 55.19619,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 54.36999,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 54.96474,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.26839,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.27185,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.26944,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.26801,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.27096,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.26932,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.2706,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.27113,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.2683,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.27019,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.2718,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.26891,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 5.84963,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 6.10438,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 5.73467,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 6.1919,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 6.18123,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 6.2679,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 6.19996,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 6.04825,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 5.97607,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 6.02163,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 6.08161,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 6.28601,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 39.65239,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 39.99455,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 39.94995,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 39.7456,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 39.66387,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 40.28359,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 40.08495,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 40.18925,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 39.75725,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 39.97958,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 39.65912,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 39.65187,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 20.67631,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 21.4449,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 21.06696,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 22.15795,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 20.98206,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 20.55747,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 20.82575,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 20.18146,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 21.93146,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 21.23824,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 20.79248,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 21.59888,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "93c8b558756d8ced",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Cedar Lifestyle Ltd": {
+   "revenue_growth_yoy": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.10562,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.11251,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.11563,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.11304,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.11627,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.10858,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.11458,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.11077,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.11612,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.11353,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.11432,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.12302,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 55.07755,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 56.26188,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 58.32974,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 59.67322,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 62.16282,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 63.19977,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 65.58404,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 66.86028,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 68.62417,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 70.22791,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 71.86541,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 72.70025,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q2 FY24",
+     "value": 0.27116,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 0.26682,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 0.26162,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 0.25908,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 0.25726,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 0.25243,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 0.24839,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.24467,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.23919,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.23726,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.23337,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.23057,
+     "unit": "ratio",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 5.91724,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 5.78645,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 6.20945,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 5.8491,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 5.83529,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 5.96127,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 6.26632,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 6.11964,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 5.78487,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 5.75732,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 6.00025,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 5.73709,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q2 FY24",
+     "value": 39.72739,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 39.46785,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 40.07323,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 39.94915,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 39.78716,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 39.42676,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 38.66692,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 38.75688,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 39.16443,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 38.23171,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 38.54381,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 38.69627,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "cash_conversion_cycle": [
+    {
+     "period": "Q2 FY24",
+     "value": 21.2674,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 22.58048,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 24.46596,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY24)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 25.57317,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 28.21095,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 29.73428,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 33.18344,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY25)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 34.22304,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 35.24461,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q2 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 37.75352,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q3 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 39.32185,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q4 FY26)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 39.74107,
+     "unit": "days",
+     "locator": "p.5 table 1 (Q1 FY27)",
+     "evidence_id": "b3f20f7ebd447bf2",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "industry": {
+   "food_cpi": [
+    {
+     "period": "Q2 FY24",
+     "value": 100.0,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY24",
+     "value": 101.2,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 102.41,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY25",
+     "value": 103.64,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY25",
+     "value": 104.89,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY25",
+     "value": 106.15,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 107.42,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 108.71,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 110.01,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 111.33,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 112.67,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 114.02,
+     "unit": "index",
+     "locator": "series:food_cpi",
+     "evidence_id": "9bdceab006585586",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  }
+ },
+ "benchmark": {
+  "entity": "Lakeside Retail Ltd",
+  "peers": [
+   "Hillcrest Mart Ltd",
+   "Bayview Stores Ltd",
+   "Cedar Lifestyle Ltd"
+  ],
+  "comparisons": [
+   {
+    "metric": "revenue_growth_yoy",
+    "company": {
+     "first": 0.11218,
+     "last": 0.11121,
+     "relative_change": 3.0423803583870046e-05,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": 0.021249691586479175,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "inventory_days",
+    "company": {
+     "first": 54.65108,
+     "last": 78.32792,
+     "relative_change": 0.3295437822830981,
+     "direction": "up",
+     "n": 12
+    },
+    "peer_median_change": 8.825654841393325e-05,
+    "peers_same_direction": 1,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "1/3 peers moved the same way"
+   },
+   {
+    "metric": "gross_margin",
+    "company": {
+     "first": 0.27131,
+     "last": 0.21827,
+     "relative_change": -0.15569387218374686,
+     "direction": "down",
+     "n": 12
+    },
+    "peer_median_change": 0.00016050967996820975,
+    "peers_same_direction": 1,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "1/3 peers moved the same way"
+   },
+   {
+    "metric": "receivable_days",
+    "company": {
+     "first": 6.04804,
+     "last": 6.24972,
+     "relative_change": 0.03975386530491003,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": -0.011620256417751256,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "payable_days",
+    "company": {
+     "first": 40.12493,
+     "last": 39.5882,
+     "relative_change": -0.007371664958859817,
+     "direction": "flat",
+     "n": 12
+    },
+    "peer_median_change": -0.0025612706149801528,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "cash_conversion_cycle",
+    "company": {
+     "first": 20.57419,
+     "last": 44.98944,
+     "relative_change": 0.8444369416346128,
+     "direction": "up",
+     "n": 12
+    },
+    "peer_median_change": 0.006985959555404071,
+    "peers_same_direction": 1,
+    "peers_total": 3,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "1/3 peers moved the same way"
+   }
+  ],
+  "overall": "company_specific",
+  "warnings": []
+ },
+ "coverage": {
+  "coverage_score": 0.876,
+  "sufficient": true,
+  "components": {
+   "source_types": 0.714,
+   "quarters": 1.0,
+   "metrics_disclosed": 0.667,
+   "peer_data": 1.0,
+   "outside_evidence": 1.0
+  },
+  "source_types_found": [
+   "gov_macro",
+   "news",
+   "presentation",
+   "results",
+   "transcript"
+  ],
+  "source_types_missing": [
+   "annual_report",
+   "filing"
+  ],
+  "quarters_covered": 12,
+  "metrics_disclosed": [
+   "revenue_growth_yoy",
+   "receivable_days",
+   "inventory_days",
+   "gross_margin"
+  ],
+  "metrics_missing": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy"
+  ],
+  "proxies_used": [],
+  "peers_with_data": 3,
+  "has_outside_company_evidence": true,
+  "official_filings_found": true,
+  "missing_quarters": [],
+  "warnings": [
+   "metrics not available: volume_growth_yoy, price_mix_growth_yoy"
+  ]
+ },
+ "say_vs_do": [
+  {
+   "statement": "Inventory is under control",
+   "evidence_id": "c6cbf56de17d7126",
+   "rule": "inventory_control",
+   "angle": "Working capital",
+   "expected": "down_or_flat",
+   "metric": "inventory_days",
+   "verdict": "misaligned",
+   "observed_direction": "up",
+   "relative_change": 0.3295,
+   "detail": "inventory days should be down or flat; observed up (+33.0%)"
+  },
+  {
+   "statement": "Margins remain resilient",
+   "evidence_id": "c6cbf56de17d7126",
+   "rule": "margin_resilience",
+   "angle": "Margin and cost",
+   "expected": "up_or_flat",
+   "metric": "gross_margin",
+   "verdict": "misaligned",
+   "observed_direction": "down",
+   "relative_change": -0.1557,
+   "detail": "gross margin should be up or flat; observed down (-15.6%)"
+  }
+ ],
+ "disclosure_changes": [
+  {
+   "kind": "redefinition_language",
+   "term": "now presented",
+   "last_seen": "Q1 FY27",
+   "first_missing": null,
+   "detail": "wording suggests a change in how store productivity is reported"
+  }
+ ],
+ "triangulation": [
+  {
+   "representative": "We continue to see broad-based growth across our portfolio.",
+   "claim_texts": [
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio.",
+    "We continue to see broad-based growth across our portfolio."
+   ],
+   "evidence_ids": [
+    "21cd4d0c3e89f62b",
+    "295f8b126a0985ab",
+    "52fd3fd9f8ed9abe",
+    "69cadd5c948b3f22",
+    "77c78133e2367a74",
+    "c6cbf56de17d7126"
+   ],
+   "independent_evidence_ids": [
+    "21cd4d0c3e89f62b",
+    "295f8b126a0985ab",
+    "52fd3fd9f8ed9abe",
+    "69cadd5c948b3f22",
+    "77c78133e2367a74",
+    "c6cbf56de17d7126"
+   ],
+   "independent_source_types": [
+    "presentation"
+   ],
+   "independent_count": 1,
+   "has_outside_company": false,
+   "roles": [
+    "company"
+   ],
+   "meets_triangulation": false,
+   "flags": []
+  },
+  {
+   "representative": "Inventory is under control.",
+   "claim_texts": [
+    "Inventory is under control.",
+    "Inventory is under control.",
+    "Inventory is under control.",
+    "Inventory is under control."
+   ],
+   "evidence_ids": [
+    "21cd4d0c3e89f62b",
+    "295f8b126a0985ab",
+    "45a69cee5f849487",
+    "52fd3fd9f8ed9abe",
+    "69cadd5c948b3f22",
+    "77c78133e2367a74",
+    "93bf06cb6e50e123",
+    "c6cbf56de17d7126"
+   ],
+   "independent_evidence_ids": [
+    "21cd4d0c3e89f62b",
+    "295f8b126a0985ab",
+    "45a69cee5f849487",
+    "52fd3fd9f8ed9abe",
+    "69cadd5c948b3f22",
+    "77c78133e2367a74",
+    "93bf06cb6e50e123",
+    "c6cbf56de17d7126"
+   ],
+   "independent_source_types": [
+    "news",
+    "presentation",
+    "transcript"
+   ],
+   "independent_count": 3,
+   "has_outside_company": true,
+   "roles": [
+    "company"
+   ],
+   "meets_triangulation": true,
+   "flags": []
+  },
+  {
+   "representative": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+   "claim_texts": [
+    "Gross margin at the company fell during the last two festive seasons as discounting deepened."
+   ],
+   "evidence_ids": [
+    "59bb170f9042abe3"
+   ],
+   "independent_evidence_ids": [
+    "59bb170f9042abe3"
+   ],
+   "independent_source_types": [
+    "news"
+   ],
+   "independent_count": 1,
+   "has_outside_company": true,
+   "roles": [
+    "company"
+   ],
+   "meets_triangulation": false,
+   "flags": []
+  }
+ ],
+ "evidence": [
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q2 FY24",
+   "text": "Lakeside Retail Ltd reported results for Q2 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2023-11-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q2 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "5e9de40f40680d27",
+   "origin_hash": "e8dc2ac87332",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q3 FY24",
+   "text": "Lakeside Retail Ltd reported results for Q3 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-02-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "c3e7c1d5ba74f43e",
+   "origin_hash": "d0407d3cce43",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q4 FY24",
+   "text": "Lakeside Retail Ltd reported results for Q4 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY24.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-05-10",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q4 FY24",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "014a730b3f999c49",
+   "origin_hash": "79d2dae407f5",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q1 FY25",
+   "text": "Lakeside Retail Ltd reported results for Q1 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-08-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "f78e38dce13f4cf7",
+   "origin_hash": "6b3f5e7795bb",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q2 FY25",
+   "text": "Lakeside Retail Ltd reported results for Q2 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2024-11-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q2 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "21e9656eec832425",
+   "origin_hash": "80b4d6fe6eed",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q3 FY25",
+   "text": "Lakeside Retail Ltd reported results for Q3 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-02-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "a16e5deea1e14825",
+   "origin_hash": "51dbac11a8bb",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q4 FY25",
+   "text": "Lakeside Retail Ltd reported results for Q4 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY25.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-05-10",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q4 FY25",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "2f726ab4aa604df4",
+   "origin_hash": "44630d22d756",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q1 FY26",
+   "text": "Lakeside Retail Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-08-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "e4a8a15bc82a590b",
+   "origin_hash": "a9b4759c129d",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q2 FY26",
+   "text": "Lakeside Retail Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2025-11-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q2 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "421ff9ede920fa8b",
+   "origin_hash": "3ecac40fa0e2",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q3 FY26",
+   "text": "Lakeside Retail Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-02-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "ff8d78c1e9a2006b",
+   "origin_hash": "d7d3481b01a5",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q4 FY26",
+   "text": "Lakeside Retail Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY26.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-05-10",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q4 FY26",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "512ad94b59a73678",
+   "origin_hash": "358c35f6ef85",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd quarterly results Q1 FY27",
+   "text": "Lakeside Retail Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+   "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY27.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "9aea5053ff397c90",
+   "origin_hash": "3c1f1de5d35f",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q3 FY24",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2024-02-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY24",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "c6cbf56de17d7126",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q1 FY25",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2024-08-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY25",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "295f8b126a0985ab",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q3 FY25",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2025-02-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY25",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "21cd4d0c3e89f62b",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q1 FY26",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2025-08-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "69cadd5c948b3f22",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q3 FY26",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-02-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q3 FY26",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "77c78133e2367a74",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd investor presentation Q1 FY27",
+   "text": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+   "source_type": "presentation",
+   "source_tier": 3,
+   "date": "2026-08-04",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.3",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "52fd3fd9f8ed9abe",
+   "origin_hash": "9bab481e9f09",
+   "claims": []
+  },
+  {
+   "title": "Lakeside Retail Ltd earnings call transcript Q1 FY27",
+   "text": "Inventory is under control. Margins remain resilient.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+   "source_type": "transcript",
+   "source_tier": 3,
+   "date": "2026-08-07",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "p.7",
+   "publisher": "ir.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "45a69cee5f849487",
+   "origin_hash": "af6e40db4e66",
+   "claims": []
+  },
+  {
+   "title": "Trade press note 1 on Lakeside Retail Ltd",
+   "text": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+   "url": "https://news.example.invalid/lakeside-retail-ltd/story-1",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-06-10",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": null,
+   "locator": "para 2",
+   "publisher": "news.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "93bf06cb6e50e123",
+   "origin_hash": "91a343a230e0",
+   "claims": []
+  },
+  {
+   "title": "Trade press note 2 on Lakeside Retail Ltd",
+   "text": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+   "url": "https://news.example.invalid/lakeside-retail-ltd/story-2",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-05-21",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "period": null,
+   "locator": "para 2",
+   "publisher": "news.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "59bb170f9042abe3",
+   "origin_hash": "74d19842faad",
+   "claims": []
+  },
+  {
+   "title": "Food price index (official series)",
+   "text": "Retail demand broadly steady.",
+   "url": "https://data.example.invalid/lakeside-retail-ltd/food-cpi",
+   "source_type": "gov_macro",
+   "source_tier": 2,
+   "date": "2026-07-15",
+   "entity": "industry",
+   "role": "industry",
+   "period": null,
+   "locator": "series:food_cpi",
+   "publisher": "data.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "9bdceab006585586",
+   "origin_hash": "ebc8da4c7612",
+   "claims": []
+  },
+  {
+   "title": "Hillcrest Mart Ltd results (peer)",
+   "text": "Hillcrest Mart Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/hillcrest-mart-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Hillcrest Mart Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "375d7afe4d34aac7",
+   "origin_hash": "8c883995edb7",
+   "claims": []
+  },
+  {
+   "title": "Bayview Stores Ltd results (peer)",
+   "text": "Bayview Stores Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/bayview-stores-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Bayview Stores Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "93c8b558756d8ced",
+   "origin_hash": "e4d3158b59c4",
+   "claims": []
+  },
+  {
+   "title": "Cedar Lifestyle Ltd results (peer)",
+   "text": "Cedar Lifestyle Ltd peer results used for the company-versus-sector comparison.",
+   "url": "https://filings.example.invalid/cedar-lifestyle-ltd/results-peer.pdf",
+   "source_type": "results",
+   "source_tier": 1,
+   "date": "2026-08-09",
+   "entity": "Cedar Lifestyle Ltd",
+   "role": "peer",
+   "period": null,
+   "locator": "p.5 table 1",
+   "publisher": "filings.example.invalid",
+   "fetched_at": "2026-10-18T08:00:00Z",
+   "independent": true,
+   "flags": [],
+   "id": "b3f20f7ebd447bf2",
+   "origin_hash": "a62d30181b7f",
+   "claims": []
+  }
+ ],
+ "plan": {
+  "archetype": "organised_retail",
+  "angles_considered": [
+   "Growth quality",
+   "Margin and cost",
+   "Retail productivity",
+   "Working capital"
+  ],
+  "hypotheses": [
+   {
+    "id": "growth_bought",
+    "statement": "Growth is being bought with inventory and margin",
+    "tests": [
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat"
+     },
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "gross_margin"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Rising inventory with falling margin can mean sales are being pushed, not pulled."
+    ],
+    "angle": "retail_productivity",
+    "angle_label": "Retail productivity",
+    "results": [
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "up_or_flat",
+      "available": true,
+      "direction": "flat",
+      "first": 0.11218,
+      "last": 0.11121,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "inventory_days",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 54.65108,
+      "last": 78.32792,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "gross_margin",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.27131,
+      "last": 0.21827,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.0049,
+    "metrics": [
+     "revenue_growth_yoy",
+     "inventory_days",
+     "gross_margin"
+    ],
+    "rank": 1
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "tests": [
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy",
+       "volume_growth_yoy"
+      ],
+      "expect": "down_or_flat"
+     }
+    ],
+    "matters": [
+     "Inventory piling up ahead of weaker sales often precedes discounting and margin pressure."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "inventory_days",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 54.65108,
+      "last": 78.32792,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down_or_flat",
+      "available": true,
+      "direction": "flat",
+      "first": 0.11218,
+      "last": 0.11121,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.0033,
+    "metrics": [
+     "inventory_days",
+     "revenue_growth_yoy"
+    ],
+    "rank": 2
+   },
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "tests": [
+     {
+      "metric": [
+       "gross_margin"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat"
+     }
+    ],
+    "matters": [
+     "Growth that costs margin changes how durable the earnings are."
+    ],
+    "angle": "margin_cost",
+    "angle_label": "Margin and cost",
+    "results": [
+     {
+      "metric": "gross_margin",
+      "expect": "down",
+      "available": true,
+      "direction": "down",
+      "first": 0.27131,
+      "last": 0.21827,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "up_or_flat",
+      "available": true,
+      "direction": "flat",
+      "first": 0.11218,
+      "last": 0.11121,
+      "score": 1.0,
+      "is_proxy": false
+     }
+    ],
+    "support": 1.0,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 1.0016,
+    "metrics": [
+     "gross_margin",
+     "revenue_growth_yoy"
+    ],
+    "rank": 3
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "tests": [
+     {
+      "metric": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "receivable_days",
+       "inventory_days"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A longer cash cycle ties up more money for the same sales."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "cash_conversion_cycle",
+      "expect": "up",
+      "available": true,
+      "direction": "up",
+      "first": 20.57419,
+      "last": 44.98944,
+      "score": 1.0,
+      "is_proxy": false
+     },
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 6.04804,
+      "last": 6.24972,
+      "score": 0.25,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.625,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.6338,
+    "metrics": [
+     "cash_conversion_cycle",
+     "receivable_days"
+    ],
+    "rank": 4
+   },
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "tests": [
+     {
+      "metric": [
+       "receivable_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "volume_growth_yoy",
+       "revenue_growth_yoy"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Receivable days are in the filings before they reach the news, so lenders and suppliers can see stretch early.",
+     "A volume-led growth story should not need longer payment terms."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": "receivable_days",
+      "expect": "up",
+      "available": true,
+      "direction": "flat",
+      "first": 6.04804,
+      "last": 6.24972,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": "revenue_growth_yoy",
+      "expect": "down",
+      "available": true,
+      "direction": "flat",
+      "first": 0.11218,
+      "last": 0.11121,
+      "score": 0.25,
+      "is_proxy": false
+     }
+    ],
+    "support": 0.25,
+    "coverage": 1.0,
+    "status": "testable",
+    "rank_score": 0.2504,
+    "metrics": [
+     "receivable_days",
+     "revenue_growth_yoy"
+    ],
+    "rank": 5
+   }
+  ],
+  "untestable": [
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "tests": [
+     {
+      "metric": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "Price-led growth is harder to sustain than volume-led growth and can hide weakening demand."
+    ],
+    "angle": "growth_quality",
+    "angle_label": "Growth quality",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 6
+   }
+  ],
+  "collect_requests": [
+   {
+    "metric": "volume_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   },
+   {
+    "metric": "price_mix_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   }
+  ],
+  "missing_metrics": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+   "evidence_id": "c6cbf56de17d7126",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q3 FY24",
+   "date": "2024-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+   "evidence_id": "c6cbf56de17d7126",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY24",
+   "date": "2024-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+   "evidence_id": "295f8b126a0985ab",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q1 FY25",
+   "date": "2024-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+   "evidence_id": "295f8b126a0985ab",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY25",
+   "date": "2024-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+   "evidence_id": "21cd4d0c3e89f62b",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q3 FY25",
+   "date": "2025-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+   "evidence_id": "21cd4d0c3e89f62b",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY25",
+   "date": "2025-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+   "evidence_id": "69cadd5c948b3f22",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q1 FY26",
+   "date": "2025-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+   "evidence_id": "69cadd5c948b3f22",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY26",
+   "date": "2025-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+   "evidence_id": "77c78133e2367a74",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q3 FY26",
+   "date": "2026-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+   "evidence_id": "77c78133e2367a74",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q3 FY26",
+   "date": "2026-02-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "52fd3fd9f8ed9abe",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "We continue to see broad-based growth across our portfolio.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+   "evidence_id": "52fd3fd9f8ed9abe",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "presentation",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-08-04",
+   "locator": "p.3",
+   "tier": 3,
+   "independent": true,
+   "quote": "We continue to see broad-based growth across our portfolio."
+  },
+  {
+   "text": "Inventory is under control.",
+   "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+   "evidence_id": "45a69cee5f849487",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "transcript",
+   "topic": "inventory",
+   "direction": "down",
+   "period": "Q1 FY27",
+   "date": "2026-08-07",
+   "locator": "p.7",
+   "tier": 3,
+   "independent": true,
+   "quote": "Inventory is under control."
+  },
+  {
+   "text": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+   "url": "https://news.example.invalid/lakeside-retail-ltd/story-1",
+   "evidence_id": "93bf06cb6e50e123",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "news",
+   "topic": "inventory",
+   "direction": "up",
+   "period": null,
+   "date": "2026-06-10",
+   "locator": "para 2",
+   "tier": 4,
+   "independent": true,
+   "quote": "Store inventory at the company rose well ahead of sales as new stores were stocked."
+  },
+  {
+   "text": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+   "url": "https://news.example.invalid/lakeside-retail-ltd/story-2",
+   "evidence_id": "59bb170f9042abe3",
+   "entity": "Lakeside Retail Ltd",
+   "role": "company",
+   "source_type": "news",
+   "topic": "margin",
+   "direction": "down",
+   "period": null,
+   "date": "2026-05-21",
+   "locator": "para 2",
+   "tier": 4,
+   "independent": true,
+   "quote": "Gross margin at the company fell during the last two festive seasons as discounting deepened."
+  }
+ ],
+ "timeline": {
+  "change_points": [
+   {
+    "metric": "gross_margin",
+    "label": "Gross margin",
+    "period": "Q4 FY25",
+    "date": "2025-03-31",
+    "index": 6,
+    "gain": 0.751,
+    "before": 0.2587466666666667,
+    "after": 0.23087833333333332,
+    "direction": "down",
+    "text": "Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25"
+   },
+   {
+    "metric": "inventory_days",
+    "label": "Inventory days",
+    "period": "Q3 FY25",
+    "date": "2024-12-31",
+    "index": 5,
+    "gain": 0.728,
+    "before": 59.277858,
+    "after": 71.68851571428571,
+    "direction": "up",
+    "text": "Inventory days shifted up from about 59 days to about 72 days from Q3 FY25"
+   },
+   {
+    "metric": "cash_conversion_cycle",
+    "label": "Cash conversion cycle (days)",
+    "period": "Q3 FY25",
+    "date": "2024-12-31",
+    "index": 5,
+    "gain": 0.724,
+    "before": 25.251074,
+    "after": 37.945867142857146,
+    "direction": "up",
+    "text": "Cash conversion cycle (days) shifted up from about 25 days to about 38 days from Q3 FY25"
+   },
+   {
+    "metric": "receivable_days",
+    "label": "Receivable days",
+    "period": "Q2 FY25",
+    "date": "2024-09-30",
+    "index": 4,
+    "gain": 0.452,
+    "before": 5.867205,
+    "after": 6.11613,
+    "direction": "up",
+    "text": "Receivable days shifted up from about 6 days to about 6 days from Q2 FY25"
+   }
+  ],
+  "primary_change_point": {
+   "metric": "gross_margin",
+   "label": "Gross margin",
+   "period": "Q4 FY25",
+   "date": "2025-03-31",
+   "index": 6,
+   "gain": 0.751,
+   "before": 0.2587466666666667,
+   "after": 0.23087833333333332,
+   "direction": "down",
+   "text": "Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25"
+  },
+  "events": [
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "c6cbf56de17d7126",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "c6cbf56de17d7126",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "295f8b126a0985ab",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "295f8b126a0985ab",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-09-30",
+    "period": "Q2 FY25",
+    "kind": "change_point",
+    "label": "Receivable days shifted up from about 6 days to about 6 days from Q2 FY25",
+    "metric": "receivable_days",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Inventory days shifted up from about 59 days to about 72 days from Q3 FY25",
+    "metric": "inventory_days",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Cash conversion cycle (days) shifted up from about 25 days to about 38 days from Q3 FY25",
+    "metric": "cash_conversion_cycle",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "21cd4d0c3e89f62b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "21cd4d0c3e89f62b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25",
+    "metric": "gross_margin",
+    "url": null,
+    "locator": null,
+    "primary": true
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "69cadd5c948b3f22",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "69cadd5c948b3f22",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "77c78133e2367a74",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "77c78133e2367a74",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-21",
+    "period": null,
+    "kind": "claim",
+    "label": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+    "metric": null,
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-2",
+    "locator": "para 2",
+    "evidence_id": "59bb170f9042abe3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-10",
+    "period": null,
+    "kind": "claim",
+    "label": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+    "metric": null,
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-1",
+    "locator": "para 2",
+    "evidence_id": "93bf06cb6e50e123",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-30",
+    "period": "Q1 FY27",
+    "kind": "disclosure",
+    "label": "wording suggests a change in how store productivity is reported",
+    "metric": null,
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "52fd3fd9f8ed9abe",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "52fd3fd9f8ed9abe",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "45a69cee5f849487",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "span": {
+   "first": "Q2 FY24",
+   "last": "Q1 FY27"
+  }
+ },
+ "contradictions": [
+  {
+   "kind": "management_vs_numbers",
+   "topic": "Working capital",
+   "entity": "Lakeside Retail Ltd",
+   "quote_a": "Inventory is under control",
+   "quote_b": "inventory days should be down or flat; observed up (+33.0%)",
+   "url_a": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+   "url_b": null,
+   "locator_a": "p.3",
+   "locator_b": null,
+   "period_a": "Q3 FY24",
+   "period_b": null,
+   "evidence_ids": [
+    "c6cbf56de17d7126"
+   ],
+   "metric": "inventory_days",
+   "detail": "inventory days should be down or flat; observed up (+33.0%)",
+   "nli": null,
+   "overlap": null,
+   "judge": "computed"
+  },
+  {
+   "kind": "management_vs_numbers",
+   "topic": "Margin and cost",
+   "entity": "Lakeside Retail Ltd",
+   "quote_a": "Margins remain resilient",
+   "quote_b": "gross margin should be up or flat; observed down (-15.6%)",
+   "url_a": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+   "url_b": null,
+   "locator_a": "p.3",
+   "locator_b": null,
+   "period_a": "Q3 FY24",
+   "period_b": null,
+   "evidence_ids": [
+    "c6cbf56de17d7126"
+   ],
+   "metric": "gross_margin",
+   "detail": "gross margin should be up or flat; observed down (-15.6%)",
+   "nli": null,
+   "overlap": null,
+   "judge": "computed"
+  }
+ ],
+ "skeptic_runs": [
+  {
+   "hypothesis_id": "growth_bought",
+   "verdict": "survived",
+   "reasons": [
+    "no independent counter-evidence found; most peers did not follow the same pattern"
+   ],
+   "sector": {
+    "verdict": "company_specific",
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   "rounds": [
+    {
+     "round": 1,
+     "predictions": [
+      "If this is right, Revenue growth (YoY) should keep moving up or flat.",
+      "If this is right, Inventory days should keep moving up.",
+      "If this is right, Gross margin should keep moving down.",
+      "If this is company-specific, most peers should NOT show the same pattern."
+     ],
+     "queries": [
+      "Revenue growth (YoY) fell improved organised retail",
+      "Inventory days fell improved organised retail",
+      "Gross margin rose improved organised retail"
+     ],
+     "counter_found": 7,
+     "independent_counter": 0,
+     "sector": "company_specific",
+     "verdict": "survived",
+     "reasons": [
+      "no independent counter-evidence found; most peers did not follow the same pattern"
+     ]
+    }
+   ],
+   "counter_evidence": [
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY24",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "c6cbf56de17d7126",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY25",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "295f8b126a0985ab",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY25",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "21cd4d0c3e89f62b",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "69cadd5c948b3f22",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+     "locator": "p.3",
+     "period": "Q3 FY26",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "77c78133e2367a74",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+     "locator": "p.3",
+     "period": "Q1 FY27",
+     "role": "company",
+     "source_type": "presentation",
+     "independent": false,
+     "evidence_id": "52fd3fd9f8ed9abe",
+     "topic": "inventory"
+    },
+    {
+     "text": "Inventory is under control.",
+     "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+     "locator": "p.7",
+     "period": "Q1 FY27",
+     "role": "company",
+     "source_type": "transcript",
+     "independent": false,
+     "evidence_id": "45a69cee5f849487",
+     "topic": "inventory"
+    }
+   ],
+   "warnings": []
+  }
+ ],
+ "skeptic": {
+  "hypothesis_id": "growth_bought",
+  "verdict": "survived",
+  "reasons": [
+   "no independent counter-evidence found; most peers did not follow the same pattern"
+  ],
+  "sector": {
+   "verdict": "company_specific",
+   "peers_same_direction": 0,
+   "peers_total": 3,
+   "note": "company flat; nothing to attribute to the sector"
+  },
+  "rounds": [
+   {
+    "round": 1,
+    "predictions": [
+     "If this is right, Revenue growth (YoY) should keep moving up or flat.",
+     "If this is right, Inventory days should keep moving up.",
+     "If this is right, Gross margin should keep moving down.",
+     "If this is company-specific, most peers should NOT show the same pattern."
+    ],
+    "queries": [
+     "Revenue growth (YoY) fell improved organised retail",
+     "Inventory days fell improved organised retail",
+     "Gross margin rose improved organised retail"
+    ],
+    "counter_found": 7,
+    "independent_counter": 0,
+    "sector": "company_specific",
+    "verdict": "survived",
+    "reasons": [
+     "no independent counter-evidence found; most peers did not follow the same pattern"
+    ]
+   }
+  ],
+  "counter_evidence": [
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY24",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "c6cbf56de17d7126",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY25",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "295f8b126a0985ab",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY25",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "21cd4d0c3e89f62b",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "69cadd5c948b3f22",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "period": "Q3 FY26",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "77c78133e2367a74",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "period": "Q1 FY27",
+    "role": "company",
+    "source_type": "presentation",
+    "independent": false,
+    "evidence_id": "52fd3fd9f8ed9abe",
+    "topic": "inventory"
+   },
+   {
+    "text": "Inventory is under control.",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "period": "Q1 FY27",
+    "role": "company",
+    "source_type": "transcript",
+    "independent": false,
+    "evidence_id": "45a69cee5f849487",
+    "topic": "inventory"
+   }
+  ],
+  "warnings": []
+ },
+ "falsification": {
+  "conditions": [
+   {
+    "metric": "revenue_growth_yoy",
+    "operator": "<=",
+    "threshold": 0.1096,
+    "periods": 2
+   },
+   {
+    "metric": "inventory_days",
+    "operator": "<=",
+    "threshold": 57.0358,
+    "periods": 2
+   },
+   {
+    "metric": "gross_margin",
+    "operator": ">=",
+    "threshold": 0.2662,
+    "periods": 2
+   }
+  ],
+  "statement": "This finding is reversed if Revenue growth (YoY) is at or below 11.0% and Inventory days is at or below 57 days and Gross margin is at or above 26.6% for 2 consecutive quarters.",
+  "window": "2 consecutive quarters",
+  "check_against": "Member 1 metric series (recomputed when new results arrive)"
+ },
+ "counterargument": {
+  "title": "Contrary statement",
+  "text": "A presentation says the opposite: \"Inventory is under control.\"",
+  "strength": 0.45,
+  "others": [
+   {
+    "title": "Disclosure change",
+    "text": "Reporting changed (wording suggests a change in how store productivity is reported), so some movement may come from how figures are presented.",
+    "strength": 0.35
+   },
+   {
+    "title": "Thin data",
+    "text": "metrics not available: volume_growth_yoy, price_mix_growth_yoy",
+    "strength": 0.3
+   }
+  ]
+ },
+ "score": {
+  "components": {
+   "triangulation": 1.0,
+   "source_quality": 0.881,
+   "recency": 1.0,
+   "falsification": 1.0,
+   "coverage": 0.876
+  },
+  "weights": {
+   "triangulation": 0.3,
+   "source_quality": 0.25,
+   "recency": 0.2,
+   "falsification": 0.15,
+   "coverage": 0.1
+  },
+  "penalty": 0.0,
+  "total": 0.958,
+  "rating": "Strong",
+  "cap_reason": null,
+  "independent_types": [
+   "gov_macro",
+   "news",
+   "presentation",
+   "results"
+  ],
+  "has_outside_evidence": true,
+  "reasoning": [
+   "Score 0.96: triangulation 1.00, source quality 0.88, recency 1.00, falsification 1.00, coverage 0.88.",
+   "4 independent source type(s): gov_macro, news, presentation, results; includes evidence from outside the company.",
+   "Skeptic verdict: survived (no independent counter-evidence found; most peers did not follow the same pattern)."
+  ]
+ },
+ "discovery": {
+  "discovery": "Revenue growth (YoY) moved from 11.2% (Q2 FY24) to 11.1% (Q1 FY27) while Inventory days moved from 55 days (Q2 FY24) to 78 days (Q1 FY27); only 0 of 3 peers moved the same way.",
+  "why_it_matters": [
+   "Rising inventory with falling margin can mean sales are being pushed, not pulled.",
+   "The shift is dated: Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25.",
+   "The peer median for Revenue growth (YoY) moved +2.1% over the window (relative change), which is the benchmark for the company-vs-sector test.",
+   "4 independent source type(s) support it: gov_macro, news, presentation, results."
+  ],
+  "evidence": [
+   {
+    "id": "5e9de40f40680d27",
+    "title": "Lakeside Retail Ltd quarterly results Q2 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2023-11-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q2 FY24",
+    "passage": "Lakeside Retail Ltd reported results for Q2 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "c3e7c1d5ba74f43e",
+    "title": "Lakeside Retail Ltd quarterly results Q3 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-02-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY24",
+    "passage": "Lakeside Retail Ltd reported results for Q3 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "014a730b3f999c49",
+    "title": "Lakeside Retail Ltd quarterly results Q4 FY24",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-05-10",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY24.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q4 FY24",
+    "passage": "Lakeside Retail Ltd reported results for Q4 FY24. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "f78e38dce13f4cf7",
+    "title": "Lakeside Retail Ltd quarterly results Q1 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-08-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY25",
+    "passage": "Lakeside Retail Ltd reported results for Q1 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "21e9656eec832425",
+    "title": "Lakeside Retail Ltd quarterly results Q2 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2024-11-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q2 FY25",
+    "passage": "Lakeside Retail Ltd reported results for Q2 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "a16e5deea1e14825",
+    "title": "Lakeside Retail Ltd quarterly results Q3 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-02-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY25",
+    "passage": "Lakeside Retail Ltd reported results for Q3 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "2f726ab4aa604df4",
+    "title": "Lakeside Retail Ltd quarterly results Q4 FY25",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-05-10",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY25.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q4 FY25",
+    "passage": "Lakeside Retail Ltd reported results for Q4 FY25. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "e4a8a15bc82a590b",
+    "title": "Lakeside Retail Ltd quarterly results Q1 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-08-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY26",
+    "passage": "Lakeside Retail Ltd reported results for Q1 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "421ff9ede920fa8b",
+    "title": "Lakeside Retail Ltd quarterly results Q2 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2025-11-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q2-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q2 FY26",
+    "passage": "Lakeside Retail Ltd reported results for Q2 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "ff8d78c1e9a2006b",
+    "title": "Lakeside Retail Ltd quarterly results Q3 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-02-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q3-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY26",
+    "passage": "Lakeside Retail Ltd reported results for Q3 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "512ad94b59a73678",
+    "title": "Lakeside Retail Ltd quarterly results Q4 FY26",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-05-10",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q4-FY26.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q4 FY26",
+    "passage": "Lakeside Retail Ltd reported results for Q4 FY26. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "9aea5053ff397c90",
+    "title": "Lakeside Retail Ltd quarterly results Q1 FY27",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/lakeside-retail-ltd/results-Q1-FY27.pdf",
+    "locator": "p.5 table 1",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY27",
+    "passage": "Lakeside Retail Ltd reported results for Q1 FY27. Figures for growth, receivables and inventory are in the segment and working capital tables.",
+    "highlight": "",
+    "why": "company figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "375d7afe4d34aac7",
+    "title": "Hillcrest Mart Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/hillcrest-mart-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Hillcrest Mart Ltd",
+    "period": null,
+    "passage": "Hillcrest Mart Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "93c8b558756d8ced",
+    "title": "Bayview Stores Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/bayview-stores-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Bayview Stores Ltd",
+    "period": null,
+    "passage": "Bayview Stores Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "b3f20f7ebd447bf2",
+    "title": "Cedar Lifestyle Ltd results (peer)",
+    "source_type": "results",
+    "tier": 1,
+    "date": "2026-08-09",
+    "url": "https://filings.example.invalid/cedar-lifestyle-ltd/results-peer.pdf",
+    "locator": "p.5 table 1",
+    "role": "peer",
+    "entity": "Cedar Lifestyle Ltd",
+    "period": null,
+    "passage": "Cedar Lifestyle Ltd peer results used for the company-versus-sector comparison.",
+    "highlight": "",
+    "why": "peer figure: revenue_growth_yoy",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "9bdceab006585586",
+    "title": "Food price index (official series)",
+    "source_type": "gov_macro",
+    "tier": 2,
+    "date": "2026-07-15",
+    "url": "https://data.example.invalid/lakeside-retail-ltd/food-cpi",
+    "locator": "series:food_cpi",
+    "role": "industry",
+    "entity": "industry",
+    "period": null,
+    "passage": "Retail demand broadly steady.",
+    "highlight": "",
+    "why": "industry series: food_cpi",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "c6cbf56de17d7126",
+    "title": "Lakeside Retail Ltd investor presentation Q3 FY24",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2024-02-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY24",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "295f8b126a0985ab",
+    "title": "Lakeside Retail Ltd investor presentation Q1 FY25",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2024-08-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY25",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "21cd4d0c3e89f62b",
+    "title": "Lakeside Retail Ltd investor presentation Q3 FY25",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2025-02-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY25",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "69cadd5c948b3f22",
+    "title": "Lakeside Retail Ltd investor presentation Q1 FY26",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2025-08-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY26",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "77c78133e2367a74",
+    "title": "Lakeside Retail Ltd investor presentation Q3 FY26",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2026-02-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q3 FY26",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "52fd3fd9f8ed9abe",
+    "title": "Lakeside Retail Ltd investor presentation Q1 FY27",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "2026-08-04",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": "Q1 FY27",
+    "passage": "Inventory is under control. Margins remain resilient. We continue to see broad-based growth across our portfolio.",
+    "highlight": "Inventory is under control.",
+    "why": "statement on demand",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "93bf06cb6e50e123",
+    "title": "Trade press note 1 on Lakeside Retail Ltd",
+    "source_type": "news",
+    "tier": 4,
+    "date": "2026-06-10",
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-1",
+    "locator": "para 2",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": null,
+    "passage": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+    "highlight": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+    "why": "statement on inventory",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "59bb170f9042abe3",
+    "title": "Trade press note 2 on Lakeside Retail Ltd",
+    "source_type": "news",
+    "tier": 4,
+    "date": "2026-05-21",
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-2",
+    "locator": "para 2",
+    "role": "company",
+    "entity": "Lakeside Retail Ltd",
+    "period": null,
+    "passage": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+    "highlight": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+    "why": "statement on margin",
+    "independent": true,
+    "flags": [],
+    "stance": "supports"
+   },
+   {
+    "id": "counter-c6cbf56de17d7126",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY24",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-295f8b126a0985ab",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY25",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-21cd4d0c3e89f62b",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY25",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-69cadd5c948b3f22",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY26",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-77c78133e2367a74",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q3 FY26",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-52fd3fd9f8ed9abe",
+    "title": "Counter-evidence",
+    "source_type": "presentation",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY27",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   },
+   {
+    "id": "counter-45a69cee5f849487",
+    "title": "Counter-evidence",
+    "source_type": "transcript",
+    "tier": 3,
+    "date": "",
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "role": "company",
+    "entity": "",
+    "period": "Q1 FY27",
+    "passage": "Inventory is under control.",
+    "highlight": "Inventory is under control.",
+    "why": "points the other way",
+    "independent": false,
+    "flags": [],
+    "stance": "counter"
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "c6cbf56de17d7126",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-02-04",
+    "period": "Q3 FY24",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY24.pdf",
+    "locator": "p.3",
+    "evidence_id": "c6cbf56de17d7126",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "295f8b126a0985ab",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-08-04",
+    "period": "Q1 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "295f8b126a0985ab",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2024-09-30",
+    "period": "Q2 FY25",
+    "kind": "change_point",
+    "label": "Receivable days shifted up from about 6 days to about 6 days from Q2 FY25",
+    "metric": "receivable_days",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Inventory days shifted up from about 59 days to about 72 days from Q3 FY25",
+    "metric": "inventory_days",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2024-12-31",
+    "period": "Q3 FY25",
+    "kind": "change_point",
+    "label": "Cash conversion cycle (days) shifted up from about 25 days to about 38 days from Q3 FY25",
+    "metric": "cash_conversion_cycle",
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "21cd4d0c3e89f62b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-02-04",
+    "period": "Q3 FY25",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY25.pdf",
+    "locator": "p.3",
+    "evidence_id": "21cd4d0c3e89f62b",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-03-31",
+    "period": "Q4 FY25",
+    "kind": "change_point",
+    "label": "Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25",
+    "metric": "gross_margin",
+    "url": null,
+    "locator": null,
+    "primary": true
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "69cadd5c948b3f22",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2025-08-04",
+    "period": "Q1 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "69cadd5c948b3f22",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "77c78133e2367a74",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-02-04",
+    "period": "Q3 FY26",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q3-FY26.pdf",
+    "locator": "p.3",
+    "evidence_id": "77c78133e2367a74",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-05-21",
+    "period": null,
+    "kind": "claim",
+    "label": "Gross margin at the company fell during the last two festive seasons as discounting deepened.",
+    "metric": null,
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-2",
+    "locator": "para 2",
+    "evidence_id": "59bb170f9042abe3",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-10",
+    "period": null,
+    "kind": "claim",
+    "label": "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+    "metric": null,
+    "url": "https://news.example.invalid/lakeside-retail-ltd/story-1",
+    "locator": "para 2",
+    "evidence_id": "93bf06cb6e50e123",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-06-30",
+    "period": "Q1 FY27",
+    "kind": "disclosure",
+    "label": "wording suggests a change in how store productivity is reported",
+    "metric": null,
+    "url": null,
+    "locator": null,
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "52fd3fd9f8ed9abe",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-04",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "We continue to see broad-based growth across our portfolio.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/presentation-Q1-FY27.pdf",
+    "locator": "p.3",
+    "evidence_id": "52fd3fd9f8ed9abe",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-07",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "Inventory is under control.",
+    "metric": null,
+    "url": "https://ir.example.invalid/lakeside-retail-ltd/transcript-Q1-FY27.pdf",
+    "locator": "p.7",
+    "evidence_id": "45a69cee5f849487",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "numbers": [
+   {
+    "metric": "revenue_growth_yoy",
+    "label": "Revenue growth (YoY)",
+    "first_period": "Q2 FY24",
+    "last_period": "Q1 FY27",
+    "first": 0.11218,
+    "last": 0.11121,
+    "first_display": "11.2%",
+    "last_display": "11.1%",
+    "direction": "flat",
+    "peer_median_change": 0.021249691586479175,
+    "peers_same_direction": 0,
+    "peers_total": 3,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q2 FY24",
+      0.11218
+     ],
+     [
+      "Q3 FY24",
+      0.1051
+     ],
+     [
+      "Q4 FY24",
+      0.11141
+     ],
+     [
+      "Q1 FY25",
+      0.1141
+     ],
+     [
+      "Q2 FY25",
+      0.11401
+     ],
+     [
+      "Q3 FY25",
+      0.11018
+     ],
+     [
+      "Q4 FY25",
+      0.11157
+     ],
+     [
+      "Q1 FY26",
+      0.10843
+     ],
+     [
+      "Q2 FY26",
+      0.11034
+     ],
+     [
+      "Q3 FY26",
+      0.10529
+     ],
+     [
+      "Q4 FY26",
+      0.1122
+     ],
+     [
+      "Q1 FY27",
+      0.11121
+     ]
+    ]
+   },
+   {
+    "metric": "inventory_days",
+    "label": "Inventory days",
+    "first_period": "Q2 FY24",
+    "last_period": "Q1 FY27",
+    "first": 54.65108,
+    "last": 78.32792,
+    "first_display": "55 days",
+    "last_display": "78 days",
+    "direction": "up",
+    "peer_median_change": 8.825654841393325e-05,
+    "peers_same_direction": 1,
+    "peers_total": 3,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q2 FY24",
+      54.65108
+     ],
+     [
+      "Q3 FY24",
+      56.89663
+     ],
+     [
+      "Q4 FY24",
+      59.55963
+     ],
+     [
+      "Q1 FY25",
+      61.18293
+     ],
+     [
+      "Q2 FY25",
+      64.09902
+     ],
+     [
+      "Q3 FY25",
+      66.20855
+     ],
+     [
+      "Q4 FY25",
+      68.08683
+     ],
+     [
+      "Q1 FY26",
+      68.98201
+     ],
+     [
+      "Q2 FY26",
+      71.04752
+     ],
+     [
+      "Q3 FY26",
+      73.47992
+     ],
+     [
+      "Q4 FY26",
+      75.68686
+     ],
+     [
+      "Q1 FY27",
+      78.32792
+     ]
+    ]
+   },
+   {
+    "metric": "gross_margin",
+    "label": "Gross margin",
+    "first_period": "Q2 FY24",
+    "last_period": "Q1 FY27",
+    "first": 0.27131,
+    "last": 0.21827,
+    "first_display": "27.1%",
+    "last_display": "21.8%",
+    "direction": "down",
+    "peer_median_change": 0.00016050967996820975,
+    "peers_same_direction": 1,
+    "peers_total": 3,
+    "locator": "p.5 table 1 (Q1 FY27)",
+    "is_proxy": false,
+    "series": [
+     [
+      "Q2 FY24",
+      0.27131
+     ],
+     [
+      "Q3 FY24",
+      0.26571
+     ],
+     [
+      "Q4 FY24",
+      0.26147
+     ],
+     [
+      "Q1 FY25",
+      0.25666
+     ],
+     [
+      "Q2 FY25",
+      0.24995
+     ],
+     [
+      "Q3 FY25",
+      0.24738
+     ],
+     [
+      "Q4 FY25",
+      0.24158
+     ],
+     [
+      "Q1 FY26",
+      0.23785
+     ],
+     [
+      "Q2 FY26",
+      0.23167
+     ],
+     [
+      "Q3 FY26",
+      0.22971
+     ],
+     [
+      "Q4 FY26",
+      0.22619
+     ],
+     [
+      "Q1 FY27",
+      0.21827
+     ]
+    ]
+   }
+  ],
+  "counterargument": {
+   "title": "Contrary statement",
+   "text": "A presentation says the opposite: \"Inventory is under control.\"",
+   "strength": 0.45,
+   "others": [
+    {
+     "title": "Disclosure change",
+     "text": "Reporting changed (wording suggests a change in how store productivity is reported), so some movement may come from how figures are presented.",
+     "strength": 0.35
+    },
+    {
+     "title": "Thin data",
+     "text": "metrics not available: volume_growth_yoy, price_mix_growth_yoy",
+     "strength": 0.3
+    }
+   ]
+  },
+  "falsification": {
+   "conditions": [
+    {
+     "metric": "revenue_growth_yoy",
+     "operator": "<=",
+     "threshold": 0.1096,
+     "periods": 2
+    },
+    {
+     "metric": "inventory_days",
+     "operator": "<=",
+     "threshold": 57.0358,
+     "periods": 2
+    },
+    {
+     "metric": "gross_margin",
+     "operator": ">=",
+     "threshold": 0.2662,
+     "periods": 2
+    }
+   ],
+   "statement": "This finding is reversed if Revenue growth (YoY) is at or below 11.0% and Inventory days is at or below 57 days and Gross margin is at or above 26.6% for 2 consecutive quarters.",
+   "window": "2 consecutive quarters",
+   "check_against": "Member 1 metric series (recomputed when new results arrive)"
+  },
+  "evidence_strength": {
+   "components": {
+    "triangulation": 1.0,
+    "source_quality": 0.881,
+    "recency": 1.0,
+    "falsification": 1.0,
+    "coverage": 0.876
+   },
+   "weights": {
+    "triangulation": 0.3,
+    "source_quality": 0.25,
+    "recency": 0.2,
+    "falsification": 0.15,
+    "coverage": 0.1
+   },
+   "penalty": 0.0,
+   "total": 0.958,
+   "rating": "Strong",
+   "cap_reason": null,
+   "independent_types": [
+    "gov_macro",
+    "news",
+    "presentation",
+    "results"
+   ],
+   "has_outside_evidence": true,
+   "reasoning": [
+    "Score 0.96: triangulation 1.00, source quality 0.88, recency 1.00, falsification 1.00, coverage 0.88.",
+    "4 independent source type(s): gov_macro, news, presentation, results; includes evidence from outside the company.",
+    "Skeptic verdict: survived (no independent counter-evidence found; most peers did not follow the same pattern)."
+   ]
+  },
+  "hypothesis_id": "growth_bought",
+  "hypothesis": "Growth is being bought with inventory and margin",
+  "disclaimer": "Research findings for a human to verify; not investment advice or a recommendation."
+ },
+ "check_problems": [],
+ "events": [
+  {
+   "stage": 1,
+   "name": "Company intake and peers",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "Lakeside Retail Ltd: archetype organised_retail, 3 peers"
+  },
+  {
+   "stage": 2,
+   "name": "Angle planning",
+   "status": "done",
+   "seconds": 0.007,
+   "summary": "5 testable hypotheses; top: Growth is being bought with inventory and margin"
+  },
+  {
+   "stage": 3,
+   "name": "Evidence collection",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "25 evidence items (gov_macro 1, news 2, presentation 6, results 15, transcript 1)"
+  },
+  {
+   "stage": 4,
+   "name": "Quantitative engine",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "6 company metrics, 3 peers with data"
+  },
+  {
+   "stage": 5,
+   "name": "Timeline builder",
+   "status": "done",
+   "seconds": 0.016,
+   "summary": "Gross margin shifted down from about 25.9% to about 23.1% from Q4 FY25"
+  },
+  {
+   "stage": 6,
+   "name": "Triangulation",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "3 claim clusters, 1 meet the 2-independent-type rule"
+  },
+  {
+   "stage": 7,
+   "name": "Say vs do and contradictions",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "2 contradictions flagged"
+  },
+  {
+   "stage": 8,
+   "name": "Peer and sector test",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "overall company_specific; 6 company-specific, 0 sector-wide metrics"
+  },
+  {
+   "stage": 9,
+   "name": "Skeptic loop",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "'growth_bought' survived after 1 round(s)"
+  },
+  {
+   "stage": 10,
+   "name": "Falsification condition",
+   "status": "done",
+   "seconds": 0.002,
+   "summary": "This finding is reversed if Revenue growth (YoY) is at or below 11.0% and Inventory days is at or below 57 days and Gross margin is at or above 26.6% for 2 consecutive quarters."
+  },
+  {
+   "stage": 11,
+   "name": "Scoring and Evidence Strength",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "Strong (0.96)"
+  },
+  {
+   "stage": 12,
+   "name": "Discovery writer",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "8-element check passed"
+  }
+ ],
+ "extras": {
+  "language_drift": {
+   "periods": [
+    "Q3 FY24",
+    "Q1 FY25",
+    "Q3 FY25",
+    "Q1 FY26",
+    "Q3 FY26",
+    "Q1 FY27"
+   ],
+   "themes": {
+    "volume": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "pricing": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "quick commerce": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rural": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "channel": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "cost": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "peer_heatmap": {
+   "entities": [
+    "Lakeside Retail Ltd",
+    "Hillcrest Mart Ltd",
+    "Bayview Stores Ltd",
+    "Cedar Lifestyle Ltd"
+   ],
+   "metrics": [
+    "revenue_growth_yoy",
+    "inventory_days",
+    "gross_margin",
+    "receivable_days",
+    "payable_days",
+    "cash_conversion_cycle"
+   ],
+   "labels": [
+    "Revenue growth (YoY)",
+    "Inventory days",
+    "Gross margin",
+    "Receivable days",
+    "Payable days",
+    "Cash conversion cycle (days)"
+   ],
+   "z": [
+    [
+     -0.94,
+     0.08,
+     -0.75,
+     1.6
+    ],
+    [
+     1.21,
+     -0.98,
+     -1.0,
+     0.77
+    ],
+    [
+     -1.22,
+     0.98,
+     1.0,
+     -0.76
+    ],
+    [
+     0.99,
+     -0.79,
+     0.99,
+     -1.19
+    ],
+    [
+     0.3,
+     0.7,
+     0.7,
+     -1.71
+    ],
+    [
+     1.17,
+     -1.0,
+     -0.99,
+     0.81
+    ]
+   ],
+   "text": [
+    [
+     "+0.0 pp",
+     "+0.2 pp",
+     "+0.0 pp",
+     "+0.6 pp"
+    ],
+    [
+     "+18.8",
+     "+0.0",
+     "-0.2",
+     "+15.0"
+    ],
+    [
+     "-4.1 pp",
+     "+0.0 pp",
+     "+0.0 pp",
+     "-3.3 pp"
+    ],
+    [
+     "+0.2",
+     "-0.1",
+     "+0.2",
+     "-0.1"
+    ],
+    [
+     "-0.3",
+     "-0.1",
+     "-0.1",
+     "-1.3"
+    ],
+    [
+     "+19.3",
+     "+0.0",
+     "+0.1",
+     "+16.2"
+    ]
+   ]
+  },
+  "why_not": [
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (price_mix_growth_yoy, price_share_of_growth, volume_growth_yoy)"
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   },
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "outcome": "ranked lower",
+    "reason": "a higher-ranked hypothesis survived, so this one was not taken further"
+   }
+  ],
+  "falsification_monitor": {
+   "status": "confirmed",
+   "conditions": [
+    {
+     "metric": "revenue_growth_yoy",
+     "met": false,
+     "latest": 0.11121
+    },
+    {
+     "metric": "inventory_days",
+     "met": false,
+     "latest": 78.32792
+    },
+    {
+     "metric": "gross_margin",
+     "met": false,
+     "latest": 0.21827
+    }
+   ]
+  }
+ }
+}

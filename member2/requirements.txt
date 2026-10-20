@@ -1,0 +1,7 @@
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+PyYAML>=6.0
+requests>=2.31
+# optional (better contradiction first pass): sentence-transformers>=3.0  (DeBERTa NLI cross-encoder)
+# optional (change points): ruptures>=1.1  (a built-in rolling-window method is used if absent)

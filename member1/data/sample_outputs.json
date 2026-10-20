@@ -1,0 +1,585 @@
+{
+  "profile": {
+    "input_name": "northwind foods",
+    "name": "Northwind Foods Ltd",
+    "nse_symbol": "NWFOODS",
+    "bse_code": null,
+    "isin": "INE000A01011",
+    "sector": null,
+    "industry": "Fast Moving Consumer Goods",
+    "archetype": "packaged_staples",
+    "archetype_confidence": 1.0,
+    "archetype_terms": [
+      "fast moving consumer goods",
+      "fmcg",
+      "packaged foods",
+      "personal care",
+      "foods"
+    ],
+    "match_score": 100.0,
+    "peers": [
+      {
+        "name": "Evergreen Staples Limited",
+        "symbol": "EVRGRN",
+        "reason": "same industry classification",
+        "mentioned_in_report": false,
+        "filings_available": true,
+        "score": 1.5
+      },
+      {
+        "name": "Harbor Home Care Ltd",
+        "symbol": "HBRHOME",
+        "reason": "same industry classification",
+        "mentioned_in_report": false,
+        "filings_available": true,
+        "score": 1.5
+      },
+      {
+        "name": "Maple Personal Care Ltd",
+        "symbol": "MAPLEPC",
+        "reason": "same industry classification",
+        "mentioned_in_report": false,
+        "filings_available": true,
+        "score": 1.5
+      },
+      {
+        "name": "Sunrise Beverages Limited",
+        "symbol": "SUNBEV",
+        "reason": "same industry classification",
+        "mentioned_in_report": false,
+        "filings_available": true,
+        "score": 1.5
+      }
+    ],
+    "warnings": [],
+    "resolved_at": "2026-10-14T15:59:08.243686Z"
+  },
+  "benchmark": {
+    "entity": "Northwind Foods Ltd",
+    "peers": [
+      "Evergreen Staples Limited",
+      "Harbor Home Care Ltd",
+      "Sunrise Beverages Limited"
+    ],
+    "comparisons": [
+      {
+        "metric": "cash_conversion_cycle",
+        "company": {
+          "first": 50.363173782488566,
+          "last": 60.18216989315766,
+          "relative_change": 0.19496380734613658,
+          "slope": 1.6364795151096212,
+          "direction": "up",
+          "n": 8
+        },
+        "peer_median_change": 0.012012750870423642,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "only 0/3 peers moved the same way"
+      },
+      {
+        "metric": "gross_margin",
+        "company": {
+          "first": 0.4000009148535747,
+          "last": 0.40000252127024405,
+          "relative_change": 4.016032488178347e-06,
+          "slope": 9.903736026475055e-08,
+          "direction": "flat",
+          "n": 8
+        },
+        "peer_median_change": 2.170757962272063e-08,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "company flat; nothing to attribute to the sector"
+      },
+      {
+        "metric": "inventory_days",
+        "company": {
+          "first": 44.99999196548044,
+          "last": 45.00061344627811,
+          "relative_change": 1.3810686858471727e-05,
+          "slope": 7.29266035275949e-05,
+          "direction": "flat",
+          "n": 8
+        },
+        "peer_median_change": -2.9465925269488434e-06,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "company flat; nothing to attribute to the sector"
+      },
+      {
+        "metric": "payable_days",
+        "company": {
+          "first": 30.000447068621646,
+          "last": 30.000623332123013,
+          "relative_change": 5.875362489200881e-06,
+          "slope": 9.043536795673791e-06,
+          "direction": "flat",
+          "n": 8
+        },
+        "peer_median_change": -5.058696019197615e-07,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "company flat; nothing to attribute to the sector"
+      },
+      {
+        "metric": "price_mix_growth_yoy",
+        "company": {
+          "first": 0.08243336394142664,
+          "last": 0.08243024406528676,
+          "relative_change": -3.784725007820355e-05,
+          "slope": -4.832168509308769e-07,
+          "direction": "flat",
+          "n": 8
+        },
+        "peer_median_change": -5.841818470083151e-05,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "company flat; nothing to attribute to the sector"
+      },
+      {
+        "metric": "price_share_of_growth",
+        "company": {
+          "first": 0.8163159134018254,
+          "last": 2.0116116256786984,
+          "relative_change": 1.4642562917776878,
+          "slope": 0.20763849833999243,
+          "direction": "up",
+          "n": 8
+        },
+        "peer_median_change": 0.4181393032395891,
+        "peers_same_direction": 2,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "mixed",
+        "note": "2/3 peers moved the same way"
+      },
+      {
+        "metric": "receivable_days",
+        "company": {
+          "first": 35.36362888562977,
+          "last": 45.182179779002574,
+          "relative_change": 0.2776454567241155,
+          "slope": 1.636415632042891,
+          "direction": "up",
+          "n": 8
+        },
+        "peer_median_change": 0.01793890569404784,
+        "peers_same_direction": 0,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "company_specific",
+        "note": "only 0/3 peers moved the same way"
+      },
+      {
+        "metric": "revenue_growth_yoy",
+        "company": {
+          "first": 0.10402848087749961,
+          "last": 0.03934737723505233,
+          "relative_change": -0.6217634161034568,
+          "slope": -0.010766411293680904,
+          "direction": "down",
+          "n": 8
+        },
+        "peer_median_change": -0.31699623849981456,
+        "peers_same_direction": 2,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "mixed",
+        "note": "2/3 peers moved the same way"
+      },
+      {
+        "metric": "volume_growth_yoy",
+        "company": {
+          "first": 0.019950495049504968,
+          "last": -0.03980198019801984,
+          "relative_change": -2.9950372208436726,
+          "slope": -0.009946056957821107,
+          "direction": "down",
+          "n": 8
+        },
+        "peer_median_change": -6.071119356833638,
+        "peers_same_direction": 2,
+        "peers_total": 3,
+        "industry": null,
+        "verdict": "mixed",
+        "note": "2/3 peers moved the same way"
+      }
+    ],
+    "overall": "mixed",
+    "warnings": []
+  },
+  "coverage": {
+    "coverage_score": 0.926,
+    "sufficient": true,
+    "components": {
+      "source_types": 0.706,
+      "quarters": 1.0,
+      "metrics_disclosed": 1.0,
+      "peer_data": 1.0,
+      "outside_evidence": 1.0
+    },
+    "source_types_found": [
+      "gov_macro",
+      "news",
+      "presentation",
+      "results",
+      "transcript"
+    ],
+    "source_types_missing": [
+      "annual_report",
+      "filing"
+    ],
+    "quarters_covered": 12,
+    "metrics_disclosed": [
+      "receivable_days",
+      "inventory_days",
+      "revenue_growth_yoy",
+      "volume_growth_yoy",
+      "price_mix_growth_yoy",
+      "gross_margin"
+    ],
+    "metrics_missing": [],
+    "proxies_used": [],
+    "peers_with_data": 3,
+    "has_outside_company_evidence": true,
+    "official_filings_found": true,
+    "missing_quarters": [],
+    "warnings": []
+  },
+  "say_vs_do": [
+    {
+      "statement": "We are a volume-led growth story",
+      "evidence_id": "819319d1876baccf",
+      "rule": "volume_led_growth",
+      "angle": "Growth quality",
+      "expected": "up",
+      "metric": "volume_growth_yoy",
+      "verdict": "misaligned",
+      "observed_direction": "down",
+      "relative_change": -1.0448,
+      "detail": "volume growth should be positive and rising; observed down (-104.5%)"
+    },
+    {
+      "statement": "Our channel is healthy",
+      "evidence_id": "24d09a9b6e140d5d",
+      "rule": "channel_health",
+      "angle": "Working capital",
+      "expected": "down_or_flat",
+      "metric": "receivable_days",
+      "verdict": "misaligned",
+      "observed_direction": "up",
+      "relative_change": 0.1694,
+      "detail": "receivable days should be stable or falling; observed up (+16.9%)"
+    },
+    {
+      "statement": "Inventory is under control",
+      "evidence_id": "24d09a9b6e140d5d",
+      "rule": "inventory_control",
+      "angle": "Working capital",
+      "expected": "down_or_flat",
+      "metric": "inventory_days",
+      "verdict": "aligned",
+      "observed_direction": "flat",
+      "relative_change": 0.0,
+      "detail": "inventory days should be stable or falling; observed flat (+0.0%)"
+    }
+  ],
+  "disclosure_changes": [
+    {
+      "kind": "dropped",
+      "term": "distributor days",
+      "last_seen": "Q3 FY26",
+      "first_missing": "Q4 FY26",
+      "similar_to": null,
+      "evidence_ids": null,
+      "detail": "'distributor days' reported in 7 of 7 prior periods but absent in Q4 FY26"
+    },
+    {
+      "kind": "dropped",
+      "term": "underlying volume growth",
+      "last_seen": "Q3 FY26",
+      "first_missing": "Q4 FY26",
+      "similar_to": null,
+      "evidence_ids": null,
+      "detail": "'underlying volume growth' reported in 7 of 7 prior periods but absent in Q4 FY26"
+    },
+    {
+      "kind": "redefinition_language",
+      "term": "now presented",
+      "last_seen": "Q4 FY26",
+      "first_missing": null,
+      "similar_to": null,
+      "evidence_ids": [
+        "6df19a1867e1884f"
+      ],
+      "detail": "wording suggests a change in how metrics are reported (p.3)"
+    }
+  ],
+  "triangulation": [
+    {
+      "representative": "Distributor payment cycles lengthened and receivable days rose across the sector",
+      "claim_texts": [
+        "Distributor payment cycles lengthened and receivable days rose across the sector"
+      ],
+      "evidence_ids": [
+        "3e24af43e596bb43"
+      ],
+      "independent_evidence_ids": [
+        "3e24af43e596bb43"
+      ],
+      "independent_source_types": [
+        "news"
+      ],
+      "independent_count": 1,
+      "has_outside_company": true,
+      "roles": [
+        "company"
+      ],
+      "meets_triangulation": false,
+      "flags": []
+    },
+    {
+      "representative": "Management describes a volume-led premium growth story",
+      "claim_texts": [
+        "Management describes a volume-led premium growth story"
+      ],
+      "evidence_ids": [
+        "819319d1876baccf"
+      ],
+      "independent_evidence_ids": [
+        "819319d1876baccf"
+      ],
+      "independent_source_types": [
+        "transcript"
+      ],
+      "independent_count": 1,
+      "has_outside_company": false,
+      "roles": [
+        "company"
+      ],
+      "meets_triangulation": false,
+      "flags": []
+    },
+    {
+      "representative": "Receivable days rose steadily while volumes declined",
+      "claim_texts": [
+        "Receivable days rose steadily while volumes declined"
+      ],
+      "evidence_ids": [
+        "ebb3a0b97c0a91c1"
+      ],
+      "independent_evidence_ids": [
+        "ebb3a0b97c0a91c1"
+      ],
+      "independent_source_types": [
+        "results"
+      ],
+      "independent_count": 1,
+      "has_outside_company": true,
+      "roles": [
+        "peer"
+      ],
+      "meets_triangulation": false,
+      "flags": []
+    }
+  ],
+  "metrics": {
+    "price_share_of_growth": [
+      {
+        "period": "Q1 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY25",
+        "value": 0.7389261160908537,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 0.893705710712797,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY25",
+        "value": 1.1365177746731805,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 1.5720775652264913,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY26",
+        "value": 1.961525110551975,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 1.980749217297399,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY26",
+        "value": 2.001029702970298,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY26",
+        "value": 2.0221935483870994,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      }
+    ],
+    "receivable_days": [
+      {
+        "period": "Q1 FY24",
+        "value": 28.000062500000002,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY24",
+        "value": 29.63632061735585,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY24",
+        "value": 31.272521461350717,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY24",
+        "value": 32.90890543804436,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY25",
+        "value": 34.545209927258696,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 36.18204784400085,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY25",
+        "value": 37.81826414165391,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 39.454628751012024,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY26",
+        "value": 41.091371105402004,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 42.72705538810953,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY26",
+        "value": 44.364005598687434,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY26",
+        "value": 46.000353959317714,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      }
+    ],
+    "volume_growth_yoy": [
+      {
+        "period": "Q1 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY24",
+        "value": null,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY25",
+        "value": 0.030000000000000027,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 0.00990099009900991,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY25",
+        "value": -0.009803921568627416,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY25",
+        "value": -0.029126213592232997,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q1 FY26",
+        "value": -0.03883495145631066,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q2 FY26",
+        "value": -0.039215686274509776,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q3 FY26",
+        "value": -0.03960396039603964,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      },
+      {
+        "period": "Q4 FY26",
+        "value": -0.040000000000000036,
+        "locator": "https://filings.example.invalid/northwind-foods-ltd/results.pdf#p.5 table 1"
+      }
+    ]
+  }
+}

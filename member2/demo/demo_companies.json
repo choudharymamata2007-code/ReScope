@@ -1,0 +1,419 @@
+[
+ {
+  "name": "Northwind Foods Ltd",
+  "symbol": "NWFOODS",
+  "industry": "Fast Moving Consumer Goods",
+  "archetype": "packaged_staples",
+  "seed": 11,
+  "quarters": 12,
+  "last_period": "Q1 FY27",
+  "company": {
+   "volume_growth_yoy": [
+    0.05,
+    -0.03,
+    "lin",
+    0.004
+   ],
+   "price_mix_growth_yoy": [
+    0.04,
+    0.1,
+    "lin",
+    0.004
+   ],
+   "receivable_days": [
+    28,
+    46,
+    "lin",
+    0.6
+   ],
+   "inventory_days": [
+    44,
+    45,
+    "flat",
+    0.5
+   ],
+   "gross_margin": [
+    0.4,
+    0.4,
+    "flat",
+    0.002
+   ],
+   "payable_days": [
+    60,
+    60,
+    "flat",
+    0.5
+   ]
+  },
+  "peers": [
+   {
+    "name": "Evergreen Staples Ltd",
+    "symbol": "EVRGRN",
+    "mode": "flat"
+   },
+   {
+    "name": "Harbor Home Care Ltd",
+    "symbol": "HBRHOME",
+    "mode": "flat"
+   },
+   {
+    "name": "Sunrise Beverages Ltd",
+    "symbol": "SUNBEV",
+    "mode": "flat"
+   },
+   {
+    "name": "Maple Personal Care Ltd",
+    "symbol": "MAPLEPC",
+    "mode": "flat"
+   }
+  ],
+  "statements": [
+   {
+    "text": "We are a volume-led growth story",
+    "rule": "volume_led_growth",
+    "angle": "Growth quality",
+    "metric": "volume_growth_yoy",
+    "expected": "up"
+   },
+   {
+    "text": "Our channel is healthy and distributor inventory is under control",
+    "rule": "channel_health",
+    "angle": "Working capital",
+    "metric": "receivable_days",
+    "expected": "down_or_flat"
+   },
+   {
+    "text": "Inventory is under control",
+    "rule": "inventory_control",
+    "angle": "Working capital",
+    "metric": "inventory_days",
+    "expected": "down_or_flat"
+   }
+  ],
+  "outside": [
+   "Unit volumes at the company fell over the past year.",
+   "Realisations rose as price increases continued.",
+   "Distributors of the company reported longer payment waits and receivable days rose."
+  ],
+  "disclosure": [
+   {
+    "kind": "dropped",
+    "term": "distributor days",
+    "last_seen": "Q4 FY26",
+    "first_missing": "Q1 FY27",
+    "detail": "'distributor days' reported in 8 of 8 prior periods but absent in Q1 FY27"
+   }
+  ],
+  "industry_note": "Food price index rose steadily, about 1.2% a quarter."
+ },
+ {
+  "name": "Evergreen Staples Ltd",
+  "symbol": "EVRGRN",
+  "industry": "Fast Moving Consumer Goods",
+  "archetype": "packaged_staples",
+  "seed": 23,
+  "quarters": 12,
+  "last_period": "Q1 FY27",
+  "company": {
+   "volume_growth_yoy": [
+    0.04,
+    0.0,
+    "lin",
+    0.004
+   ],
+   "price_mix_growth_yoy": [
+    0.05,
+    0.07,
+    "lin",
+    0.004
+   ],
+   "receivable_days": [
+    35,
+    50,
+    "lin",
+    0.6
+   ],
+   "inventory_days": [
+    48,
+    52,
+    "lin",
+    0.5
+   ],
+   "gross_margin": [
+    0.38,
+    0.37,
+    "lin",
+    0.002
+   ],
+   "payable_days": [
+    55,
+    56,
+    "flat",
+    0.5
+   ]
+  },
+  "peers": [
+   {
+    "name": "Northwind Foods Ltd",
+    "symbol": "NWFOODS",
+    "mode": "follow"
+   },
+   {
+    "name": "Harbor Home Care Ltd",
+    "symbol": "HBRHOME",
+    "mode": "follow"
+   },
+   {
+    "name": "Sunrise Beverages Ltd",
+    "symbol": "SUNBEV",
+    "mode": "follow"
+   },
+   {
+    "name": "Maple Personal Care Ltd",
+    "symbol": "MAPLEPC",
+    "mode": "flat"
+   }
+  ],
+  "statements": [
+   {
+    "text": "Our channel is healthy and distributor inventory is under control",
+    "rule": "channel_health",
+    "angle": "Working capital",
+    "metric": "receivable_days",
+    "expected": "down_or_flat"
+   },
+   {
+    "text": "Margins remain resilient",
+    "rule": "margin_resilience",
+    "angle": "Margin and cost",
+    "metric": "gross_margin",
+    "expected": "up_or_flat"
+   }
+  ],
+  "outside": [
+   "Distributor payment cycles lengthened across the sector and receivable days rose for most packaged food makers.",
+   "Industry bodies said credit periods extended as distributors faced tighter working capital.",
+   "Unit volumes slowed across packaged foods this year."
+  ],
+  "disclosure": [],
+  "industry_note": "Distributor credit tightened across the sector."
+ },
+ {
+  "name": "Lakeside Retail Ltd",
+  "symbol": "LAKERET",
+  "industry": "Retailing",
+  "archetype": "organised_retail",
+  "seed": 37,
+  "quarters": 12,
+  "last_period": "Q1 FY27",
+  "company": {
+   "revenue_growth_yoy": [
+    0.11,
+    0.12,
+    "flat",
+    0.006
+   ],
+   "inventory_days": [
+    55,
+    78,
+    "lin",
+    0.8
+   ],
+   "gross_margin": [
+    0.27,
+    0.22,
+    "lin",
+    0.002
+   ],
+   "receivable_days": [
+    6,
+    6,
+    "flat",
+    0.3
+   ],
+   "payable_days": [
+    40,
+    38,
+    "flat",
+    0.5
+   ]
+  },
+  "peers": [
+   {
+    "name": "Hillcrest Mart Ltd",
+    "symbol": "HILLMART",
+    "mode": "flat"
+   },
+   {
+    "name": "Bayview Stores Ltd",
+    "symbol": "BAYSTORE",
+    "mode": "flat"
+   },
+   {
+    "name": "Cedar Lifestyle Ltd",
+    "symbol": "CEDARLS",
+    "mode": "mixed"
+   }
+  ],
+  "statements": [
+   {
+    "text": "Inventory is under control",
+    "rule": "inventory_control",
+    "angle": "Working capital",
+    "metric": "inventory_days",
+    "expected": "down_or_flat"
+   },
+   {
+    "text": "Margins remain resilient",
+    "rule": "margin_resilience",
+    "angle": "Margin and cost",
+    "metric": "gross_margin",
+    "expected": "up_or_flat"
+   }
+  ],
+  "outside": [
+   "Store inventory at the company rose well ahead of sales as new stores were stocked.",
+   "Gross margin at the company fell during the last two festive seasons as discounting deepened."
+  ],
+  "disclosure": [
+   {
+    "kind": "redefinition_language",
+    "term": "now presented",
+    "last_seen": "Q1 FY27",
+    "first_missing": null,
+    "detail": "wording suggests a change in how store productivity is reported"
+   }
+  ],
+  "industry_note": "Retail demand broadly steady."
+ },
+ {
+  "name": "Crestline Durables Ltd",
+  "symbol": "CRESTDUR",
+  "industry": "Consumer Durables",
+  "archetype": "discretionary_durables",
+  "seed": 41,
+  "quarters": 12,
+  "last_period": "Q1 FY27",
+  "company": {
+   "volume_growth_yoy": [
+    0.06,
+    -0.04,
+    "lin",
+    0.005
+   ],
+   "price_mix_growth_yoy": [
+    0.03,
+    0.11,
+    "lin",
+    0.004
+   ],
+   "receivable_days": [
+    50,
+    52,
+    "flat",
+    0.5
+   ],
+   "inventory_days": [
+    70,
+    72,
+    "flat",
+    0.6
+   ],
+   "gross_margin": [
+    0.33,
+    0.35,
+    "lin",
+    0.002
+   ],
+   "payable_days": [
+    65,
+    64,
+    "flat",
+    0.5
+   ]
+  },
+  "peers": [
+   {
+    "name": "Alder Appliances Ltd",
+    "symbol": "ALDERAP",
+    "mode": "follow"
+   },
+   {
+    "name": "Birch Electricals Ltd",
+    "symbol": "BIRCHEL",
+    "mode": "flat"
+   },
+   {
+    "name": "Cobalt Home Tech Ltd",
+    "symbol": "COBALTH",
+    "mode": "mixed"
+   }
+  ],
+  "statements": [
+   {
+    "text": "We are a volume-led growth story",
+    "rule": "volume_led_growth",
+    "angle": "Growth quality",
+    "metric": "volume_growth_yoy",
+    "expected": "up"
+   },
+   {
+    "text": "Margins remain resilient",
+    "rule": "margin_resilience",
+    "angle": "Margin and cost",
+    "metric": "gross_margin",
+    "expected": "up_or_flat"
+   }
+  ],
+  "outside": [
+   "Unit volumes of premium durables fell while realisations rose, trade checks suggest.",
+   "Dealers said volumes held up across the category."
+  ],
+  "disclosure": [],
+  "industry_note": "Durables demand softening at the entry end."
+ },
+ {
+  "name": "Orchard Beverages Ltd",
+  "symbol": "ORCHBEV",
+  "industry": "Fast Moving Consumer Goods",
+  "archetype": "packaged_staples",
+  "seed": 53,
+  "quarters": 5,
+  "last_period": "Q1 FY27",
+  "company": {
+   "revenue_growth_yoy": [
+    0.08,
+    0.04,
+    "lin",
+    0.004
+   ],
+   "receivable_days": [
+    40,
+    49,
+    "lin",
+    0.6
+   ]
+  },
+  "peers": [
+   {
+    "name": "Sunrise Beverages Ltd",
+    "symbol": "SUNBEV",
+    "mode": "flat"
+   }
+  ],
+  "statements": [
+   {
+    "text": "Our channel is healthy and distributor inventory is under control",
+    "rule": "channel_health",
+    "angle": "Working capital",
+    "metric": "receivable_days",
+    "expected": "down_or_flat"
+   }
+  ],
+  "outside": [
+   "Receivable days at beverage distributors were stable this year."
+  ],
+  "disclosure": [],
+  "industry_note": "Limited public series."
+ }
+]

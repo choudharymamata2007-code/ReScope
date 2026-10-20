@@ -1,0 +1,8 @@
+﻿{
+  "description": "Explicitly verified company domains. Add a domain only after verifying ownership from a trusted source.",
+  "companies": {
+    "ITC Limited": [
+      "itcportal.com"
+    ]
+  }
+}

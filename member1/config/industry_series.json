@@ -1,0 +1,17 @@
+[
+  {
+    "kind": "world_bank",
+    "id": "wb_india_cpi_index",
+    "title": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL?format=json&per_page=100",
+    "unit": "index",
+    "price_index": true
+  },
+  {
+    "kind": "world_bank",
+    "id": "wb_india_inflation_cpi",
+    "title": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+    "unit": "percent"
+  }
+]

@@ -1,0 +1,4923 @@
+{
+ "schema_version": 1,
+ "company": "Hindustan Unilever Limited",
+ "slug": "hindustan-unilever-limited",
+ "label": "Live run",
+ "generated_at": "2026-10-19",
+ "profile": {
+  "input_name": "Hundustan unilever",
+  "name": "Hindustan Unilever Limited",
+  "nse_symbol": "HINDUNILVR",
+  "bse_code": null,
+  "isin": "INE030A01027",
+  "sector": null,
+  "industry": "Fast Moving Consumer Goods",
+  "archetype": "packaged_staples",
+  "archetype_confidence": 0.333,
+  "archetype_terms": [
+   "fast moving consumer goods"
+  ],
+  "match_score": 94.44444444444444,
+  "peers": [
+   {
+    "name": "Britannia Industries Limited",
+    "symbol": "BRITANNIA",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Dabur India Limited",
+    "symbol": "DABUR",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "ITC Limited",
+    "symbol": "ITC",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Marico Limited",
+    "symbol": "MARICO",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Nestle India Limited",
+    "symbol": "NESTLEIND",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   },
+   {
+    "name": "Tata Consumer Products Limited",
+    "symbol": "TATACONSUM",
+    "reason": "same industry classification",
+    "mentioned_in_report": false,
+    "filings_available": true,
+    "score": 1.5
+   }
+  ],
+  "warnings": [],
+  "resolved_at": "2026-10-19T01:48:56.241993Z"
+ },
+ "metrics": {
+  "Hindustan Unilever Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": -61.76002244480506,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -76.77037818328985,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.5057724391057724,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.49746453559278514,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.5077918078226055,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.4983032023199852,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.4906308193668529,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 54.39761679719147,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 53.74446562538433,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 139.41314474750203,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 149.53957077850202,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 23.255505505505507,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 19.02472696982785,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.08154821488154829,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.10302330059695741,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "4274751be7ec0e68",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "industry": {
+   "wb_india_cpi_index": [
+    {
+     "period": "Q4 FY60",
+     "value": 2.52748668877309,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY61",
+     "value": 2.57033297015632,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY62",
+     "value": 2.66369298910468,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY63",
+     "value": 2.74216968261487,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY64",
+     "value": 3.10839360492657,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY65",
+     "value": 3.40290639507342,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY66",
+     "value": 3.77048318332543,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY67",
+     "value": 4.26299133112268,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY68",
+     "value": 4.40100194220748,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY69",
+     "value": 4.37529407863571,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY70",
+     "value": 4.59809549976314,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY71",
+     "value": 4.73971402179061,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY72",
+     "value": 5.04505101847465,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY73",
+     "value": 5.89972382756987,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY74",
+     "value": 7.58697015632401,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY75",
+     "value": 8.02310184746565,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY76",
+     "value": 7.41062245381335,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY77",
+     "value": 8.02625769777356,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY78",
+     "value": 8.22876409284698,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY79",
+     "value": 8.74517527238275,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY80",
+     "value": 9.73740928469919,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY81",
+     "value": 11.0142316437707,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY82",
+     "value": 11.8833363334912,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY83",
+     "value": 13.2936603505447,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY84",
+     "value": 14.3995476077688,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY85",
+     "value": 15.1996475603979,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY86",
+     "value": 16.5265343439128,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY87",
+     "value": 17.9810554239696,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY88",
+     "value": 19.6683027001421,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY89",
+     "value": 21.0596935101847,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY90",
+     "value": 22.9490075793462,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY91",
+     "value": 26.1320914258645,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY92",
+     "value": 29.2124945523448,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY93",
+     "value": 31.0607370914258,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY94",
+     "value": 34.2438214116532,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY95",
+     "value": 37.7452131691141,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY96",
+     "value": 41.1336584557082,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY97",
+     "value": 44.0805774514448,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY98",
+     "value": 49.912807674088,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY99",
+     "value": 52.2436461392704,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY00",
+     "value": 54.3383216485078,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY01",
+     "value": 56.3919261013737,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY02",
+     "value": 58.815172903837,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY03",
+     "value": 61.0535954523921,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY04",
+     "value": 63.353638086215,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY05",
+     "value": 66.0438512553291,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY06",
+     "value": 69.8720985315016,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY07",
+     "value": 74.3249644718143,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY08",
+     "value": 80.5305542396967,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY09",
+     "value": 89.2941733775461,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY10",
+     "value": 100.0,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY11",
+     "value": 108.911793364833,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY12",
+     "value": 119.235538897083,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY13",
+     "value": 131.18041028234,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY14",
+     "value": 139.924446113916,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY15",
+     "value": 146.790501522573,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY16",
+     "value": 154.054013105393,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY17",
+     "value": 159.18119775209,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY18",
+     "value": 165.451068899504,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY19",
+     "value": 171.621576003377,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY20",
+     "value": 182.988822584425,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY21",
+     "value": 192.378724699014,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY22",
+     "value": 205.266241146234,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY23",
+     "value": 216.862025027426,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 227.603278134168,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 233.063138328863,
+     "unit": "index",
+     "locator": "series:wb_india_cpi_index",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "wb_india_inflation_cpi": [
+    {
+     "period": "Q4 FY60",
+     "value": 1.7798778467739,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY61",
+     "value": 1.69521293914432,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY62",
+     "value": 3.63221497106987,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY63",
+     "value": 2.94616135685225,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY64",
+     "value": 13.3552611508153,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY65",
+     "value": 9.47475859170695,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY66",
+     "value": 10.801848348934,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY67",
+     "value": 13.0622024777969,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY68",
+     "value": 3.23741242627507,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY69",
+     "value": -0.584136610466281,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY70",
+     "value": 5.09226161997544,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY71",
+     "value": 3.07993868406546,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY72",
+     "value": 6.44209746158234,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY73",
+     "value": 16.9408159791736,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY74",
+     "value": 28.5987340775089,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY75",
+     "value": 5.74843029767442,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY76",
+     "value": -7.6339476339288,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY77",
+     "value": 8.30747009171166,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY78",
+     "value": 2.52304875695178,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY79",
+     "value": 6.27568336762337,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY80",
+     "value": 11.3460734795095,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY81",
+     "value": 13.1125468976419,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY82",
+     "value": 7.89074279377487,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY83",
+     "value": 11.8680812986733,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY84",
+     "value": 8.31890711860072,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY85",
+     "value": 5.55642423236554,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY86",
+     "value": 8.72972072702581,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY87",
+     "value": 8.80112581251833,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY88",
+     "value": 9.38347186185335,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY89",
+     "value": 7.07428002942296,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY90",
+     "value": 8.97123250273255,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY91",
+     "value": 13.8702461773683,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY92",
+     "value": 11.7878170418133,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY93",
+     "value": 6.32689048779867,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY94",
+     "value": 10.2479355556118,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY95",
+     "value": 10.2248861637545,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY96",
+     "value": 8.97715233826452,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY97",
+     "value": 7.16425211462721,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY98",
+     "value": 13.2308389767977,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY99",
+     "value": 4.66982038037589,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY00",
+     "value": 4.0094359104519,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY01",
+     "value": 3.77929312235637,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY02",
+     "value": 4.29715203929561,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY03",
+     "value": 3.80585899528852,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY04",
+     "value": 3.76725173477517,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY05",
+     "value": 4.24634362031923,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY06",
+     "value": 5.79652337561633,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY07",
+     "value": 6.37288135593231,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY08",
+     "value": 8.34926704907574,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY09",
+     "value": 10.8823529411764,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY10",
+     "value": 11.9893899204244,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY11",
+     "value": 8.9117933648336,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY12",
+     "value": 9.47899691419792,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY13",
+     "value": 10.0178784746104,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY14",
+     "value": 6.66565671867899,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY15",
+     "value": 4.90697344127249,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY16",
+     "value": 4.94821634062134,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY17",
+     "value": 3.32817337461304,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY18",
+     "value": 3.93882646691642,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY19",
+     "value": 3.72950573539123,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY20",
+     "value": 6.62343677628529,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY21",
+     "value": 5.13140747176363,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY22",
+     "value": 6.69903414079857,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY23",
+     "value": 5.64914318907925,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY24",
+     "value": 4.9530355097366,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY25",
+     "value": 2.39884954182294,
+     "unit": "percent",
+     "locator": "series:wb_india_inflation_cpi",
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Britannia Industries Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": -8.369736526451291,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -9.2556261797777,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.393235624158681,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.39157989441790925,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.4227866446410916,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.4171811478995721,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.4108114423381013,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 42.49871466021831,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 44.97012606826653,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 60.22395515529541,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 63.36272820809502,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 9.355503968625802,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 9.136975960050789,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.07093475821435846,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.09471295696008264,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c6616a64364ccac7",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Dabur India Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": -3.112449734925974,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -15.283579945483666,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.46678962878161506,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.4703428910467664,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.483821111938516,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.48318641746927277,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.47349769816623677,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 139.08329523014328,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 134.92776687960563,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 170.84295853047593,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 171.69940895107925,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 28.64721356540666,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 21.488062125989952,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.0734521967111168,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.10568410787821114,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/DABUR.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "3d56affcfae6ad75",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "ITC Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": 141.17815575577578,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 230.0047491645481,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.5773903718400822,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.5213346976759855,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.5773903718400822,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.6733577667113471,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.5320871811794079,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 171.66899214031486,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 299.06697286023405,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 52.11272102394496,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 89.36758466849821,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 21.62188463940589,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 20.30536097281224,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": -0.11493736394380227,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": -0.1109833794430618,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/ITC.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "c1078a2d18c0e379",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Marico Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 30.22563389886669,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 34.55683708697845,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.4628997205836697,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 0.42647903503733486,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.43539722929035907,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.44944494449444944,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.46626231993934797,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 73.01827741612419,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 80.11103542234332,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 86.4521782674011,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 81.25476839237058,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": 43.65953475014359,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 35.7005700570057,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q2 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.22850046569388383,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/MARICO.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "7a86a7a2a9142587",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Nestle India Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": 22.736989865874776,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.5206346234332665,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.5499668897665728,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.5554494358131096,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.5714498991870532,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 99.59189671480158,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 82.93780467257153,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 6.082897823644735,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.2541033039282927,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "d4a640d14618ea35",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  },
+  "Tata Consumer Products Limited": {
+   "cash_conversion_cycle": [
+    {
+     "period": "Q4 FY25",
+     "value": 20.338268205327054,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 9.318936294753698,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": null,
+     "evidence_id": null,
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "gross_margin": [
+    {
+     "period": "Q4 FY25",
+     "value": 0.41930955779936735,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": 0.4009721882186524,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": 0.42777386541471046,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.4126585959268407,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.4266295000074782,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "inventory_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 122.7304709829518,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 100.83908579020428,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "payable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 119.6116753781949,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 110.80473555410025,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "receivable_days": [
+    {
+     "period": "Q4 FY25",
+     "value": 17.21947260057016,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 19.284586058649666,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": null,
+     "unit": "days",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ],
+   "revenue_growth_yoy": [
+    {
+     "period": "Q4 FY25",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q3 FY26",
+     "value": null,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q4 FY26",
+     "value": 0.17885889586524395,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    },
+    {
+     "period": "Q1 FY27",
+     "value": 0.11926778282076866,
+     "unit": "ratio",
+     "locator": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials#table 1 (aggregator quarterly statements)",
+     "evidence_id": "b1aa761d70f8c7a0",
+     "is_proxy": false,
+     "note": ""
+    }
+   ]
+  }
+ },
+ "benchmark": {
+  "entity": "Hindustan Unilever Limited",
+  "peers": [
+   "Britannia Industries Limited",
+   "Dabur India Limited",
+   "ITC Limited",
+   "Marico Limited",
+   "Nestle India Limited",
+   "Tata Consumer Products Limited"
+  ],
+  "comparisons": [
+   {
+    "metric": "cash_conversion_cycle",
+    "company": {
+     "first": -61.76002244480506,
+     "last": -76.77037818328985,
+     "relative_change": -0.2430432364544483,
+     "slope": -15.010355738484776,
+     "direction": "down",
+     "n": 2
+    },
+    "peer_median_change": -0.10584438954878543,
+    "peers_same_direction": 3,
+    "peers_total": 5,
+    "industry": null,
+    "verdict": "mixed",
+    "note": "3/5 peers moved the same way (short series: company has only 2 points, treat as weak)"
+   },
+   {
+    "metric": "gross_margin",
+    "company": {
+     "first": 0.5057724391057724,
+     "last": 0.4906308193668529,
+     "relative_change": -0.029937613377452064,
+     "slope": -0.0029444572750639895,
+     "direction": "flat",
+     "n": 5
+    },
+    "peer_median_change": 0.015913889826220433,
+    "peers_same_direction": 0,
+    "peers_total": 6,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   {
+    "metric": "inventory_days",
+    "company": {
+     "first": 54.39761679719147,
+     "last": 53.74446562538433,
+     "relative_change": -0.012006981376449942,
+     "slope": -0.6531511718071413,
+     "direction": "flat",
+     "n": 2
+    },
+    "peer_median_change": 0.05815261538631022,
+    "peers_same_direction": 0,
+    "peers_total": 5,
+    "industry": null,
+    "verdict": "company_specific",
+    "note": "company flat; nothing to attribute to the sector (short series: company has only 2 points, treat as weak)"
+   },
+   {
+    "metric": "payable_days",
+    "company": {
+     "first": 139.41314474750203,
+     "last": 149.53957077850202,
+     "relative_change": 0.07263609216577432,
+     "slope": 10.126426030999983,
+     "direction": "up",
+     "n": 2
+    },
+    "peer_median_change": 0.005013085865347766,
+    "peers_same_direction": 2,
+    "peers_total": 5,
+    "industry": null,
+    "verdict": "mixed",
+    "note": "2/5 peers moved the same way (short series: company has only 2 points, treat as weak)"
+   },
+   {
+    "metric": "receivable_days",
+    "company": {
+     "first": 23.255505505505507,
+     "last": 19.02472696982785,
+     "relative_change": -0.18192588996511228,
+     "slope": -4.2307785356776595,
+     "direction": "down",
+     "n": 2
+    },
+    "peer_median_change": -0.060888478897638966,
+    "peers_same_direction": 3,
+    "peers_total": 5,
+    "industry": null,
+    "verdict": "mixed",
+    "note": "3/5 peers moved the same way (short series: company has only 2 points, treat as weak)"
+   },
+   {
+    "metric": "revenue_growth_yoy",
+    "company": {
+     "first": 0.08154821488154829,
+     "last": 0.10302330059695741,
+     "relative_change": 0.26334219267218123,
+     "slope": 0.021475085715409122,
+     "direction": "up",
+     "n": 2
+    },
+    "peer_median_change": 0.1848067222988027,
+    "peers_same_direction": 2,
+    "peers_total": 4,
+    "industry": null,
+    "verdict": "mixed",
+    "note": "2/4 peers moved the same way (short series: company has only 2 points, treat as weak)"
+   }
+  ],
+  "overall": "mixed",
+  "warnings": []
+ },
+ "coverage": {
+  "coverage_score": 0.576,
+  "sufficient": true,
+  "components": {
+   "source_types": 0.412,
+   "quarters": 0.625,
+   "metrics_disclosed": 0.667,
+   "peer_data": 1.0,
+   "outside_evidence": 1.0
+  },
+  "source_types_found": [
+   "gov_macro",
+   "news",
+   "results"
+  ],
+  "source_types_missing": [
+   "annual_report",
+   "filing",
+   "presentation",
+   "transcript"
+  ],
+  "quarters_covered": 5,
+  "metrics_disclosed": [
+   "receivable_days",
+   "inventory_days",
+   "revenue_growth_yoy",
+   "gross_margin"
+  ],
+  "metrics_missing": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy"
+  ],
+  "proxies_used": [],
+  "peers_with_data": 6,
+  "has_outside_company_evidence": true,
+  "official_filings_found": false,
+  "missing_quarters": [
+   "Q2 FY25",
+   "Q3 FY25",
+   "Q2 FY26"
+  ],
+  "warnings": [
+   "only 5 quarters of data (target 8)",
+   "metrics not available: volume_growth_yoy, price_mix_growth_yoy",
+   "no official filing was read: quarterly figures come from an unofficial aggregator or third parties (tier 3 or lower)",
+   "missing quarters in the latest 8: Q2 FY25, Q3 FY25, Q2 FY26"
+  ]
+ },
+ "say_vs_do": [],
+ "disclosure_changes": [],
+ "triangulation": [],
+ "evidence": [
+  {
+   "id": "3d56affcfae6ad75",
+   "title": "Dabur India Limited: quarterly statements from data aggregator (DABUR.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 28301400000.0 | 34045800000.0 | 35586500000.0 | 30380200000.0 | 37643900000.0\nCost of goods sold | 15090600000.0 | 18032600000.0 | 18369000000.0 | 15700900000.0 | 19819600000.0\nEBITDA | 5680300000.0 | 8113900000.0 | 8594200000.0 | 6358500000.0 | 9134500000.0\nTrade receivables | 8885000000.0 | - | - | 7154100000.0 | -\nInventories | 23001100000.0 | - | - | 23216300000.0 | -\nTrade payables | 28253400000.0 | - | - | 29543400000.0 | -",
+   "url": "https://finance.yahoo.com/quote/DABUR.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.279366Z",
+   "entity": "Dabur India Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "2e838b92db82d9061035",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "40cd20d717120392",
+   "title": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL",
+   "text": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL: Q4 FY18=165.451; Q4 FY19=171.622; Q4 FY20=182.989; Q4 FY21=192.379; Q4 FY22=205.266; Q4 FY23=216.862; Q4 FY24=227.603; Q4 FY25=233.063 (index)",
+   "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL?format=json&per_page=100",
+   "source_type": "gov_macro",
+   "source_tier": 2,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.357563Z",
+   "entity": "industry",
+   "role": "industry",
+   "period": "Q4 FY18",
+   "locator": "series:wb_india_cpi_index",
+   "origin_hash": "0c38f423a76c955ffd89",
+   "claims": [],
+   "publisher": "api.worldbank.org",
+   "independent": true,
+   "flags": [
+    "price_index"
+   ]
+  },
+  {
+   "id": "4274751be7ec0e68",
+   "title": "Hindustan Unilever Limited: quarterly statements from data aggregator (HINDUNILVR.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 149850000000.0 | 155790000000.0 | 162350000000.0 | 162070000000.0 | 171840000000.0\nCost of goods sold | 74060000000.0 | 78290000000.0 | 79910000000.0 | 81310000000.0 | 87530000000.0\nEBITDA | 37930000000.0 | 37150000000.0 | 33440000000.0 | 43480000000.0 | 40600000000.0\nTrade receivables | 38190000000.0 | - | - | 33790000000.0 | -\nInventories | 44150000000.0 | - | - | 47890000000.0 | -\nTrade payables | 113150000000.0 | - | - | 133250000000.0 | -",
+   "url": "https://finance.yahoo.com/quote/HINDUNILVR.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.266806Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "5f0b51949616a274e69b",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "7a86a7a2a9142587",
+   "title": "Marico Limited: quarterly statements from data aggregator (MARICO.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | - | 32210000000.0 | 34820000000.0 | 35370000000.0 | 33330000000.0 | 39570000000.0\nCost of goods sold | - | 17300000000.0 | 19970000000.0 | 19970000000.0 | 18350000000.0 | 21120000000.0\nEBITDA | - | 7110000000.0 | 6090000000.0 | 6310000000.0 | 5810000000.0 | 8670000000.0\nTrade receivables | 12710000000.0 | - | 16660000000.0 | - | 13040000000.0 | -\nInventories | 12350000000.0 | - | 15980000000.0 | - | 16110000000.0 | -\nTrade payables | 13060000000.0 | - | 18920000000.0 | - | 16340000000.0 | -",
+   "url": "https://finance.yahoo.com/quote/MARICO.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.306977Z",
+   "entity": "Marico Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "4176c6a41673b7131b37",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "b1aa761d70f8c7a0",
+   "title": "Tata Consumer Products Limited: quarterly statements from data aggregator (TATACONSUM.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 46092200000.0 | 47789100000.0 | 51120000000.0 | 54336200000.0 | 53488800000.0\nCost of goods sold | 26765300000.0 | 28627000000.0 | 29252200000.0 | 31913900000.0 | 30668900000.0\nEBITDA | 7227800000.0 | 6481100000.0 | 7308200000.0 | 8477700000.0 | 7960800000.0\nTrade receivables | 8697900000.0 | - | - | 11483300000.0 | -\nInventories | 35999100000.0 | - | - | 35267600000.0 | -\nTrade payables | 35084300000.0 | - | - | 38753000000.0 | -",
+   "url": "https://finance.yahoo.com/quote/TATACONSUM.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.312785Z",
+   "entity": "Tata Consumer Products Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "0cdc03035c786bdc564b",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "c1078a2d18c0e379",
+   "title": "ITC Limited: quarterly statements from data aggregator (ITC.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 199182400000.0 | 213729300000.0 | 199182400000.0 | 176288900000.0 | 190008900000.0\nCost of goods sold | 84176400000.0 | 102304800000.0 | 84176400000.0 | 57583400000.0 | 88907600000.0\nEBITDA | 72043700000.0 | 75674400000.0 | 72043700000.0 | 76237500000.0 | 63283600000.0\nTrade receivables | 47196700000.0 | - | - | 39228600000.0 | -\nInventories | 158361400000.0 | - | - | 188726500000.0 | -\nTrade payables | 48073000000.0 | - | - | 56395500000.0 | -",
+   "url": "https://finance.yahoo.com/quote/ITC.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.294435Z",
+   "entity": "ITC Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "caec7dd4fdecc24eb7b5",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "c6616a64364ccac7",
+   "title": "Britannia Industries Limited: quarterly statements from data aggregator (BRITANNIA.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 43755700000.0 | 45348600000.0 | 48852300000.0 | 46859500000.0 | 49643700000.0\nCost of goods sold | 26549400000.0 | 27591000000.0 | 28198200000.0 | 27310600000.0 | 29249500000.0\nEBITDA | 8635400000.0 | 8092100000.0 | 10367900000.0 | 8890200000.0 | 8997300000.0\nTrade receivables | 4486100000.0 | - | - | 4692100000.0 | -\nInventories | 12365100000.0 | - | - | 13459300000.0 | -\nTrade payables | 17522300000.0 | - | - | 18964100000.0 | -",
+   "url": "https://finance.yahoo.com/quote/BRITANNIA.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.276891Z",
+   "entity": "Britannia Industries Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "5b56c978e288b9a1350a",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "d4a640d14618ea35",
+   "title": "Nestle India Limited: quarterly statements from data aggregator (NESTLEIND.NS)",
+   "text": "Particulars | Q4 FY25 | Q1 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27\nRevenue from operations | 54476400000.0 | 50739600000.0 | 56435200000.0 | - | 63632700000.0\nCost of goods sold | 26114100000.0 | 22834500000.0 | 25088300000.0 | - | 27269800000.0\nEBITDA | 13810300000.0 | 10916600000.0 | 13510900000.0 | - | 15379300000.0\nTrade receivables | 3631500000.0 | - | - | - | -\nInventories | 28501400000.0 | - | - | - | -\nTrade payables | 23735300000.0 | - | - | - | -",
+   "url": "https://finance.yahoo.com/quote/NESTLEIND.NS/financials",
+   "source_type": "results",
+   "source_tier": 3,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.308544Z",
+   "entity": "Nestle India Limited",
+   "role": "peer",
+   "period": "Q1 FY27",
+   "locator": "table 1 (aggregator quarterly statements)",
+   "origin_hash": "1afec1e17dee41fd65cc",
+   "claims": [],
+   "publisher": "finance.yahoo.com",
+   "independent": true,
+   "flags": [
+    "aggregator",
+    "unofficial_data"
+   ]
+  },
+  {
+   "id": "eb5d9afc01f4ac06",
+   "title": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG",
+   "text": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG: Q4 FY18=3.93883; Q4 FY19=3.72951; Q4 FY20=6.62344; Q4 FY21=5.13141; Q4 FY22=6.69903; Q4 FY23=5.64914; Q4 FY24=4.95304; Q4 FY25=2.39885 (percent)",
+   "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+   "source_type": "gov_macro",
+   "source_tier": 2,
+   "date": null,
+   "fetched_at": "2026-10-19T01:48:56.395559Z",
+   "entity": "industry",
+   "role": "industry",
+   "period": "Q4 FY18",
+   "locator": "series:wb_india_inflation_cpi",
+   "origin_hash": "ac37be32584a1e1b4e07",
+   "claims": [],
+   "publisher": "api.worldbank.org",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "10c0f5156285abd6",
+   "title": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %",
+   "text": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %",
+   "url": "https://www.adgully.com/post/18541/hul-reports-10-revenue-growth-in-q1-fy27-ebitda-rises-8",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-07-28",
+   "fetched_at": "2026-10-19T01:49:42.380811Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q1 FY27",
+   "locator": "gdelt",
+   "origin_hash": "52b403e699bb0a8b4b0b",
+   "claims": [],
+   "publisher": "adgully.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "d3070a432e73c365",
+   "title": "Bajaj Finance Shares Surge | Top 10 Indian Companies Market Cap Update",
+   "text": "Bajaj Finance Shares Surge | Top 10 Indian Companies Market Cap Update",
+   "url": "https://divyamarathi.bhaskar.com/business/news/bajaj-finance-shares-surge-top-10-indian-companies-market-cap-update-138609829.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-02",
+   "fetched_at": "2026-10-19T01:49:42.361413Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "2290b528e981f8f4df4f",
+   "claims": [],
+   "publisher": "divyamarathi.bhaskar.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "83e1189725685089",
+   "title": "Honasa Consumer appoints Nilesh Kotalwar as Chief Marketing Officer",
+   "text": "Honasa Consumer appoints Nilesh Kotalwar as Chief Marketing Officer",
+   "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/honasa-consumer-appoints-nilesh-kotalwar-as-chief-marketing-officer-12236572",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-06",
+   "fetched_at": "2026-10-19T01:49:42.379096Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "172ecc0f77608f5ba392",
+   "claims": [],
+   "publisher": "bestmediainfo.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "8c330fc56b4c6f35",
+   "title": "Sensex Gains 374 Points on Crude Ease , RBI Stance",
+   "text": "Sensex Gains 374 Points on Crude Ease , RBI Stance",
+   "url": "https://www.newkerala.com/news/a/indian-markets-end-higher-easing-crude-prices-rbi-394.htm",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-06",
+   "fetched_at": "2026-10-19T01:49:42.377049Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "2c1d9e015bfff129566a",
+   "claims": [],
+   "publisher": "newkerala.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "a5122faf931fdfcc",
+   "title": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts",
+   "text": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts",
+   "url": "https://news.webindia123.com/news/Articles/Business/20260806/4483993.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-06",
+   "fetched_at": "2026-10-19T01:49:42.375885Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "8e8925e1f318c6f6b2f1",
+   "claims": [],
+   "publisher": "news.webindia123.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "0362ad0975ef2dbe",
+   "title": "This week in ads : The week most talked about brand campaigns",
+   "text": "This week in ads : The week most talked about brand campaigns",
+   "url": "https://www.adgully.com/post/19036/this-week-in-ads-the-weeks-most-talked-about-brand-campaigns",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-08",
+   "fetched_at": "2026-10-19T01:49:42.375138Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "0c3817acc0f4b907bff1",
+   "claims": [],
+   "publisher": "adgully.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "c8538c83ba4e67b0",
+   "title": "India FMCG Price Hike ; Daily Use Products Costly Due To Inflation",
+   "text": "India FMCG Price Hike ; Daily Use Products Costly Due To Inflation",
+   "url": "https://divyamarathi.bhaskar.com/business/news/india-fmcg-products-price-hike-inflation-news-138676629.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-09",
+   "fetched_at": "2026-10-19T01:49:42.360321Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "e9520502c7b586bdd9cd",
+   "claims": [],
+   "publisher": "divyamarathi.bhaskar.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "2a738ca7fefca836",
+   "title": "Godrej Consumer Products appoints Aasif Malbari as MD & CEO",
+   "text": "Godrej Consumer Products appoints Aasif Malbari as MD & CEO",
+   "url": "https://www.adgully.com/post/19160/godrej-consumer-products-appoints-aasif-malbari-as-md-ceo",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-11",
+   "fetched_at": "2026-10-19T01:49:42.380044Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "8dba510b5966d2f8216c",
+   "claims": [],
+   "publisher": "adgully.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "7f2850194a68b66b",
+   "title": "Sudhir Sitapati Steps Down as GCPL Chief Executive Days After Reappointment ; Aasif Malbari Named Successor",
+   "text": "Sudhir Sitapati Steps Down as GCPL Chief Executive Days After Reappointment ; Aasif Malbari Named Successor",
+   "url": "https://www.moneylife.in/article/sudhir-sitapati-steps-down-as-gcpl-chief-executive-days-after-reappointment-aasif-malbari-named-successor/81325.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-12",
+   "fetched_at": "2026-10-19T01:49:42.378147Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "3d7016c8f2a08198772a",
+   "claims": [],
+   "publisher": "moneylife.in",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "ce8e123769487f99",
+   "title": "India FMCG CEO churn : Six of 10 new consumer chiefs have held marketing leadership roles",
+   "text": "India FMCG CEO churn : Six of 10 new consumer chiefs have held marketing leadership roles",
+   "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/indias-fmcg-ceo-churn-six-of-10-new-consumer-chiefs-have-held-marketing-leadership-roles-12253474",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-12",
+   "fetched_at": "2026-10-19T01:49:42.376251Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "4b8e440355f129565111",
+   "claims": [],
+   "publisher": "bestmediainfo.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "6229e9478a99c88e",
+   "title": "Nifty , Sensex end mixed amid geopolitical uncertainty",
+   "text": "Nifty , Sensex end mixed amid geopolitical uncertainty",
+   "url": "https://www.thehindu.com/business/markets/nifty-sensex-end-mixed-amid-geopolitical-uncertainty/article71340829.ece",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-13",
+   "fetched_at": "2026-10-19T01:49:42.380313Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "37e0106c7ed8c9fe28d8",
+   "claims": [],
+   "publisher": "thehindu.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "c6d575088195b542",
+   "title": "Sensex surges over 400 Points , Nifty above 24 , 200 ending 7 - day losing streak on positive global cues",
+   "text": "Sensex surges over 400 Points , Nifty above 24 , 200 ending 7 - day losing streak on positive global cues",
+   "url": "https://aninews.in/news/business/sensex-surges-over-400-points-nifty-above-24200-ending-7-day-losing-streak-on-positive-global-cues20260820094904/",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-20",
+   "fetched_at": "2026-10-19T01:49:42.375551Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "446d0f5d6085028293bb",
+   "claims": [],
+   "publisher": "aninews.in",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "45806347018be5b8",
+   "title": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+   "text": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+   "url": "https://www.freepressjournal.in/business/sensex-nifty-open-marginally-higher-to-end-losing-streak",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-21",
+   "fetched_at": "2026-10-19T01:49:42.378789Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "6e5685c3b3b1a90e5690",
+   "claims": [],
+   "publisher": "freepressjournal.in",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "dbd69fb2d75869fb",
+   "title": "Why Vishal Mega Mart share price is rising today ? Stock hits the upper circuit",
+   "text": "Why Vishal Mega Mart share price is rising today ? Stock hits the upper circuit",
+   "url": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-08-24",
+   "fetched_at": "2026-10-19T01:49:42.374742Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "457b2c82468ef031b94d",
+   "claims": [],
+   "publisher": "livemint.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "e9c1006a9dbfac9d",
+   "title": "Delhi HC directs Beco to pull down ad campaign against HUL Surf Excel , Vim",
+   "text": "Delhi HC directs Beco to pull down ad campaign against HUL Surf Excel , Vim",
+   "url": "https://www.moneycontrol.com/news/business/delhi-hc-directs-beco-to-pull-down-ad-campaign-against-hul-s-surf-excel-vim-14027430.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-09-10",
+   "fetched_at": "2026-10-19T01:49:42.379414Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "7508b6444ff1d05b2e77",
+   "claims": [],
+   "publisher": "moneycontrol.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "816792e102ea89af",
+   "title": "Delhi High Court Orders Beco to Recall Misleading Ads Targeting HUL Products , ETRetail",
+   "text": "Delhi High Court Orders Beco to Recall Misleading Ads Targeting HUL Products , ETRetail",
+   "url": "https://retail.economictimes.indiatimes.com/news/industry/delhi-hc-directs-beco-to-pull-down-ad-campaign-against-huls-surf-excel-vim/134041209",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-09-11",
+   "fetched_at": "2026-10-19T01:49:42.377398Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "0d98f2d3a2f0dd8e6061",
+   "claims": [],
+   "publisher": "retail.economictimes.indiatimes.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "23606c5419bab555",
+   "title": "Sensex , Nifty end lower after volatile session ; pharma , healthcare , metal stocks drag",
+   "text": "Sensex , Nifty end lower after volatile session ; pharma , healthcare , metal stocks drag",
+   "url": "https://aninews.in/news/business/sensex-nifty-end-lower-after-volatile-session-pharma-healthcare-metal-stocks-drag20260930160717/",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-09-30",
+   "fetched_at": "2026-10-19T01:49:42.378488Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "6fed3e0a98721bee3da9",
+   "claims": [],
+   "publisher": "aninews.in",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "b66a425592145326",
+   "title": "News - Daily Kesari",
+   "text": "News - Daily Kesari",
+   "url": "https://www.dailykesari.com/News/61903/%E0%A4%B6%E0%A5%87%E0%A4%85%E0%A4%B0-%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%98%E0%A4%B8%E0%A4%B0%E0%A4%A3-%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%AE--",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-09-30",
+   "fetched_at": "2026-10-19T01:49:42.380599Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "e6c1e5188860e4eb5630",
+   "claims": [],
+   "publisher": "dailykesari.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "d546ff61dd248fe6",
+   "title": "Success Story Of HUL Hindustan Unilever ; \u0938\u093e\u092c\u0923\u093e\u091a\u094d\u092f\u093e \u0906\u092f\u093e\u0924\u0940\u0935\u0930\u0942\u0928 \u091d\u093e\u0932\u0940 \u0938\u0941\u0930\u0941\u0935\u093e\u0924 , \u0906\u091c \u0938\u093e\u092a\u0921\u0924\u094b \u0926\u0947\u0936\u093e\u0924\u0932\u094d\u092f\u093e \u0918\u0930\u093e\u0918\u0930\u093e\u0924 ! HUL \u0928\u0947 \u092d\u093e\u0930\u0924\u093e\u0924 \u0915\u0938\u093e \u0935\u093f\u0938\u094d\u0924\u093e\u0930\u0932\u093e \u0935\u094d\u092f\u0935\u0938\u093e\u092f ?",
+   "text": "Success Story Of HUL Hindustan Unilever ; \u0938\u093e\u092c\u0923\u093e\u091a\u094d\u092f\u093e \u0906\u092f\u093e\u0924\u0940\u0935\u0930\u0942\u0928 \u091d\u093e\u0932\u0940 \u0938\u0941\u0930\u0941\u0935\u093e\u0924 , \u0906\u091c \u0938\u093e\u092a\u0921\u0924\u094b \u0926\u0947\u0936\u093e\u0924\u0932\u094d\u092f\u093e \u0918\u0930\u093e\u0918\u0930\u093e\u0924 ! HUL \u0928\u0947 \u092d\u093e\u0930\u0924\u093e\u0924 \u0915\u0938\u093e \u0935\u093f\u0938\u094d\u0924\u093e\u0930\u0932\u093e \u0935\u094d\u092f\u0935\u0938\u093e\u092f ?",
+   "url": "https://maharashtratimes.com/business/business-news/success-story-of-hul-hindustan-unilever-how-britain-company-started-in-india/articleshow/134573821.cms",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-09-30",
+   "fetched_at": "2026-10-19T01:49:42.376790Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q2 FY27",
+   "locator": "gdelt",
+   "origin_hash": "cd703943d16e35961375",
+   "claims": [],
+   "publisher": "maharashtratimes.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "4a0bb76b5c087bb8",
+   "title": "Stock markets fall for fourth day on relentless foreign fund outflows ; Sensex drops 570 points",
+   "text": "Stock markets fall for fourth day on relentless foreign fund outflows ; Sensex drops 570 points",
+   "url": "https://www.thehindu.com/business/markets/india-sensex-nifty-stock-markets-falls-foreign-fund-outflows/article71532585.ece",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-01",
+   "fetched_at": "2026-10-19T01:49:42.377764Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "545cb8fbad0abc3da41f",
+   "claims": [],
+   "publisher": "thehindu.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "c9a3d16bf53bc77e",
+   "title": "Stock markets fall for 4th day on relentless\u00a0 foreign fund outflows ; Sensex drops 570 points",
+   "text": "Stock markets fall for 4th day on relentless\u00a0 foreign fund outflows ; Sensex drops 570 points",
+   "url": "https://www.dailyexcelsior.com/stock-markets-fall-for-4th-day-on-relentless-foreign-fund-outflows-sensex-drops-570-points/",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-01",
+   "fetched_at": "2026-10-19T01:49:42.379781Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "d9eab716349e8a3c766d",
+   "claims": [],
+   "publisher": "dailyexcelsior.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "29d5b563f74ec2a8",
+   "title": "In uncommon move , Hindustan Unilever appoints its GC Dev Bajpai into board directorship",
+   "text": "In uncommon move , Hindustan Unilever appoints its GC Dev Bajpai into board directorship",
+   "url": "https://www.legallyindia.com/in-house-counsel/in-uncommon-move-hindustan-unilever-appoints-its-gc-dev-bajpai-into-board-directorship-20170202-8271/",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-17",
+   "fetched_at": "2026-10-19T01:49:42.367807Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "6fb65448c2a281694e87",
+   "claims": [],
+   "publisher": "legallyindia.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "43d62727816286a3",
+   "title": "FSSAI cracks down on FMCG giants Nestl\u00e9 India and HUL over misleading labels , safety violations",
+   "text": "FSSAI cracks down on FMCG giants Nestl\u00e9 India and HUL over misleading labels , safety violations",
+   "url": "https://www.businesstoday.in/india/story/fssai-cracks-down-on-fmcg-giants-nestle-india-and-hul-over-misleading-labels-safety-violations-562269-2026-10-17",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-17",
+   "fetched_at": "2026-10-19T01:49:42.364633Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "5df27a817a769520793a",
+   "claims": [],
+   "publisher": "businesstoday.in",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "fe6f84214ebce40d",
+   "title": "Licence suspension : Nestl\u00e9 India and Hindustan Unilever face FSSAI notices over alleged misleading claims , non - compliance",
+   "text": "Licence suspension : Nestl\u00e9 India and Hindustan Unilever face FSSAI notices over alleged misleading claims , non - compliance",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/food/nestl-india-and-hindustan-unilever-face-fssai-notices-over-alleged-misleading-claims-non-compliance/articleshow/135016192.cms",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-17",
+   "fetched_at": "2026-10-19T01:49:42.361898Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "6e869454a3c08795ee5d",
+   "claims": [],
+   "publisher": "economictimes.indiatimes.com",
+   "independent": true,
+   "flags": []
+  },
+  {
+   "id": "893d848f22e7f4fe",
+   "title": "Women Horlicks , Nescafe And More : FSSAI Issues Notices To HUL And Nestle India Over Labelling",
+   "text": "Women Horlicks , Nescafe And More : FSSAI Issues Notices To HUL And Nestle India Over Labelling",
+   "url": "https://www.oneindia.com/india/womens-horlicks-nescafe-and-more-fssai-issues-notices-to-hul-and-nestle-india-over-labelling-8239115.html",
+   "source_type": "news",
+   "source_tier": 4,
+   "date": "2026-10-18",
+   "fetched_at": "2026-10-19T01:49:42.361041Z",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "period": "Q3 FY27",
+   "locator": "gdelt",
+   "origin_hash": "066885720469930a5a72",
+   "claims": [],
+   "publisher": "oneindia.com",
+   "independent": true,
+   "flags": []
+  }
+ ],
+ "plan": {
+  "archetype": "packaged_staples",
+  "angles_considered": [
+   "Distribution shift",
+   "Growth quality",
+   "Margin and cost",
+   "Working capital"
+  ],
+  "hypotheses": [
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "tests": [
+     {
+      "metric": [
+       "gross_margin"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat"
+     }
+    ],
+    "matters": [
+     "Growth that costs margin changes how durable the earnings are."
+    ],
+    "angle": "margin_cost",
+    "angle_label": "Margin and cost",
+    "results": [
+     {
+      "metric": "gross_margin",
+      "expect": "down",
+      "available": true,
+      "direction": "flat",
+      "first": 0.5057724391057724,
+      "last": 0.4906308193668529,
+      "score": 0.25,
+      "is_proxy": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "revenue_growth_yoy"
+      ],
+      "expect": "up_or_flat",
+      "available": false
+     }
+    ],
+    "support": 0.25,
+    "coverage": 0.5,
+    "status": "partial",
+    "rank_score": 0.2003,
+    "metrics": [
+     "gross_margin"
+    ],
+    "rank": 1
+   }
+  ],
+  "untestable": [
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "tests": [
+     {
+      "metric": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down"
+     },
+     {
+      "metric": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "Price-led growth is harder to sustain than volume-led growth and can hide weakening demand."
+    ],
+    "angle": "growth_quality",
+    "angle_label": "Growth quality",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "volume_growth_yoy"
+      ],
+      "expect": "down",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "price_share_of_growth",
+       "price_mix_growth_yoy"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 2
+   },
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "tests": [
+     {
+      "metric": [
+       "receivable_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "volume_growth_yoy",
+       "revenue_growth_yoy"
+      ],
+      "expect": "down"
+     }
+    ],
+    "matters": [
+     "Receivable days are in the filings before they reach the news, so lenders and suppliers can see stretch early.",
+     "A volume-led growth story should not need longer payment terms."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "receivable_days"
+      ],
+      "expect": "up",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "volume_growth_yoy",
+       "revenue_growth_yoy"
+      ],
+      "expect": "down",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 3
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "tests": [
+     {
+      "metric": [
+       "inventory_days"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "revenue_growth_yoy",
+       "volume_growth_yoy"
+      ],
+      "expect": "down_or_flat"
+     }
+    ],
+    "matters": [
+     "Inventory piling up ahead of weaker sales often precedes discounting and margin pressure."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "inventory_days"
+      ],
+      "expect": "up",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "revenue_growth_yoy",
+       "volume_growth_yoy"
+      ],
+      "expect": "down_or_flat",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 4
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "tests": [
+     {
+      "metric": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up"
+     },
+     {
+      "metric": [
+       "receivable_days",
+       "inventory_days"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A longer cash cycle ties up more money for the same sales."
+    ],
+    "angle": "working_capital",
+    "angle_label": "Working capital",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "cash_conversion_cycle"
+      ],
+      "expect": "up",
+      "available": false
+     },
+     {
+      "metric": null,
+      "wanted": [
+       "receivable_days",
+       "inventory_days"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 5
+   },
+   {
+    "id": "mix_shift",
+    "statement": "Sales are shifting between channels or segments",
+    "tests": [
+     {
+      "metric": [
+       "mix_*"
+      ],
+      "expect": "up"
+     }
+    ],
+    "matters": [
+     "A shift in channel or segment mix changes margins and receivable risk."
+    ],
+    "angle": "distribution_shift",
+    "angle_label": "Distribution shift",
+    "results": [
+     {
+      "metric": null,
+      "wanted": [
+       "mix_*"
+      ],
+      "expect": "up",
+      "available": false
+     }
+    ],
+    "support": 0.0,
+    "coverage": 0.0,
+    "status": "untestable",
+    "rank_score": 0.0,
+    "metrics": [],
+    "rank": 6
+   }
+  ],
+  "collect_requests": [
+   {
+    "metric": "volume_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   },
+   {
+    "metric": "price_mix_growth_yoy",
+    "reason": "needed by at least one hypothesis"
+   }
+  ],
+  "missing_metrics": [
+   "volume_growth_yoy",
+   "price_mix_growth_yoy"
+  ]
+ },
+ "claims": [
+  {
+   "text": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL: Q4 FY18=165.451; Q4 FY19=171.622; Q4 FY20=182.989; Q4 FY21=192.379; Q4 FY22=205.266; Q4 FY23=216.862; Q4 FY24=227.603; Q4 FY25=233.063 (index)",
+   "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL?format=json&per_page=100",
+   "evidence_id": "40cd20d717120392",
+   "entity": "industry",
+   "role": "industry",
+   "source_type": "gov_macro",
+   "topic": "price",
+   "direction": null,
+   "period": "Q4 FY18",
+   "date": "2018-03-31",
+   "locator": "series:wb_india_cpi_index",
+   "tier": 2,
+   "independent": true,
+   "quote": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL: Q4 FY18=165.451; Q4 FY19=171.622; Q4 FY20=182.989; Q4 FY21=192.379; Q4 FY22=205.266; Q4 FY23=216.862; Q4 FY24=227.603; Q4 FY25=233.063 (index)"
+  },
+  {
+   "text": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG: Q4 FY18=3.93883; Q4 FY19=3.72951; Q4 FY20=6.62344; Q4 FY21=5.13141; Q4 FY22=6.69903; Q4 FY23=5.64914; Q4 FY24=4.95304; Q4 FY25=2.39885 (percent)",
+   "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+   "evidence_id": "eb5d9afc01f4ac06",
+   "entity": "industry",
+   "role": "industry",
+   "source_type": "gov_macro",
+   "topic": "price",
+   "direction": null,
+   "period": "Q4 FY18",
+   "date": "2018-03-31",
+   "locator": "series:wb_india_inflation_cpi",
+   "tier": 2,
+   "independent": true,
+   "quote": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG: Q4 FY18=3.93883; Q4 FY19=3.72951; Q4 FY20=6.62344; Q4 FY21=5.13141; Q4 FY22=6.69903; Q4 FY23=5.64914; Q4 FY24=4.95304; Q4 FY25=2.39885 (percent)"
+  },
+  {
+   "text": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %",
+   "url": "https://www.adgully.com/post/18541/hul-reports-10-revenue-growth-in-q1-fy27-ebitda-rises-8",
+   "evidence_id": "10c0f5156285abd6",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "source_type": "news",
+   "topic": "demand",
+   "direction": "up",
+   "period": "Q1 FY27",
+   "date": "2026-07-28",
+   "locator": "gdelt",
+   "tier": 4,
+   "independent": true,
+   "quote": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %"
+  },
+  {
+   "text": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts",
+   "url": "https://news.webindia123.com/news/Articles/Business/20260806/4483993.html",
+   "evidence_id": "a5122faf931fdfcc",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "source_type": "news",
+   "topic": "price",
+   "direction": "up",
+   "period": "Q2 FY27",
+   "date": "2026-08-06",
+   "locator": "gdelt",
+   "tier": 4,
+   "independent": true,
+   "quote": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts"
+  },
+  {
+   "text": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+   "url": "https://www.freepressjournal.in/business/sensex-nifty-open-marginally-higher-to-end-losing-streak",
+   "evidence_id": "45806347018be5b8",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "source_type": "news",
+   "topic": "margin",
+   "direction": "up",
+   "period": "Q2 FY27",
+   "date": "2026-08-21",
+   "locator": "gdelt",
+   "tier": 4,
+   "independent": true,
+   "quote": "Sensex , Nifty Open Marginally Higher To End Losing Streak"
+  },
+  {
+   "text": "Why Vishal Mega Mart share price is rising today ?",
+   "url": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
+   "evidence_id": "dbd69fb2d75869fb",
+   "entity": "Hindustan Unilever Limited",
+   "role": "company",
+   "source_type": "news",
+   "topic": "price",
+   "direction": "up",
+   "period": "Q2 FY27",
+   "date": "2026-08-24",
+   "locator": "gdelt",
+   "tier": 4,
+   "independent": true,
+   "quote": "Why Vishal Mega Mart share price is rising today ?"
+  }
+ ],
+ "timeline": {
+  "change_points": [],
+  "primary_change_point": null,
+  "events": [
+   {
+    "date": "2018-03-31",
+    "period": "Q4 FY18",
+    "kind": "claim",
+    "label": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL: Q4 FY18=165.451; Q4 FY19=171.622; Q4 FY20=182.989; Q4 FY21=192.379; Q4 FY22=205.266; Q4 FY23=216.862; Q4 FY24=227.603; Q4 FY2",
+    "metric": null,
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL?format=json&per_page=100",
+    "locator": "series:wb_india_cpi_index",
+    "evidence_id": "40cd20d717120392",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2018-03-31",
+    "period": "Q4 FY18",
+    "kind": "claim",
+    "label": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG: Q4 FY18=3.93883; Q4 FY19=3.72951; Q4 FY20=6.62344; Q4 FY21=5.13141; Q4 FY22=6.69903; Q4 FY23=5.64914; Q4 FY24=4.95304;",
+    "metric": null,
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+    "locator": "series:wb_india_inflation_cpi",
+    "evidence_id": "eb5d9afc01f4ac06",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2026-07-28",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %",
+    "metric": null,
+    "url": "https://www.adgully.com/post/18541/hul-reports-10-revenue-growth-in-q1-fy27-ebitda-rises-8",
+    "locator": "gdelt",
+    "evidence_id": "10c0f5156285abd6",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-06",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts",
+    "metric": null,
+    "url": "https://news.webindia123.com/news/Articles/Business/20260806/4483993.html",
+    "locator": "gdelt",
+    "evidence_id": "a5122faf931fdfcc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-21",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+    "metric": null,
+    "url": "https://www.freepressjournal.in/business/sensex-nifty-open-marginally-higher-to-end-losing-streak",
+    "locator": "gdelt",
+    "evidence_id": "45806347018be5b8",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-24",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Why Vishal Mega Mart share price is rising today ?",
+    "metric": null,
+    "url": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
+    "locator": "gdelt",
+    "evidence_id": "dbd69fb2d75869fb",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "span": {
+   "first": "Q4 FY25",
+   "last": "Q1 FY27"
+  }
+ },
+ "contradictions": [],
+ "skeptic_runs": [
+  {
+   "hypothesis_id": "margin_squeeze",
+   "verdict": "rejected",
+   "reasons": [
+    "the numbers do not show the pattern the hypothesis predicts"
+   ],
+   "sector": {
+    "verdict": "company_specific",
+    "peers_same_direction": 0,
+    "peers_total": 6,
+    "note": "company flat; nothing to attribute to the sector"
+   },
+   "rounds": [
+    {
+     "round": 1,
+     "predictions": [
+      "If this is right, Gross margin should keep moving down.",
+      "If this is company-specific, most peers should NOT show the same pattern."
+     ],
+     "queries": [
+      "Gross margin rose improved packaged staples"
+     ],
+     "counter_found": 1,
+     "independent_counter": 1,
+     "sector": "company_specific",
+     "verdict": "rejected",
+     "reasons": [
+      "the numbers do not show the pattern the hypothesis predicts"
+     ]
+    }
+   ],
+   "counter_evidence": [
+    {
+     "text": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+     "url": "https://www.freepressjournal.in/business/sensex-nifty-open-marginally-higher-to-end-losing-streak",
+     "locator": "gdelt",
+     "period": "Q2 FY27",
+     "role": "company",
+     "source_type": "news",
+     "independent": true,
+     "evidence_id": "45806347018be5b8",
+     "topic": "margin"
+    }
+   ],
+   "warnings": []
+  }
+ ],
+ "skeptic": null,
+ "falsification": null,
+ "counterargument": null,
+ "score": null,
+ "discovery": {
+  "discovery": "No non-obvious finding survived testing on the available evidence.",
+  "why_it_matters": [
+   "Weak or single-source claims are labelled Weak or not shown.",
+   "Missing disclosures are reported as gaps, not filled with guesses.",
+   "Coverage warnings explain what data would be needed.",
+   "only 5 quarters of data (target 8)",
+   "metrics not available: volume_growth_yoy, price_mix_growth_yoy"
+  ],
+  "evidence": [],
+  "timeline": [
+   {
+    "date": "2018-03-31",
+    "period": "Q4 FY18",
+    "kind": "claim",
+    "label": "India consumer price index (2010 = 100), World Bank indicator FP.CPI.TOTL: Q4 FY18=165.451; Q4 FY19=171.622; Q4 FY20=182.989; Q4 FY21=192.379; Q4 FY22=205.266; Q4 FY23=216.862; Q4 FY24=227.603; Q4 FY2",
+    "metric": null,
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL?format=json&per_page=100",
+    "locator": "series:wb_india_cpi_index",
+    "evidence_id": "40cd20d717120392",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2018-03-31",
+    "period": "Q4 FY18",
+    "kind": "claim",
+    "label": "India inflation, consumer prices (annual %), World Bank indicator FP.CPI.TOTL.ZG: Q4 FY18=3.93883; Q4 FY19=3.72951; Q4 FY20=6.62344; Q4 FY21=5.13141; Q4 FY22=6.69903; Q4 FY23=5.64914; Q4 FY24=4.95304;",
+    "metric": null,
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+    "locator": "series:wb_india_inflation_cpi",
+    "evidence_id": "eb5d9afc01f4ac06",
+    "role": "industry",
+    "primary": false
+   },
+   {
+    "date": "2026-07-28",
+    "period": "Q1 FY27",
+    "kind": "claim",
+    "label": "HUL reports 10 % revenue growth in Q1 FY27 , EBITDA rises 8 %",
+    "metric": null,
+    "url": "https://www.adgully.com/post/18541/hul-reports-10-revenue-growth-in-q1-fy27-ebitda-rises-8",
+    "locator": "gdelt",
+    "evidence_id": "10c0f5156285abd6",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-06",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Indian markets end higher on easing crude prices , RBI policy support ; Sensex gains 374 pts",
+    "metric": null,
+    "url": "https://news.webindia123.com/news/Articles/Business/20260806/4483993.html",
+    "locator": "gdelt",
+    "evidence_id": "a5122faf931fdfcc",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-21",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Sensex , Nifty Open Marginally Higher To End Losing Streak",
+    "metric": null,
+    "url": "https://www.freepressjournal.in/business/sensex-nifty-open-marginally-higher-to-end-losing-streak",
+    "locator": "gdelt",
+    "evidence_id": "45806347018be5b8",
+    "role": "company",
+    "primary": false
+   },
+   {
+    "date": "2026-08-24",
+    "period": "Q2 FY27",
+    "kind": "claim",
+    "label": "Why Vishal Mega Mart share price is rising today ?",
+    "metric": null,
+    "url": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
+    "locator": "gdelt",
+    "evidence_id": "dbd69fb2d75869fb",
+    "role": "company",
+    "primary": false
+   }
+  ],
+  "numbers": [],
+  "counterargument": {
+   "title": "Insufficient data",
+   "text": "only 5 quarters of data (target 8); metrics not available: volume_growth_yoy, price_mix_growth_yoy; no official filing was read: quarterly figures come from an unofficial aggregator or third parties (tier 3 or lower); missing quarters in the latest 8: Q2 FY25, Q3 FY25, Q2 FY26",
+   "strength": 0.0,
+   "others": []
+  },
+  "falsification": {
+   "conditions": [],
+   "statement": "Not applicable: no finding to reverse.",
+   "window": ""
+  },
+  "evidence_strength": {
+   "rating": "Weak",
+   "total": 0.0,
+   "components": {},
+   "reasoning": [
+    "No hypothesis survived testing; the data may be too thin or the pattern is sector-wide."
+   ]
+  },
+  "hypothesis_id": null,
+  "disclaimer": "Research findings for a human to verify; not investment advice or a recommendation."
+ },
+ "check_problems": [],
+ "events": [
+  {
+   "stage": 1,
+   "name": "Company intake and peers",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "Hindustan Unilever Limited: archetype packaged_staples, 6 peers"
+  },
+  {
+   "stage": 2,
+   "name": "Angle planning",
+   "status": "done",
+   "seconds": 0.001,
+   "summary": "1 testable hypotheses; top: Gross margin is eroding even though growth is reported as healthy"
+  },
+  {
+   "stage": 3,
+   "name": "Evidence collection",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "34 evidence items (gov_macro 2, news 25, results 7)"
+  },
+  {
+   "stage": 4,
+   "name": "Quantitative engine",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "6 company metrics, 6 peers with data"
+  },
+  {
+   "stage": 5,
+   "name": "Timeline builder",
+   "status": "done",
+   "seconds": 0.02,
+   "summary": "no change point detected"
+  },
+  {
+   "stage": 6,
+   "name": "Triangulation",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "0 claim clusters, 0 meet the 2-independent-type rule"
+  },
+  {
+   "stage": 7,
+   "name": "Say vs do and contradictions",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "0 contradictions flagged"
+  },
+  {
+   "stage": 8,
+   "name": "Peer and sector test",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "overall mixed; 2 company-specific, 0 sector-wide metrics"
+  },
+  {
+   "stage": 9,
+   "name": "Skeptic loop",
+   "status": "done",
+   "seconds": 0.037,
+   "summary": "no hypothesis survived"
+  },
+  {
+   "stage": 10,
+   "name": "Falsification condition",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "nothing to falsify"
+  },
+  {
+   "stage": 11,
+   "name": "Scoring and Evidence Strength",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "Weak: no surviving finding"
+  },
+  {
+   "stage": 12,
+   "name": "Discovery writer",
+   "status": "done",
+   "seconds": 0.0,
+   "summary": "8-element check passed"
+  }
+ ],
+ "extras": {
+  "language_drift": {
+   "periods": [],
+   "themes": {
+    "volume": [],
+    "pricing": [],
+    "quick commerce": [],
+    "rural": [],
+    "channel": [],
+    "cost": []
+   }
+  },
+  "peer_heatmap": {
+   "entities": [
+    "Hindustan Unilever Limited",
+    "Britannia Industries Limited",
+    "Dabur India Limited",
+    "ITC Limited",
+    "Marico Limited",
+    "Nestle India Limited",
+    "Tata Consumer Products Limited"
+   ],
+   "metrics": [
+    "gross_margin"
+   ],
+   "labels": [
+    "Gross margin"
+   ],
+   "z": [
+    [
+     -0.69,
+     0.51,
+     0.11,
+     -1.8,
+     -0.01,
+     1.73,
+     0.14
+    ]
+   ],
+   "text": [
+    [
+     "-1.5 pp",
+     "+1.8 pp",
+     "+0.7 pp",
+     "-4.5 pp",
+     "+0.3 pp",
+     "+5.1 pp",
+     "+0.7 pp"
+    ]
+   ]
+  },
+  "why_not": [
+   {
+    "id": "price_led",
+    "statement": "Reported growth is increasingly price-led while underlying volume weakens",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (price_mix_growth_yoy, price_share_of_growth, volume_growth_yoy)"
+   },
+   {
+    "id": "channel_stretch",
+    "statement": "Growth is being supported by looser distributor credit: receivable days rise while volume growth fades",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (receivable_days, revenue_growth_yoy, volume_growth_yoy)"
+   },
+   {
+    "id": "inventory_buildup",
+    "statement": "Inventory is building faster than sales",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (inventory_days, revenue_growth_yoy, volume_growth_yoy)"
+   },
+   {
+    "id": "cash_cycle",
+    "statement": "The cash conversion cycle is lengthening",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (cash_conversion_cycle, inventory_days, receivable_days)"
+   },
+   {
+    "id": "mix_shift",
+    "statement": "Sales are shifting between channels or segments",
+    "outcome": "untestable",
+    "reason": "the metric(s) needed were not disclosed or not collected (mix_*)"
+   },
+   {
+    "id": "margin_squeeze",
+    "statement": "Gross margin is eroding even though growth is reported as healthy",
+    "outcome": "rejected",
+    "reason": "the numbers do not show the pattern the hypothesis predicts"
+   }
+  ],
+  "falsification_monitor": null
+ }
+}

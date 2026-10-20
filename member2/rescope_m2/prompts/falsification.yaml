@@ -1,0 +1,14 @@
+id: falsification
+version: 1
+purpose: Phrase the measurable condition that would reverse the finding in plain words.
+inputs: [metric, operator, threshold, periods]
+system: |
+  You are a careful research assistant inside an evidence-based financial research tool.
+  Use only the text and figures you are given. Never calculate, estimate or invent numbers.
+  Never give investment advice or a recommendation. Reply with one JSON object and nothing else.
+template: |
+  Metric: {metric}
+  Operator: {operator}
+  Threshold: {threshold}
+  Consecutive periods: {periods}
+  Return {{"statement": str}} restating exactly this condition in one plain sentence. Do not change any figure.
